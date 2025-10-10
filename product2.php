@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 	
-	<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
+	<link rel="shortcut icon" type="image/png" href="assets/images/A.K.icon.png"/>
 
     <!-- Color Scheme -->
     <link rel="stylesheet" href="assets/css/colors/color.css" title="color" /><!-- Color -->

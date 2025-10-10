@@ -3,7 +3,7 @@
     <div class="container">
       <div class="ftr-dta remove-ext5">
         <div class="row">
-          <div class="col-md-5 col-sm-12 col-lg-5">
+          <div class="col-md-7 col-sm-12 col-lg-6">
             <div class="row">
               <div class="col-md-5 col-sm-5 col-lg-5">
                 <div class="wdgt-bx">
@@ -81,123 +81,13 @@
               </div>
             </div>
           </div>
-          <div class="col-md-7 col-sm-12 col-lg-7">
+          <div class="col-md-6 col-sm-12 col-lg-6">
             <div class="row">
-              <div class="col-md-7 col-sm-7 col-lg-7">
-                <div class="wdgt-bx">
-                  <h5 itemprop="headline">Latest Work</h5>
-                  <div class="wrk-glry-wrp">
-                    <ul class="wrk-gal-mn">
-                      <li>
-                        <img
-                          src="assets/images/resources/wrk-gal-img1.jpg"
-                          alt="wrk-gal-img1.jpg"
-                          itemprop="image"
-                        />
-                      </li>
-                      <li>
-                        <img
-                          src="assets/images/resources/wrk-gal-img2.jpg"
-                          alt="wrk-gal-img2.jpg"
-                          itemprop="image"
-                        />
-                      </li>
-                      <li>
-                        <img
-                          src="assets/images/resources/wrk-gal-img3.jpg"
-                          alt="wrk-gal-img3.jpg"
-                          itemprop="image"
-                        />
-                      </li>
-                      <li>
-                        <img
-                          src="assets/images/resources/wrk-gal-img4.jpg"
-                          alt="wrk-gal-img4.jpg"
-                          itemprop="image"
-                        />
-                      </li>
-                      <li>
-                        <img
-                          src="assets/images/resources/wrk-gal-img5.jpg"
-                          alt="wrk-gal-img5.jpg"
-                          itemprop="image"
-                        />
-                      </li>
-                      <li>
-                        <img
-                          src="assets/images/resources/wrk-gal-img6.jpg"
-                          alt="wrk-gal-img6.jpg"
-                          itemprop="image"
-                        />
-                      </li>
-                    </ul>
-                    <ul class="wrk-gal-nv">
-                      <li>
-                        <div class="wrk-gal-nv-itm">
-                          <img
-                            src="assets/images/resources/wrk-gal-nv-img1.jpg"
-                            alt="wrk-gal-nv-img1.jpg"
-                            itemprop="image"
-                          />
-                        </div>
-                      </li>
-                      <li>
-                        <div class="wrk-gal-nv-itm">
-                          <img
-                            src="assets/images/resources/wrk-gal-nv-img2.jpg"
-                            alt="wrk-gal-nv-img2.jpg"
-                            itemprop="image"
-                          />
-                        </div>
-                      </li>
-                      <li>
-                        <div class="wrk-gal-nv-itm">
-                          <img
-                            src="assets/images/resources/wrk-gal-nv-img3.jpg"
-                            alt="wrk-gal-nv-img3.jpg"
-                            itemprop="image"
-                          />
-                        </div>
-                      </li>
-                      <li>
-                        <div class="wrk-gal-nv-itm">
-                          <img
-                            src="assets/images/resources/wrk-gal-nv-img4.jpg"
-                            alt="wrk-gal-nv-img4.jpg"
-                            itemprop="image"
-                          />
-                        </div>
-                      </li>
-                      <li>
-                        <div class="wrk-gal-nv-itm">
-                          <img
-                            src="assets/images/resources/wrk-gal-nv-img5.jpg"
-                            alt="wrk-gal-nv-img5.jpg"
-                            itemprop="image"
-                          />
-                        </div>
-                      </li>
-                      <li>
-                        <div class="wrk-gal-nv-itm">
-                          <img
-                            src="assets/images/resources/wrk-gal-nv-img6.jpg"
-                            alt="wrk-gal-nv-img6.jpg"
-                            itemprop="image"
-                          />
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                  <!-- Work Gallery Wrap -->
-                </div>
-              </div>
-              <div class="col-md-5 col-sm-5 col-lg-5">
+              <div class="col-md-12 col-sm-12 col-lg-12">
                 <div class="wdgt-bx">
                   <h5 itemprop="headline">About Us</h5>
                   <p itemprop="description">
-                    Firebrigade Team all at once, conec tetur adipisicing elit,
-                    sed do eiusd tempor incididunt ut labore dolore magna aliqua
-                    tempor.
+                    <strong>A.K. Fire Engineering</strong> specializes in delivering high-quality <strong>firefighting equipment</strong> and <strong>rescue solutions</strong>. Our team ensures that every property and life is protected with advanced <strong>fire safety systems</strong>, including <strong>landing valves</strong>, <strong>hose pipes</strong>, <strong>portable extinguishers</strong>, and <strong>automatic sprinklers</strong>.
                   </p>
                   <div class="loc-mp" id="loc-mp"></div>
                   <span

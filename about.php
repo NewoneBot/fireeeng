@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 	
-	<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
+	<link rel="shortcut icon" type="image/png" href="assets/images/A.K.icon.png"/>
 
     <!-- Color Scheme -->
     <link rel="stylesheet" href="assets/css/colors/color.css" title="color" /><!-- Color -->
@@ -42,7 +42,7 @@
                     <div class="pg-tp-wrp">
                         <h1 itemprop="headline">About Us</h1>
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html" title="" itemprop="url">Home</a></li>
+                            <li class="breadcrumb-item"><a href="index.php" title="" itemprop="url">Home</a></li>
                             <li class="breadcrumb-item active">About Us</li>
                         </ol>
                     </div><!-- Page Top Wrap -->
@@ -50,257 +50,268 @@
             </div>
         </section>
         <section>
-            <div class="gap">
-                <div class="container">
-                    <div class="abt-sec">
-                        <div class="row">
-                            <div class="col-md-7 col-sm-12 col-lg-7">
-                                <div class="abt-cnt">
-                                    <div class="sec-tl">
-                                        <span>We provide best fire protection & rescue system</span>
-                                        <h2 itemprop="headline">Firebrigade & Rescue</h2>
-                                    </div><!-- Sec Title -->
-                                    <div class="abt-desc">
-                                        <p itemprop="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        <h3 itemprop="headline">Fire Protection Services</h3>
-                                        <ul>
-                                            <li>Bstsunt in culpa qui officia deserunt mollit anim id est laborum.</li>
-                                            <li>Mstsunt in culpa qui officia deserunt mollit anim id est laborumanim id est laborum.</li>
-                                            <li>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut incididunt.</li>
-                                            <li>Qculpa qui officia deserunt mollit anim id estanim id est laborum.</li>
-                                        </ul>
-                                        <a class="theme-btn brd-rd5" href="about.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
+    <div class="gap">
+        <div class="container">
+            <div class="abt-sec">
+                <div class="row">
+                    <!-- About Text -->
+                    <div class="col-md-7 col-sm-12 col-lg-7">
+                        <div class="abt-cnt">
+                            <div class="sec-tl">
+                                <span>We provide the best <strong>fire protection & rescue systems</strong></span>
+                                <h2 itemprop="headline"><strong>Fire Brigade & Rescue Services</strong></h2>
+                            </div><!-- Sec Title -->
+                            <div class="abt-desc">
+                                <p itemprop="description">
+                                    <strong>A.K. Fire Engineering</strong> specializes in delivering high-quality <strong>firefighting equipment</strong> and <strong>rescue solutions</strong>. Our team ensures that every property and life is protected with advanced <strong>fire safety systems</strong>, including <strong>landing valves</strong>, <strong>hose pipes</strong>, <strong>portable extinguishers</strong>, and <strong>automatic sprinklers</strong>.
+                                </p>
+                                <h3 itemprop="headline"><strong>Our Fire Protection Services</strong></h3>
+                                <ul>
+                                    <li>Installation of <strong>fire hydrants and landing valves</strong> for residential and commercial buildings.</li>
+                                    <li>Supply of <strong>portable fire extinguishers</strong> including ABC, CO₂, Water, and Foam types.</li>
+                                    <li>Deployment of <strong>fire hose pipes, nozzles, and branch pipes</strong> for effective firefighting.</li>
+                                    <li>Setup of <strong>automatic sprinkler and alarm systems</strong> for rapid fire detection and suppression.</li>
+                                </ul>
                             </div>
-                            <div class="col-md-5 col-sm-12 col-lg-5">
-                                <div class="abt-img">
-                                    <img class="abt-img1" src="assets/images/resources/abt-img1.jpg" alt="abt-img1.jpg" itemprop="image">
-                                    <img  src="assets/images/resources/abt-img2.jpg" alt="abt-img2.jpg" itemprop="image">
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- About Sec -->
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="gap theme-bg-layer opc9 hlf-parallax">
-                <div class="fixed-bg" style="background-image: url(assets/images/parallax1.jpg);"></div>
-                <div class="sec-tl text-center">
-                    <span>We provide you with practical actions, advice and resources.</span>
-                    <h2 itemprop="headline">Operational Videos</h2>
-                </div><!-- Sec Title -->
-                <div class="vdo-sec-wrp">
-                    <div class="vdo-car owl-carousel">
-                        <div class="vdo-bx">
-                            <img src="assets/images/resources/vdo-img1-1.jpg" alt="vdo-img1-1.jpg" itemprop="image">
-                            <a href="https://www.youtube.com/embed/s4PrBQpw2TU" data-fancybox="gallery" title="" itemprop="url"><i class="flaticon-play-button"></i></a>
-                        </div>
-                        <div class="vdo-bx">
-                            <img src="assets/images/resources/vdo-img1-2.jpg" alt="vdo-img1-2.jpg" itemprop="image">
-                            <a href="https://www.youtube.com/embed/s4PrBQpw2TU" data-fancybox="gallery" title="" itemprop="url"><i class="flaticon-play-button"></i></a>
-                        </div>
-                        <div class="vdo-bx">
-                            <img src="assets/images/resources/vdo-img1-3.jpg" alt="vdo-img1-3.jpg" itemprop="image">
-                            <a href="https://www.youtube.com/embed/s4PrBQpw2TU" data-fancybox="gallery" title="" itemprop="url"><i class="flaticon-play-button"></i></a>
-                        </div>
-                        <div class="vdo-bx">
-                            <img src="assets/images/resources/vdo-img1-4.jpg" alt="vdo-img1-4.jpg" itemprop="image">
-                            <a href="https://www.youtube.com/embed/s4PrBQpw2TU" data-fancybox="gallery" title="" itemprop="url"><i class="flaticon-play-button"></i></a>
-                        </div>
-                        <div class="vdo-bx">
-                            <img src="assets/images/resources/vdo-img1-5.jpg" alt="vdo-img1-5.jpg" itemprop="image">
-                            <a href="https://www.youtube.com/embed/s4PrBQpw2TU" data-fancybox="gallery" title="" itemprop="url"><i class="flaticon-play-button"></i></a>
                         </div>
                     </div>
-                </div><!-- Video Sec Wrap -->
-            </div>
-        </section>
+                    <!-- About Images -->
+                    <div class="col-md-5 col-sm-12 col-lg-5">
+                        <div class="abt-img">
+                            <img class="abt-img1" src="assets/images/resources/abt-img1.jpg" alt="Fire protection equipment" itemprop="image" style="width:100%; height:auto;">
+                            <img src="assets/images/resources/abt-img2.jpg" alt="Fire rescue system" itemprop="image" style="width:100%; height:auto;">
+                        </div>
+                    </div>
+                </div>
+            </div><!-- About Sec -->
+        </div>
+    </div>
+</section>
+
         <section>
-            <div class="gap remove-gap">
-                <div class="container">
-                    <div class="sec-tl">
-                        <span>We provide best fire protection & rescue systems in the world</span>
-                        <h2 itemprop="headline">Frequently Ask Questions</h2>
-                    </div><!-- Sec Title -->
-                    <div class="faq-wrp remove-ext5">
-                        <div class="row">
-                            <div class="col-md-6 col-sm-12 col-lg-6">
-                                <div id="toggle" class="toggle">
-                                    <div class="toggle-item brd-rd3 activate">
-                                        <h6 itemprop="headline" class="active">Which mechanism is not a way to transfer heat?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">How do you motivate others?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">Do you have bingo at my fire station?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">How do I arrange to tour a fire station?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">Why does a fire engine come when requested you?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
+    <div class="gap theme-bg-layer opc9 hlf-parallax">
+        <div class="fixed-bg" style="background-image: url(assets/images/parallax1.jpg);"></div>
+        <div class="sec-tl text-center">
+            <span>Top Quality Fire Safety Products from <strong>A.K. Fire Engineering</strong></span>
+            <h2 itemprop="headline">Our Products</h2>
+        </div><!-- Sec Title -->
+
+        <div class="vdo-sec-wrp">
+            <div class="vdo-car owl-carousel">
+                <div class="vdo-bx">
+                    <img src="assets/images/products/product1_01.png" alt="vdo-img1-1" itemprop="image"
+                         style="width:350px; height:200px; object-fit:cover;">
+                </div>
+                <div class="vdo-bx">
+                    <img src="assets/images/products/product1_02.png" alt="vdo-img1-2" itemprop="image"
+                         style="width:350px; height:200px; object-fit:cover;">
+                </div>
+                <div class="vdo-bx">
+                    <img src="assets/images/products/product2_01.png" alt="vdo-img1-3" itemprop="image"
+                         style="width:350px; height:200px; object-fit:cover;">
+                </div>
+                <div class="vdo-bx">
+                    <img src="assets/images/products/product2_02.png" alt="vdo-img1-4" itemprop="image"
+                         style="width:350px; height:200px; object-fit:cover;">
+                </div>
+                <div class="vdo-bx">
+                    <img src="assets/images/products/product2_03.png" alt="vdo-img1-5" itemprop="image"
+                         style="width:350px; height:200px; object-fit:cover;">
+                </div>
+            </div>
+        </div><!-- Video Sec Wrap -->
+    </div>
+</section>
+
+        <section>
+    <div class="gap remove-gap">
+        <div class="container">
+            <div class="sec-tl">
+                <span>We provide the best <strong>fire protection & rescue systems</strong> in the world</span>
+                <h2 itemprop="headline">Frequently Asked Questions</h2>
+            </div><!-- Sec Title -->
+
+            <div class="faq-wrp remove-ext5">
+                <div class="row">
+                    <!-- Left Column -->
+                    <div class="col-md-6 col-sm-12 col-lg-6">
+                        <div id="toggle" class="toggle">
+                            <div class="toggle-item brd-rd3 activate">
+                                <h6 itemprop="headline" class="active">
+                                    What types of <strong>fire extinguishers</strong> do you provide?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        <strong>A.K. Fire Engineering</strong> offers a wide range of <strong>portable fire extinguishers</strong> including ABC, CO₂, Water, and Foam types suitable for homes, offices, and industrial setups.
+                                    </p>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-sm-12 col-lg-6">
-                                <div id="toggle2" class="toggle">
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">How will this change affect CFA volunteers?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">How will these changes affect fire trucks emergency?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">How do I pay for the service?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3">
-                                        <h6 itemprop="headline">Who will clean my home?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
-                                    <div class="toggle-item brd-rd3 activate">
-                                        <h6 itemprop="headline" class="active">Will presumptive rights be available to all fire fighters?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></h6>
-                                        <div class="toggle-content">
-                                            <p itemprop="description">We are wholly committed to the prevention, preparedness, response and recovery phases of emergency situations, providing a diverse range of risk reduction, fire suppression and incident management services to minimise.</p>
-                                        </div>
-                                    </div>
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    How do I select the right <strong>fire hydrant system</strong> for my building?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        Our experts help you choose the appropriate <strong>fire hydrants, landing valves, hoses, and nozzles</strong> based on building size, occupancy type, and fire safety regulations.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    Do you provide <strong>automatic sprinkler systems</strong>?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        Yes, we supply and install <strong>UL/FM listed automatic sprinklers</strong> and alarm systems to ensure rapid fire detection and suppression.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    Can I get <strong>fire safety training</strong> for my staff?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        We offer <strong>fire prevention and safety training programs</strong> for organizations to educate staff on proper usage of fire equipment and emergency response procedures.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    Do you provide <strong>maintenance services</strong> for fire equipment?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        Yes, we provide regular <strong>inspection and maintenance</strong> of extinguishers, hydrants, hoses, and sprinkler systems to ensure they function perfectly during emergencies.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="gap black-layer opc8">
-                <div class="fixed-bg" style="background-image: url(assets/images/para-new.png);"></div>
-                <div class="container">
-                    <div class="shrt-fcts-wrp">
-                        <div class="row">
-							
-                            <div class="col-md-5 col-sm-12 col-lg-5">
-							<img class ="facts-mockup animated bounce" src = "assets/images/fact-mockup.png">
-							</div>
-                            <div class="col-md-6 col-sm-12 col-lg-6">
-                                <div class="fcts-wrp">
-                                    <div class="sec-tl">
-                                        <span>Youth Fire Stop Prevention & Intervention Program.</span>
-                                        <h2 itemprop="headline">Few Facts About Naar</h2>
-                                    </div><!-- Sec Title -->
-                                    <p itemprop="description">Every live, every property we save does matter, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                                    <ul class="fcts-lst">
-                                        <li><span class="counter">369</span><h6 itemprop="headline">Emergencies</h6></li>
-                                        <li><span class="counter">421</span><h6 itemprop="headline">Traffic Crashes</h6></li>
-                                        <li><span class="counter">275</span><h6 itemprop="headline">Fire Emergencies</h6></li>
-                                        <li><span class="counter">50</span><h6 itemprop="headline">Year of Experience</h6></li>
-                                    </ul>
+
+                    <!-- Right Column -->
+                    <div class="col-md-6 col-sm-12 col-lg-6">
+                        <div id="toggle2" class="toggle">
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    How can I order <strong>fire safety products</strong> from A.K. Fire Engineering?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        Orders can be placed online, via phone, or by visiting our office. Our team will assist you with product selection, quotations, and delivery schedules.
+                                    </p>
                                 </div>
                             </div>
-							<div class="col-md-1 col-sm-12 col-lg-1"></div>
-                        </div>
-                    </div><!-- Short Facts Wrap -->
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="gap">
-                <div class="container">
-                    <div class="sec-tl text-center">
-                        <span>Fire Fighters are always ready to help and care</span>
-                        <h2 itemprop="headline">Best Firefighters</h2>
-                    </div><!-- Sec Title -->
-                    <div class="tem-sec remove-ext5 text-center">
-                        <div class="row">
-                            <div class="col-md-4 col-sm-6 col-lg-4">
-                                <div class="tm-bx2">
-                                    <div class="tm-thmb">
-                                        <img src="assets/images/resources/tm-img2-1.jpg" alt="tm-img2-1.jpg" itemprop="image">
-                                        <h4 itemprop="headline"><i class="fas fa-plus"></i> Neil Tim</h4>
-                                    </div>
-                                    <div class="tm-inf2">
-                                        <h5 itemprop="headline"><a href="team-detail.html" title="" itemprop="url">Neil Tim</a></h5>
-                                        <span>Rescue Doctor</span>
-                                        <p itemprop="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ullamco laboris.</p>
-                                        <div class="scl4">
-                                            <a class="twitter" href="#" title="Twitter" itemprop="url" target="_blank"><i class="fab fa-twitter"></i></a>
-                                            <a class="facebook" href="#" title="Facebook" itemprop="url" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                            <a class="linkedin" href="#" title="Linkedin" itemprop="url" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                            <a class="google" href="#" title="Google Plus" itemprop="url" target="_blank"><i class="fab fa-google-plus-g"></i></a>
-                                        </div>
-                                    </div>
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    Are your <strong>fire fighting accessories</strong> compliant with standards?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        All our products comply with national and international <strong>fire safety standards</strong>, including UL, FM, and BIS certifications.
+                                    </p>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-lg-4">
-                                <div class="tm-bx2">
-                                    <div class="tm-thmb">
-                                        <img src="assets/images/resources/tm-img2-2.jpg" alt="tm-img2-2.jpg" itemprop="image">
-                                        <h4 itemprop="headline"><i class="fas fa-plus"></i> Kith Fox</h4>
-                                    </div>
-                                    <div class="tm-inf2">
-                                        <h5 itemprop="headline"><a href="team-detail.html" title="" itemprop="url">Kith Fox</a></h5>
-                                        <span>Rescue Doctor</span>
-                                        <p itemprop="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ullamco laboris.</p>
-                                        <div class="scl4">
-                                            <a class="twitter" href="#" title="Twitter" itemprop="url" target="_blank"><i class="fab fa-twitter"></i></a>
-                                            <a class="facebook" href="#" title="Facebook" itemprop="url" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                            <a class="linkedin" href="#" title="Linkedin" itemprop="url" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                            <a class="google" href="#" title="Google Plus" itemprop="url" target="_blank"><i class="fab fa-google-plus-g"></i></a>
-                                        </div>
-                                    </div>
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    Can you customize <strong>fire safety systems</strong> for industries?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        Absolutely. We provide <strong>tailor-made fire protection solutions</strong> for industrial facilities, warehouses, and commercial buildings.
+                                    </p>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-lg-4">
-                                <div class="tm-bx2">
-                                    <div class="tm-thmb">
-                                        <img src="assets/images/resources/tm-img2-3.jpg" alt="tm-img2-3.jpg" itemprop="image">
-                                        <h4 itemprop="headline"><i class="fas fa-plus"></i> John Doe</h4>
-                                    </div>
-                                    <div class="tm-inf2">
-                                        <h5 itemprop="headline"><a href="team-detail.html" title="" itemprop="url">John Doe</a></h5>
-                                        <span>Rescue Doctor</span>
-                                        <p itemprop="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ullamco laboris.</p>
-                                        <div class="scl4">
-                                            <a class="twitter" href="#" title="Twitter" itemprop="url" target="_blank"><i class="fab fa-twitter"></i></a>
-                                            <a class="facebook" href="#" title="Facebook" itemprop="url" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                            <a class="linkedin" href="#" title="Linkedin" itemprop="url" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                            <a class="google" href="#" title="Google Plus" itemprop="url" target="_blank"><i class="fab fa-google-plus-g"></i></a>
-                                        </div>
-                                    </div>
+                            <div class="toggle-item brd-rd3">
+                                <h6 itemprop="headline">
+                                    Do you offer <strong>emergency response services</strong>?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        Yes, our trained team can respond quickly to fire emergencies, minimizing damage and ensuring safety.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="toggle-item brd-rd3 activate">
+                                <h6 itemprop="headline" class="active">
+                                    How do I schedule a <strong>fire safety inspection</strong>?
+                                    <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                                </h6>
+                                <div class="toggle-content">
+                                    <p itemprop="description">
+                                        You can contact us online or by phone to book an <strong>inspection of your fire safety equipment and systems</strong>. Our experts will provide a detailed report and recommendations.
+                                    </p>
                                 </div>
                             </div>
                         </div>
-                    </div><!-- Team Sec -->
+                    </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
+
+    
+
+        <section>
+    <div class="gap">
+        <div class="container">
+            <div class="text-center mb-5">
+                <span>Top Quality Fire Safety Equipment from <strong>A.K. Fire Engineering</strong></span>
+                <h2 class="mt-2" itemprop="headline">
+                    Top Selling <span class="theme-clr">Products</span>
+                </h2>
+            </div>
+
+            <div class="row g-4 text-center">
+                <!-- Product 1 -->
+                <div class="col-md-4 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/products/product1_01.png" alt="Single Landing Valve Type (A)" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Single Landing Valve Type (A)</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 2 -->
+                <div class="col-md-4 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/products/product1_02.png" alt="Double Landing Valve Type (B)" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Double Landing Valve Type (B)</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 3 -->
+                <div class="col-md-4 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/products/product2_03.png" alt="Fire Hose Pipes" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Fire Hose Pipes</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
         <!-- footer -->
              <?php include 'footer.php' ?>

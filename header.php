@@ -16,7 +16,7 @@
             </div><!-- Topbar -->
             <div class="lg-mnu-sec sticky">
                 <div class="container">
-                    <div class="logo"><a href="index.html" title="Logo" itemprop="url"><img src="assets/images/logo.png" alt="logo.png" itemprop="image"></a></div><!-- Logo -->
+                    <div class="logo"><a href="index.php" title="Logo" itemprop="url"><img src="assets/images/logo.png" alt="logo.png" itemprop="image"></a></div><!-- Logo -->
                     <nav>
                         <div>
                             <ul>

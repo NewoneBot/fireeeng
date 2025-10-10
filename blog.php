@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 	
-	<link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
+	<link rel="shortcut icon" type="image/png" href="assets/images/A.K.icon.png"/>
 
     <!-- Color Scheme -->
     <link rel="stylesheet" href="assets/css/colors/color.css" title="color" /><!-- Color -->
@@ -51,138 +51,170 @@
             </div>
         </section>
         <section>
-            <div class="gap">
-                <div class="container">
-                    <div class="blg-sec remove-ext5">
-                        <div class="row">
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-1.jpg" alt="blg-img1-1.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">Safety Precautions Tips</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Oct 06, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Noda Blake</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
+    <div class="gap">
+        <div class="container">
+            <div class="blg-sec remove-ext5">
+                <div class="row">
+                    <!-- Blog 1 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                
+                                    <img src="assets/images/resources/blg-img1-1.jpg" alt="Fire Safety Tips" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                                
                             </div>
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-2.jpg" alt="blg-img1-2.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">Fire Prevention Guidelines</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Oct 14, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Niel Steel</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-3.jpg" alt="blg-img1-3.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">Extinguisher Usage Tuts</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Oct 17, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Alex Blake</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-4.jpg" alt="blg-img1-4.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">Emergency & First Aid</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Nov 14, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Nodi Blake</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-5.jpg" alt="blg-img1-5.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">House On Wildfire</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Nov 28, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Nodi Blake</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-6.jpg" alt="blg-img1-6.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">Fire Suppression Tips</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Dec 10, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Nodi Blake</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-7.jpg" alt="blg-img1-7.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">Emergency Toll Helpline</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Dec 14, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Nodi Blake</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-lg-3">
-                                <div class="blg-bx">
-                                    <div class="blg-thmb"><a href="blog-detail.html" title="" itemprop="url"><img src="assets/images/resources/blg-img1-8.jpg" alt="blg-img1-8.jpg" itemprop="image"></a></div>
-                                    <div class="blg-inf">
-                                        <h6 itemprop="headline"><a href="blog-detail.html" title="" itemprop="url">Quick Response Unit</a></h6>
-                                        <ul class="pst-mta">
-                                            <li><i class="far fa-calendar-alt"></i><a href="#" title="" itemprop="url">Dec 25, 2024</a></li>
-                                            <li><i class="fas fa-user"></i><a href="#" title="" itemprop="url">Nodi Blake</a></li>
-                                        </ul>
-                                        <p itemprop="description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
-                                        <a href="blog-detail.html" title="" itemprop="url">Read More</a>
-                                    </div>
-                                </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>Fire Safety Tips for Home</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Oct 06, 2024</li>
+                                    <li><i class="fas fa-user"></i> Noda Blake</li>
+                                </ul>
+                                <p itemprop="description">Learn essential fire safety tips to protect your home and family from potential fire hazards.</p>
+                                
                             </div>
                         </div>
-                    </div><!-- Blog Sec -->
-                    <div class="pgn-wrp text-center">
-                        <ul class="pagination">
-                            <li class="page-item prev"><a class="page-link" href="#" itemprop="url"><i class="fas fa-angle-left"></i></a></li>
-                            <li class="page-item"><a class="page-link" href="#" itemprop="url">1</a></li>
-                            <li class="page-item active"><span>2</span></li>
-                            <li class="page-item"><a class="page-link" href="#" itemprop="url">3</a></li>
-							 <li class="pg-lst">....</li>
-                            <li class="page-item"><a class="page-link" href="#" itemprop="url">5</a></li>
-                            <li class="page-item next"><a class="page-link" href="#" itemprop="url"><i class="fas fa-angle-right"></i></a></li>
-                        </ul>
-                    </div><!-- Pagination Wrap -->
+                    </div>
+                    <!-- Blog 2 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                    <img src="assets/images/resources/blg-img1-2.jpg" alt="Fire Prevention Guidelines" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                            </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>Fire Prevention Guidelines</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Oct 14, 2024</li>
+                                    <li><i class="fas fa-user"></i> Niel Steel</li>
+                                </ul>
+                                <p itemprop="description">Follow these key guidelines to prevent fires in residential and commercial properties.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Blog 3 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                    <img src="assets/images/resources/blg-img1-3.jpg" alt="Using Fire Extinguishers" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                            </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>How to Use Fire Extinguishers</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Oct 17, 2024</li>
+                                    <li><i class="fas fa-user"></i> Alex Blake</li>
+                                </ul>
+                                <p itemprop="description">Step-by-step guide on using different types of fire extinguishers effectively in emergencies.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Blog 4 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                    <img src="assets/images/resources/blg-img1-4.jpg" alt="Emergency First Aid" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                            </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>Emergency & First Aid Tips</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Nov 14, 2024</li>
+                                    <li><i class="fas fa-user"></i> Nodi Blake</li>
+                                </ul>
+                                <p itemprop="description">Quick and essential first aid techniques for fire-related emergencies and injuries.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Blog 5 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                    <img src="assets/images/resources/blg-img1-5.jpg" alt="Wildfire Safety" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                            </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>House on Wildfire Safety</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Nov 28, 2024</li>
+                                    <li><i class="fas fa-user"></i> Nodi Blake</li>
+                                </ul>
+                                <p itemprop="description">Best practices to protect your home and surroundings during a wildfire incident.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Blog 6 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                    <img src="assets/images/resources/blg-img1-6.jpg" alt="Fire Suppression Techniques" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                            </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>Fire Suppression Tips</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Dec 10, 2024</li>
+                                    <li><i class="fas fa-user"></i> Nodi Blake</li>
+                                </ul>
+                                <p itemprop="description">Learn techniques and strategies for suppressing fire safely and effectively.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Blog 7 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                    <img src="assets/images/resources/blg-img1-7.jpg" alt="Emergency Helpline" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                            </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>Emergency Toll Helpline</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Dec 14, 2024</li>
+                                    <li><i class="fas fa-user"></i> Nodi Blake</li>
+                                </ul>
+                                <p itemprop="description">A complete guide to emergency helplines for quick fire and rescue response.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Blog 8 -->
+                    <div class="col-md-3 col-sm-6 col-lg-3">
+                        <div class="blg-bx">
+                            <div class="blg-thmb">
+                                    <img src="assets/images/resources/blg-img1-8.jpg" alt="Quick Response Units" itemprop="image" style="width:100%; height:200px; object-fit:cover;">
+                            </div>
+                            <div class="blg-inf">
+                                <h6 itemprop="headline">
+                                    <strong>Quick Response Unit Overview</strong>
+                                </h6>
+                                <ul class="pst-mta">
+                                    <li><i class="far fa-calendar-alt"></i> Dec 25, 2024</li>
+                                    <li><i class="fas fa-user"></i> Nodi Blake</li>
+                                </ul>
+                                <p itemprop="description">An insight into quick response teams and how they handle emergency situations.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </section>
+            </div><!-- Blog Sec -->
+        </div>
+    </div>
+</section>
+
 
         <!-- footer -->
              <?php include 'footer.php' ?>
