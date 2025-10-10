@@ -660,7 +660,7 @@
                         </div>
                         <div class="col-md-6 col-sm-12">
                           <img
-                            src="assets/images/products/p40 .png"
+                            src="assets/images/products/p40.png"
                             alt="UF/FM Listed Flexible Sprinkler Drop"
                             itemprop="image"
                             class="img-fluid"
