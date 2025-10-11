@@ -89,7 +89,17 @@
                   <p itemprop="description">
                     <strong>A.K. Fire Engineering</strong> specializes in delivering high-quality <strong>firefighting equipment</strong> and <strong>rescue solutions</strong>. Our team ensures that every property and life is protected with advanced <strong>fire safety systems</strong>, including <strong>landing valves</strong>, <strong>hose pipes</strong>, <strong>portable extinguishers</strong>, and <strong>automatic sprinklers</strong>.
                   </p>
-                  <div class="loc-mp" id="loc-mp"></div>
+                  <div class="" id="">
+                    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.6896006233446!2d76.8021686253695!3d30.64725047462565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390feb3db940a7b9%3A0x9eb24a695f7b419e!2sTrinity%20Hospital%20%26%20Medical%20Research%20Institute!5e1!3m2!1sen!2sin!4v1760174284899!5m2!1sen!2sin"
+      width="100%"
+      height="100%"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+                  </div>
                   <span
                     ><i class="fas fa-map-marker-alt theme-clr"></i>Find us on
                     Map</span

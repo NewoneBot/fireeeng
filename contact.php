@@ -100,11 +100,22 @@
                 </div>
             </div>
         </section>
-        <section>
-            <div class="gap no-gap">
-                <div class="cnt-mp" id="cnt-mp"></div>
-            </div>
-        </section>
+
+        <section style="padding: 0; margin: 0;">
+  <div style="width: 100%; height: 500px;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.6896006233446!2d76.8021686253695!3d30.64725047462565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390feb3db940a7b9%3A0x9eb24a695f7b419e!2sTrinity%20Hospital%20%26%20Medical%20Research%20Institute!5e1!3m2!1sen!2sin!4v1760174284899!5m2!1sen!2sin"
+      width="100%"
+      height="100%"
+      style="border:0;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</section>
+
+
         
         <!-- footer -->
              <?php include 'footer.php' ?>
