@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <title>Naar - FireBrigade HTML5 Responsive Template</title>
+    <title>A.K. Fire Engineering - About</title>
 
     <link rel="stylesheet" href="assets/css/icons.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -262,7 +262,7 @@
 
     
 
-        <section>
+       <section>
     <div class="gap">
         <div class="container">
             <div class="text-center mb-5">
@@ -274,40 +274,53 @@
 
             <div class="row g-4 text-center">
                 <!-- Product 1 -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="card h-100 border-0">
-                        <img src="assets/images/products/product1_01.png" alt="Single Landing Valve Type (A)" 
+                        <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
                              style="width:100%; height:250px; object-fit:cover;">
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Single Landing Valve Type (A)</strong></h5>
+                            <h5 class="card-title"><strong>Fire Extinguishers</strong></h5>
                             <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- Product 2 -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="card h-100 border-0">
-                        <img src="assets/images/products/product1_02.png" alt="Double Landing Valve Type (B)" 
+                        <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
                              style="width:100%; height:250px; object-fit:cover;">
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Double Landing Valve Type (B)</strong></h5>
+                            <h5 class="card-title"><strong>Smoke detectors and Sprinklers</strong></h5>
                             <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- Product 3 -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="card h-100 border-0">
-                        <img src="assets/images/products/product2_03.png" alt="Fire Hose Pipes" 
+                        <img src="assets/images/topp_3.jpg" alt="Fire Hose Pipes" 
                              style="width:100%; height:250px; object-fit:cover;">
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Hose Pipes</strong></h5>
+                            <h5 class="card-title"><strong>Fire Extinguishers Pumps</strong></h5>
                             <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
                         </div>
                     </div>
                 </div>
+
+                <!-- Product 3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Fire Extinguishers Hose Pipes</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

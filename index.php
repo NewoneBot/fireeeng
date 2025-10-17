@@ -9,7 +9,7 @@
     />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <title>A.K. Fire Engineering - Home page2</title>
+    <title>Best Fire Equipiment A.K. Fire Engineering</title>
 
     <link rel="stylesheet" href="assets/css/icons.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
@@ -70,23 +70,19 @@
               >
                 <div class="featured-cap">
                   <span
-                    ><strong>A.K. Fire Engineering</strong> – Your Trusted
+                    ><strong></strong> – Your Trusted
                     Partner in <strong>Fire Safety Equipment</strong></span
                   >
                   <h2>
-                    Delivering <span class="theme-clr">Reliable</span> &
-                    <span class="theme-clr">Certified</span>
-                    <strong>Fire Protection Products</strong>
+                    A.K.<span class="theme-clr">Fire</span> Engineering<br/>
+
+                    <strong>(Contractors & Consultants)</strong>
                   </h2>
                   <p>
-                    <strong>A.K. Fire Engineering</strong> provides a complete
-                    range of <strong>firefighting equipment</strong> including
-                    <strong>landing valves</strong>,
-                    <strong>hose pipes</strong>, <strong>sprinklers</strong>,
-                    and <strong>fire extinguishers</strong>. Our products ensure
-                    <strong>maximum safety</strong> and
-                    <strong>international quality standards</strong> for every
-                    building or industry.
+                    <strong>A.K. Fire Engineering</strong>
+                    Deal in Fire Alarm/Detection System,Security System,Wet 
+                    Riser/Hyd. System Sprinklers,CO2 Flooding System, Fire 
+                    Extinguishcs/CCTV.
                   </p>
                   <div class="btns-grp">
                     <a
@@ -176,7 +172,7 @@
                     <div class="abt-desc">
                       <p itemprop="description">
                         <strong>A.K. Fire Engineering</strong> is a leading
-                        manufacturer and supplier of
+                         and supplier of
                         <strong>fire safety equipment</strong> and
                         <strong>fire protection systems</strong> dedicated to
                         ensuring safety and reliability in every environment. We
@@ -186,9 +182,7 @@
                         <strong>hose reels</strong>,
                         <strong>fire extinguishers</strong>,
                         <strong>sprinklers</strong>, and
-                        <strong>fire alarm systems</strong>—all built in
-                        compliance with
-                        <strong>international quality standards</strong>.
+                        <strong>fire alarm systems</strong>
                       </p>
 
                       <p>
@@ -235,7 +229,7 @@
                 <div class="col-md-5 col-sm-12 col-lg-5">
                   <div class="abt-img style2">
                     <img
-                      src="assets/images/products/product2_01.png"
+                      src="assets/images/aboutimg.jpg"
                       alt="A.K. Fire Engineering Fire Safety Equipment"
                       title="A.K. Fire Engineering – Fire Protection and Safety Solutions"
                       itemprop="image"
@@ -880,11 +874,7 @@
                       At <strong>A.K. Fire Engineering</strong>, we specialize
                       in providing high-quality
                       <strong>firefighting equipment</strong> and
-                      <strong>fire protection solutions</strong>. From
-                      <strong>landing valves</strong> and
-                      <strong>fire hose pipes</strong> to
-                      <strong>portable fire extinguishers</strong> and
-                      <strong>automatic sprinklers</strong>, we ensure every
+                      <strong>fire protection solutions</strong>, we ensure every
                       property and life is protected with reliable and certified
                       equipment.
                     </p>
@@ -938,40 +928,53 @@
 
             <div class="row g-4 text-center">
                 <!-- Product 1 -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="card h-100 border-0">
-                        <img src="assets/images/products/product1_01.png" alt="Single Landing Valve Type (A)" 
+                        <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
                              style="width:100%; height:250px; object-fit:cover;">
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Single Landing Valve Type (A)</strong></h5>
+                            <h5 class="card-title"><strong>Fire Extinguishers</strong></h5>
                             <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- Product 2 -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="card h-100 border-0">
-                        <img src="assets/images/products/product1_02.png" alt="Double Landing Valve Type (B)" 
+                        <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
                              style="width:100%; height:250px; object-fit:cover;">
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Double Landing Valve Type (B)</strong></h5>
+                            <h5 class="card-title"><strong>Smoke detectors and Sprinklers</strong></h5>
                             <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- Product 3 -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="card h-100 border-0">
-                        <img src="assets/images/products/product2_03.png" alt="Fire Hose Pipes" 
+                        <img src="assets/images/topp_3.jpg" alt="Fire Hose Pipes" 
                              style="width:100%; height:250px; object-fit:cover;">
                         <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Hose Pipes</strong></h5>
+                            <h5 class="card-title"><strong>Fire Extinguishers Pumps</strong></h5>
                             <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
                         </div>
                     </div>
                 </div>
+
+                <!-- Product 3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Fire Extinguishers Hose Pipes</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
