@@ -15,7 +15,7 @@
                       >
                     </li>
                     <li>
-                      <a href="about.php" title="" itemprop="url"
+                      <a href="about_a.k.fireengineering.php" title="" itemprop="url"
                         ><i class="fas fa-angle-double-right"></i>About Us</a
                       >
                     </li>
@@ -26,7 +26,7 @@
                       >
                     </li>
                     <li>
-                      <a href="product1.php" title="" itemprop="url"
+                      <a href="landing-valve-supplier-mohali-punjab.php" title="" itemprop="url"
                         ><i class="fas fa-angle-double-right"></i>Products</a
                       >
                     </li>

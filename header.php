@@ -22,7 +22,7 @@
                             <ul>
                                 <li class = "menu-item-has-children"><a class="brd-rd3" href="index.php" title="" itemprop="url">Home</a>
 								</li>
-								<li><a href="about.php" title="" itemprop="url">About Us</a></li>
+								<li><a href="about_a.k.fireengineering.php" title="" itemprop="url">About Us</a></li>
                                 <!-- <li class="menu-item-has-children"><a href="#" title="" itemprop="url">Events <i class="fas fa-angle-down"></i></a>
                                     <ul>
                                         <li><a href="events.html" title="" itemprop="url">Our Events</a></li>
@@ -33,10 +33,10 @@
                                 </li>
 								<li class="menu-item-has-children"><a href="#" title="" itemprop="url">Products <i class="fas fa-angle-down"></i></a>
                                     <ul>
-                                        <li><a href="product1.php" title="" itemprop="url">Landing Valve</a></li>
-                                        <li><a href="product2.php" title="" itemprop="url">Couplings,Nozzles and Pipes</a></li>
-										<li><a href="product3.php" title="" itemprop="url">Drums and Hose</a></li>
-										<li><a href="product4.php" title="" itemprop="url">Water Monitors and Collecting Heads</a></li>
+                                        <li><a href="landing-valve-supplier-mohali-punjab.php" title="" itemprop="url">Landing Valve</a></li>
+                                        <li><a href="fire-hose-couplings-valves-nozzles-mohali.php" title="" itemprop="url">Couplings,Nozzles and Pipes</a></li>
+										<li><a href="fire-hose-reels-drums-punjab-mohali.php" title="" itemprop="url">Drums and Hose</a></li>
+										<li><a href="top-quality-fire-monitors-collecting-heads.php" title="" itemprop="url">Water Monitors and Collecting Heads</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.php" title="" itemprop="url">Contact</a></li>

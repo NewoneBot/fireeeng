@@ -1,49 +1,155 @@
 <!DOCTYPE html>
 <html lang="en">
   <!-- Mirrored from nauthemes.net/html/naar/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:17 GMT -->
-  <head>
+ <head>
     <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <title>Best Fire Equipiment A.K. Fire Engineering</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
 
-    <link rel="stylesheet" href="assets/css/icons.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
+  <title>A.K. Fire Engineering Services | Trusted Fire Engineering Services</title>
 
-    <link
-      rel="shortcut icon"
-      type="image/png"
-      href="assets/images/A.K.icon.png"
-    />
+  <!-- Primary Meta -->
+  <meta
+    name="description"
+    content="Trusted Fire engineering services in Mohali – trusted fire engineering supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today."
+  />
+  <meta
+    name="keywords"
+    content="Trusted Fire Engineering Services, Fire Engineering Services Mohali, Fire engineering company Mohali, Trusted fire engineering suppliers in Mohali and Punjab, Fire safety Mohali, Fire extinguisher dealers Punjab, Fire extinguisher supplier near me, Fast & Affordable Safety Products & Services Fire safety solutions Mohali, Fire extinguishers Mohali, Fire hydrant systems Punjab, Fire alarm systems Mohali, Automatic fire sprinkler systems Punjab, Fire safety equipment suppliers Mohali, Fire suppression systems Mohali, Fire extinguisher refilling and maintenance Mohali"
+  />
+  <meta name="author" content="Nikhil" />
+  <meta name="publisher" content="AK Fire Engineering" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google" content="notranslate" />
+  <meta name="rating" content="General" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="mobileoptimized" content="320" />
+  <meta name="theme-color" content="#0d6efd" />
+  <meta name="language" content="en" />
+  <meta name="distribution" content="global" />
+  <meta name="expires" content="never" />
+  <meta name="document-type" content="public" />
+  <meta name="country" content="India" />
+  <meta name="state" content="Punjab" />
+  <meta name="city" content="Mohali" />
 
-    <!-- Color Scheme -->
-    <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
-    <!-- Color -->
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color2.css"
-      title="color2"
-    />
-    <!-- Color2 -->
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color3.css"
-      title="color3"
-    />
-    <!-- Color3 -->
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color4.css"
-      title="color4"
-    />
-    <!-- Color4 -->
-  </head>
+  <!-- Canonical -->
+  <link
+    rel="canonical"
+    href="https://akfireengineering.com/fire-extinguisher-supplier-mohali/"
+  />
+
+  <!-- Open Graph -->
+  <meta
+    property="og:title"
+    content="A.K. Fire Engineering Services | Trusted Fire Engineering Services"
+  />
+  <meta
+    property="og:description"
+    content="Trusted Fire engineering services in Mohali – trusted fire engineering supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today."
+  />
+  <meta
+    property="og:url"
+    content="https://akfireengineering.com/fire-extinguisher-supplier-mohali/"
+  />
+  <meta property="og:site_name" content="AK Fire Engineering" />
+  <meta property="og:locale" content="en_IN" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="https://akfireengineering.com/fire-extinguisher-supplier-mohali"
+  />
+  <meta
+    property="og:image:alt"
+    content="Fire extinguisher Mohali – trusted fire safety equipment"
+  />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta
+    name="twitter:title"
+    content="Fire Extinguisher Mohali | Fire Safety & Refilling Services"
+  />
+  <meta
+    name="twitter:description"
+    content="Fire extinguisher Mohali – trusted fire extinguisher supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today!"
+  />
+  <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+
+  <!-- Geo Tags -->
+  <meta name="geo.region" content="IN-PB" />
+  <meta name="geo.placename" content="Mohali" />
+  <meta name="geo.position" content="30.666366;76.719084" />
+  <meta name="ICBM" content="30.666366,76.719084" />
+
+  <!-- Verification -->
+  <meta
+    name="google-site-verification"
+    content="replace-this-with-your-google-verification-code"
+  />
+  <meta
+    name="yandex-verification"
+    content="replace-this-with-your-yandex-verification-code"
+  />
+
+  <!-- Favicon -->
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="assets/images/A.K.icon.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
+  />
+  <link
+    rel="manifest"
+    href="https://freelancesociety.in/image/logo/site.webmanifest"
+  />
+
+  <!-- Robots control for various crawlers -->
+  <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yahooSeeker" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="msnbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yandexBot" content="index,follow,max-snippet:-1,max-image-preview:large" />
+  <meta name="duckDuckBot" content="index,follow" />
+  <meta name="baiduSpider" content="index,follow" />
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="assets/css/icons.min.css" />
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/responsive.css" />
+
+  <!-- Color Schemes -->
+  <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
+  <link
+    rel="alternate stylesheet"
+    href="assets/css/colors/color2.css"
+    title="color2"
+  />
+  <link
+    rel="alternate stylesheet"
+    href="assets/css/colors/color3.css"
+    title="color3"
+  />
+  <link
+    rel="alternate stylesheet"
+    href="assets/css/colors/color4.css"
+    title="color4"
+  />
+
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+</head>
+
   <body itemscope>
     <div class="preloader">
       <div class="loader-inner ball-scale-multiple">
@@ -159,8 +265,7 @@
                     <div class="sec-tl">
                       <span
                         ><strong
-                          >We provide world-class Fire Safety & Protection
-                          Solutions</strong
+                          >Trusted Fire Engineering Services in Mohali and Punjab </strong
                         ></span
                       >
                       <h2 itemprop="headline">
@@ -171,57 +276,12 @@
                     <!-- Sec Title -->
                     <div class="abt-desc">
                       <p itemprop="description">
-                        <strong>A.K. Fire Engineering</strong> is a leading
-                         and supplier of
-                        <strong>fire safety equipment</strong> and
-                        <strong>fire protection systems</strong> dedicated to
-                        ensuring safety and reliability in every environment. We
-                        specialize in
-                        <strong>firefighting products</strong> such as
-                        <strong>hydrant valves</strong>,
-                        <strong>hose reels</strong>,
-                        <strong>fire extinguishers</strong>,
-                        <strong>sprinklers</strong>, and
-                        <strong>fire alarm systems</strong>
+                        Since 2008, we have been a <strong>trusted fire engineering company Mohali</strong> and one of the most <strong>trusted fire engineering suppliers in Mohali and Punjab</strong>, delivering reliable <strong>fire engineering services Mohali</strong> and certified <strong>fire safety Mohali</strong> solutions. As experienced <strong>fire extinguisher dealers Punjab</strong> and <strong>fire safety equipment suppliers Mohali</strong>, we offer a wide range of <strong>fire extinguishers Mohali</strong>, <strong>fire hydrant systems Punjab</strong>, <strong>fire alarm systems Mohali</strong>, <strong>automatic fire sprinkler systems Punjab</strong>, and <strong>fire suppression systems Mohali</strong>.
                       </p>
 
                       <p>
-                        With years of expertise and commitment to excellence,
-                        <strong>A.K. Fire Engineering</strong> delivers
-                        innovative
-                        <strong
-                          >fire prevention and protection solutions</strong
-                        >
-                        for residential, commercial, and industrial sectors. Our
-                        goal is to safeguard lives, assets, and infrastructure
-                        through advanced technology and superior
-                        <strong>firefighting systems</strong>.
+                        Our company also provides <strong>fire extinguisher refilling and maintenance Mohali</strong> and ensures <strong>fast & affordable safety products & services fire safety solutions Mohali</strong>. Whether you’re searching for a <strong>fire extinguisher supplier near me</strong> or a dedicated <strong>fire extinguisher shop in Mohali</strong>, we are your one-stop solution. Our mission is to provide high-quality fire protection backed by expert service, making us a trusted name in fire safety in Mohali for over 15 years.
                       </p>
-
-                      <h3 itemprop="headline">Precautionary Tips</h3>
-                      <ul>
-                        <li>
-                          Keep a functional
-                          <strong>fire extinguisher</strong> in key areas and
-                          service it periodically to ensure readiness.
-                        </li>
-                        <li>
-                          Avoid overloading electrical circuits and keep
-                          <strong>flammable materials</strong> away from heat
-                          sources.
-                        </li>
-                        <li>
-                          Install <strong>fire alarms</strong> and
-                          <strong>smoke detectors</strong>
-                          for early warning in case of emergencies.
-                        </li>
-                        <li>
-                          Conduct regular
-                          <strong>fire safety inspections</strong> and
-                          <strong>evacuation drills</strong> to maintain
-                          preparedness.
-                        </li>
-                      </ul>
                     </div>
                   </div>
                 </div>
@@ -229,7 +289,7 @@
                 <div class="col-md-5 col-sm-12 col-lg-5">
                   <div class="abt-img style2">
                     <img
-                      src="assets/images/aboutimg.jpg"
+                      src="assets/images/aboutimg.png"
                       alt="A.K. Fire Engineering Fire Safety Equipment"
                       title="A.K. Fire Engineering – Fire Protection and Safety Solutions"
                       itemprop="image"
@@ -243,262 +303,332 @@
         </div>
       </section>
 
+      <div class="container py-5">
+  <div class="row g-3">
+    <!-- Card 1 -->
+    <div class="col-12 col-md-6 col-lg-3">
+      <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
+        <div style="font-size: 40px; color: #0d6efd; margin-bottom: 15px;">
+          <i class="fas fa-fire-extinguisher"></i>
+        </div>
+        <h5 style="font-weight: 600; margin-bottom: 10px;">Installation Safety</h5>
+        <p style="font-size: 0.95rem; color: #333;">
+          Always install <strong>fire extinguishers</strong> and consult <strong>trusted fire engineering services</strong> to prevent small fires from becoming disasters in homes and offices.
+        </p>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="col-12 col-md-6 col-lg-3">
+      <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
+        <div style="font-size: 40px; color: #198754; margin-bottom: 15px;">
+          <i class="fas fa-search"></i>
+        </div>
+        <h5 style="font-weight: 600; margin-bottom: 10px;">Regular Inspections</h5>
+        <p style="font-size: 0.95rem; color: #333;">
+          Schedule regular checks with <strong>trusted fire engineering suppliers in Mohali & Punjab</strong> or <strong>fire extinguisher dealers Punjab</strong> to ensure your equipment works properly.
+        </p>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="col-12 col-md-6 col-lg-3">
+      <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
+        <div style="font-size: 40px; color: #ffc107; margin-bottom: 15px;">
+          <i class="fas fa-sync-alt"></i> <!-- Changed icon -->
+        </div>
+        <h5 style="font-weight: 600; margin-bottom: 10px;">Maintenance & Refilling</h5>
+        <p style="font-size: 0.95rem; color: #333;">
+          Never ignore routine <strong>fire extinguisher refilling & maintenance Mohali</strong>, as an expired unit may fail during emergencies.
+        </p>
+      </div>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="col-12 col-md-6 col-lg-3">
+      <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
+        <div style="font-size: 40px; color: #dc3545; margin-bottom: 15px;">
+          <i class="fas fa-shield-alt"></i>
+        </div>
+        <h5 style="font-weight: 600; margin-bottom: 10px;">Comprehensive Protection</h5>
+        <p style="font-size: 0.95rem; color: #333;">
+          Ensure your premises have <strong>fire hydrant systems, fire alarms, automatic sprinklers, and fire suppression systems</strong> for full-scale fire protection.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Hover Effect -->
+<style>
+  .card:hover {
+    transform: translateY(-8px);
+  }
+</style>
+
+<!-- FontAwesome -->
+
+
       <section>
-        <div class="gap gray-bg">
-          <div class="container">
-            <div class="sec-tl text-center">
-              <span>Trusted Experts in Fire Safety & Protection Solutions</span>
-              <h2 itemprop="headline">
-                Our <span class="theme-clr">Fire Safety Products</span> &
-                Services
-              </h2>
-            </div>
-            <!-- Sec Title -->
+  <div class="gap gray-bg">
+    <div class="container">
+      <div class="sec-tl text-center">
+        <span>Trusted fire engineering suppliers in Mohali and Punjab</span>
+        <h2 itemprop="headline">
+          Our <span class="theme-clr">Fast & Affordable Safety Products</span> & Services
+        </h2>
+      </div>
+      <!-- Sec Title -->
 
-            <div class="srv-wrp remove-ext7">
-              <div class="row">
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-1.png"
-                        alt="Fire Extinguishers by A.K. Fire Engineering"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Extinguishers"
-                          itemprop="url"
-                          >Fire Extinguishers</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        We offer a wide range of
-                        <strong>fire extinguishers</strong> including
-                        <strong
-                          >CO₂, Dry Powder, Foam, and Water-based models</strong
-                        >
-                        to ensure quick and effective fire suppression in any
-                        environment.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-2.png"
-                        alt="Fire Hydrant Systems"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Hydrant Systems"
-                          itemprop="url"
-                          >Fire Hydrant Systems</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        <strong>Fire hydrant and hose reel systems</strong>
-                        designed by
-                        <strong>A.K. Fire Engineering</strong> ensure
-                        high-pressure water delivery for effective firefighting
-                        in commercial and industrial areas.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-3.png"
-                        alt="Fire Alarm Systems"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Alarm Systems"
-                          itemprop="url"
-                          >Fire Alarm Systems</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        Stay protected with our
-                        <strong>intelligent fire alarm systems</strong>
-                        featuring advanced smoke and heat detectors for early
-                        warning and rapid response to fire hazards.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-4.png"
-                        alt="Fire Sprinkler Systems"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Sprinkler Systems"
-                          itemprop="url"
-                          >Fire Sprinkler Systems</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        <strong>Automatic fire sprinkler systems</strong>
-                        installed by
-                        <strong>A.K. Fire Engineering</strong> provide 24/7
-                        protection by detecting and extinguishing fires
-                        efficiently.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-5.png"
-                        alt="Fire Safety Equipment"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Safety Equipment"
-                          itemprop="url"
-                          >Fire Safety Equipment</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        We supply top-quality
-                        <strong>fire safety equipment</strong> such as
-                        <strong
-                          >fire hoses, nozzles, safety helmets, gloves, and
-                          signage</strong
-                        >
-                        to ensure complete workplace safety.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-6.png"
-                        alt="Fire Suppression Systems"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Suppression Systems"
-                          itemprop="url"
-                          >Fire Suppression Systems</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        We design and install
-                        <strong>automatic fire suppression systems</strong>
-                        ideal for data centers, commercial kitchens, and
-                        industrial facilities for maximum fire control.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-7.png"
-                        alt="Fire Extinguisher Refilling & Maintenance"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Extinguisher Refilling"
-                          itemprop="url"
-                          >Refilling & Maintenance</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        Our team provides
-                        <strong
-                          >fire extinguisher refilling, inspection, and
-                          maintenance</strong
-                        >
-                        services to keep your firefighting systems in perfect
-                        working condition.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-lg-3">
-                  <div class="srv-bx">
-                    <i class="brd-rd50"
-                      ><img
-                        src="assets/images/resources/srv-icn1-8.png"
-                        alt="Fire Safety Training"
-                        itemprop="image"
-                    /></i>
-                    <div class="srv-inf">
-                      <h5 itemprop="headline">
-                        <a
-                          href="service-detail.html"
-                          title="Fire Safety Training"
-                          itemprop="url"
-                          >Fire Safety Training</a
-                        >
-                      </h5>
-                      <p itemprop="description">
-                        <strong>A.K. Fire Engineering</strong> conducts
-                        <strong>fire safety training programs</strong> to
-                        educate teams on emergency response, fire extinguisher
-                        use, and evacuation planning.
-                      </p>
-                      
-                    </div>
-                  </div>
-                </div>
+      <div class="srv-wrp remove-ext7">
+        <div class="row">
+          <!-- Service Box 1 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-1.png"
+                  alt="Fire Extinguishers by A.K. Fire Engineering"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Extinguishers"
+                    itemprop="url"
+                    >Fire Extinguishers</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  A <strong>fire extinguisher Mohali</strong> is an essential safety tool used to
+                  control small fires before they spread. Since 2008, we’ve been a
+                  <strong>trusted fire engineering company Mohali</strong> and one of the most
+                  <strong>trusted fire engineering suppliers in Mohali and Punjab</strong>, serving
+                  homes, offices, and businesses.
+                </p>
               </div>
             </div>
-            <!-- Services Wrap -->
+          </div>
 
+          <!-- Service Box 2 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-2.png"
+                  alt="Fire Hydrant Systems"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Hydrant Systems"
+                    itemprop="url"
+                    >Fire Safety Solutions Mohali</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  Our team of <strong>trusted fire engineering suppliers in Mohali and Punjab</strong>
+                  assesses fire risks for homes, offices, and industries, offering customized systems
+                  including <strong>fire extinguishers Mohali</strong>,
+                  <strong>fire hydrant systems Punjab</strong>,
+                  <strong>fire alarm systems Mohali</strong>,
+                  <strong>automatic fire sprinkler systems Punjab</strong>, and
+                  <strong>fire suppression systems Mohali</strong>.
+                </p>
+              </div>
+            </div>
+          </div>
 
+          <!-- Service Box 3 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-3.png"
+                  alt="Fire Alarm Systems"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Alarm Systems"
+                    itemprop="url"
+                    >Fire Extinguishers Mohali</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  Our wide range of <strong>fire extinguishers Mohali</strong> includes CO₂, dry
+                  powder, foam, and water-based models designed for quick and effective
+                  <strong>fire suppression systems</strong>. We supply certified extinguishers
+                  suitable for all types of fire hazards across residential and commercial
+                  properties.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Service Box 4 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-4.png"
+                  alt="Fire Sprinkler Systems"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Sprinkler Systems"
+                    itemprop="url"
+                    >Fire Hydrant Systems Punjab</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  Our robust <strong>fire hydrant systems Punjab</strong> deliver high-pressure water
+                  flow essential for tackling large fires in industrial and commercial settings. We
+                  provide complete <strong>fire safety Mohali</strong> solutions. Designed for
+                  durability and efficiency, our hydrant systems meet all safety standards.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Service Box 5 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-5.png"
+                  alt="Fire Safety Equipment"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Safety Equipment"
+                    itemprop="url"
+                    >Fire Alarm Systems Mohali</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  Stay alert with our advanced <strong>fire alarm systems in Mohali</strong>,
+                  featuring sensitive smoke and heat detectors for early fire detection. These
+                  intelligent alarms provide timely alerts, helping to prevent fire damage and
+                  ensure the safety of occupants.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Service Box 6 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-6.png"
+                  alt="Fire Suppression Systems"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Suppression Systems"
+                    itemprop="url"
+                    >Automatic Fire Sprinkler Systems Punjab</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  We provide <strong>automatic fire sprinkler systems in Punjab</strong> through
+                  <strong>trusted fire engineering services</strong> and as reliable
+                  <strong>fire safety equipment suppliers Mohali</strong>. These systems provide
+                  continuous <strong>fire safety</strong> by detecting and extinguishing fires
+                  automatically, minimizing damage, and enhancing safety in residential, commercial,
+                  and industrial buildings.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Service Box 7 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-7.png"
+                  alt="Fire Extinguisher Refilling & Maintenance"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Extinguisher Refilling"
+                    itemprop="url"
+                    >Fire Safety Equipment Suppliers Mohali</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  As leading <strong>fire safety equipment suppliers Mohali</strong> and a
+                  <strong>trusted fire engineering company Mohali</strong>, we offer high-quality
+                  hoses, nozzles, helmets, gloves, and safety signage. Our products are supplied by
+                  <strong>trusted fire engineering suppliers in Mohali and Punjab</strong> and
+                  comply with industry standards.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Service Box 8 -->
+          <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
+            <div class="srv-bx text-center">
+              <i class="brd-rd50">
+                <img
+                  src="assets/images/resources/srv-icn1-8.png"
+                  alt="Fire Safety Training"
+                  itemprop="image"
+                />
+              </i>
+              <div class="srv-inf">
+                <h5 itemprop="headline">
+                  <a
+                    href="service-detail.html"
+                    title="Fire Safety Training"
+                    itemprop="url"
+                    >Fire Suppression Systems Mohali</a
+                  >
+                </h5>
+                <p itemprop="description">
+                  Our expert-designed <strong>fire suppression systems Mohali</strong> use clean
+                  agents and gas-based technologies to protect sensitive areas like data centers,
+                  commercial kitchens, and industrial spaces. These systems provide rapid
+                  <strong>fire safety Mohali</strong> without causing water damage.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
-      </section>
+      </div>
+      <!-- Services Wrap -->
+    </div>
+  </div>
+</section>
+
 
       <!-- <section>
             <div class="gap">
@@ -607,7 +737,138 @@
             </div>
         </section> -->
 
-      <section class="py-5">
+      
+
+      <section>
+        <div class="gap black-layer opc8">
+          <div
+            class="fixed-bg"
+            style="background-image: url(assets/images/para-new.png)"
+          ></div>
+          <div class="container">
+            <div class="shrt-fcts-wrp">
+              <div class="row">
+                <div class="col-md-12 col-sm-12 col-lg-12">
+                  <div class="fcts-wrp">
+                    <div class="sec-tl">
+                      <span
+                        ><strong>A.K. Fire Engineering</strong> – Fire Safety
+                        Solutions</span
+                      >
+                      <h2 itemprop="headline">
+                        <strong
+                          >Key Facts About A.K. Fire Engineering — Trusted Fire Engineering Services & Fire Safety Experts in Mohali and Punjab</strong
+                        >
+                      </h2>
+                    </div>
+                    <!-- Sec Title -->
+                    <p itemprop="description">
+                      A.K. Fire Engineering has been a trusted name in <strong>fire extinguisher supply and fire safety solutions in Mohali and Punjab</strong> since 2008. We specialize in <strong>fire extinguishers</strong>, <strong>hydrant systems</strong>, <strong>alarm systems</strong>, and <strong>sprinkler installations</strong> to protect your home and business. 
+
+                    </p>
+                    <ul class="fcts-lst">
+                      <li>
+                        <span class="counter">500</span>
+                        <h6 itemprop="headline">
+                          <strong>Fire Safety Projects Completed</strong>
+                        </h6>
+                      </li>
+                      <li>
+                        <span class="counter">1200</span>
+                        <h6 itemprop="headline">
+                          <strong>Fire Extinguishers Installed</strong>
+                        </h6>
+                      </li>
+                      <li>
+                        <span class="counter">800</span>
+                        <h6 itemprop="headline">
+                          <strong>Sprinklers & Alarm Systems Supplied</strong>
+                        </h6>
+                      </li>
+                      <li>
+                        <span class="counter">17</span>
+                        <h6 itemprop="headline">
+                          <strong
+                            >Years of Experience in Fire Protection</strong
+                          >
+                        </h6>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-1 col-sm-12 col-lg-1"></div>
+              </div>
+            </div>
+            <!-- Short Facts Wrap -->
+          </div>
+        </div>
+      </section>
+
+      <section>
+    <div class="gap">
+        <div class="container">
+            <div class="text-center mb-5">
+                <span>Top Quality Fire Safety Equipment from <strong>A.K. Fire Engineering</strong></span>
+                <h2 class="mt-2" itemprop="headline">
+                    Top Selling <span class="theme-clr">Products</span>
+                </h2>
+            </div>
+
+            <div class="row g-4 text-center">
+                <!-- Product 1 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Fire Extinguishers</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 2 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Smoke detectors and Sprinklers</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/topp_3.jpg" alt="Fire Hose Pipes" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Fire Extinguishers Pumps</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product 3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="card h-100 border-0">
+                        <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
+                             style="width:100%; height:250px; object-fit:cover;">
+                        <div class="card-body">
+                            <h5 class="card-title"><strong>Fire Extinguishers Hose Pipes</strong></h5>
+                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5">
         <div class="gap remove-gap">
           <div class="container">
             <div class="sec-tl text-center">
@@ -847,139 +1108,6 @@
         </div>
       </section>
 
-      <section>
-        <div class="gap black-layer opc8">
-          <div
-            class="fixed-bg"
-            style="background-image: url(assets/images/para-new.png)"
-          ></div>
-          <div class="container">
-            <div class="shrt-fcts-wrp">
-              <div class="row">
-                <div class="col-md-12 col-sm-12 col-lg-12">
-                  <div class="fcts-wrp">
-                    <div class="sec-tl">
-                      <span
-                        ><strong>A.K. Fire Engineering</strong> – Fire Safety
-                        Solutions</span
-                      >
-                      <h2 itemprop="headline">
-                        <strong
-                          >Key Facts About Our Fire Safety Services</strong
-                        >
-                      </h2>
-                    </div>
-                    <!-- Sec Title -->
-                    <p itemprop="description">
-                      At <strong>A.K. Fire Engineering</strong>, we specialize
-                      in providing high-quality
-                      <strong>firefighting equipment</strong> and
-                      <strong>fire protection solutions</strong>, we ensure every
-                      property and life is protected with reliable and certified
-                      equipment.
-                    </p>
-                    <ul class="fcts-lst">
-                      <li>
-                        <span class="counter">500</span>
-                        <h6 itemprop="headline">
-                          <strong>Fire Safety Projects Completed</strong>
-                        </h6>
-                      </li>
-                      <li>
-                        <span class="counter">1200</span>
-                        <h6 itemprop="headline">
-                          <strong>Fire Extinguishers Installed</strong>
-                        </h6>
-                      </li>
-                      <li>
-                        <span class="counter">800</span>
-                        <h6 itemprop="headline">
-                          <strong>Sprinklers & Alarm Systems Supplied</strong>
-                        </h6>
-                      </li>
-                      <li>
-                        <span class="counter">25</span>
-                        <h6 itemprop="headline">
-                          <strong
-                            >Years of Experience in Fire Protection</strong
-                          >
-                        </h6>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="col-md-1 col-sm-12 col-lg-1"></div>
-              </div>
-            </div>
-            <!-- Short Facts Wrap -->
-          </div>
-        </div>
-      </section>
-
-      <section>
-    <div class="gap">
-        <div class="container">
-            <div class="text-center mb-5">
-                <span>Top Quality Fire Safety Equipment from <strong>A.K. Fire Engineering</strong></span>
-                <h2 class="mt-2" itemprop="headline">
-                    Top Selling <span class="theme-clr">Products</span>
-                </h2>
-            </div>
-
-            <div class="row g-4 text-center">
-                <!-- Product 1 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 2 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Smoke detectors and Sprinklers</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 3 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_3.jpg" alt="Fire Hose Pipes" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers Pumps</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 3 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers Hose Pipes</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</section>
-
 
       <!-- footer -->
       <?php include 'footer.php' ?>
@@ -999,6 +1127,7 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcavdONRtu_0BfV63xiQX1LiJpX1ZJ2N0"></script>
     <script src="assets/js/google-map-int.js"></script>
     <script src="assets/js/custom-scripts.js"></script>
+    
   </body>
 
   <!-- Mirrored from nauthemes.net/html/naar/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:17 GMT -->
