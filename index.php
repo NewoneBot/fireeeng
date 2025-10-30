@@ -168,12 +168,16 @@
           <div class="featured-area-wrap text-center">
             <div class="featured-car owl-carousel">
               <!-- Slide 1 -->
-              <div
-                class="featured-item"
-                style="
-                  background-image: url(assets/images/resources/slide1.jpg);
-                "
-              >
+             <div
+  class="featured-item"
+  style="
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+                url(assets/images/resources/slide1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+  "
+>
                 <div class="featured-cap">
                   <span
                     ><strong></strong> – Your Trusted
@@ -209,11 +213,14 @@
 
               <!-- Slide 2 -->
               <div
-                class="featured-item"
-                style="
-                  background-image: url(assets/images/resources/slide2.jpg);
-                "
-              >
+  class="featured-item"
+  style="
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+                url(assets/images/resources/slide2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+  ">
                 <div class="featured-cap">
                   <span
                     ><strong
@@ -306,7 +313,7 @@
       <div class="container py-5">
   <div class="row g-3">
     <!-- Card 1 -->
-    <div class="col-12 col-md-6 col-lg-3">
+    <div class="col-12 col-md-6 col-lg-3 p-3">
       <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
         <div style="font-size: 40px; color: #0d6efd; margin-bottom: 15px;">
           <i class="fas fa-fire-extinguisher"></i>
@@ -319,7 +326,7 @@
     </div>
 
     <!-- Card 2 -->
-    <div class="col-12 col-md-6 col-lg-3">
+    <div class="col-12 col-md-6 col-lg-3 p-3">
       <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
         <div style="font-size: 40px; color: #198754; margin-bottom: 15px;">
           <i class="fas fa-search"></i>
@@ -332,7 +339,7 @@
     </div>
 
     <!-- Card 3 -->
-    <div class="col-12 col-md-6 col-lg-3">
+    <div class="col-12 col-md-6 col-lg-3 p-3">
       <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
         <div style="font-size: 40px; color: #ffc107; margin-bottom: 15px;">
           <i class="fas fa-sync-alt"></i> <!-- Changed icon -->
@@ -345,7 +352,7 @@
     </div>
 
     <!-- Card 4 -->
-    <div class="col-12 col-md-6 col-lg-3">
+    <div class="col-12 col-md-6 col-lg-3 p-3">
       <div class="card h-100 p-3 text-center" style="border-radius: 12px; box-shadow: 0 8px 10px rgba(0,0,0,0.15); transition: transform 0.3s, box-shadow 0.3s;">
         <div style="font-size: 40px; color: #dc3545; margin-bottom: 15px;">
           <i class="fas fa-shield-alt"></i>
@@ -399,7 +406,7 @@
                     href="service-detail.html"
                     title="Fire Extinguishers"
                     itemprop="url"
-                    >Fire Extinguishers</a
+                    >Fire</br> Extinguishers</a
                   >
                 </h5>
                 <p itemprop="description">
@@ -429,17 +436,11 @@
                     href="service-detail.html"
                     title="Fire Hydrant Systems"
                     itemprop="url"
-                    >Fire Safety Solutions Mohali</a
+                    >Fire Safety</br> Solutions</a
                   >
                 </h5>
                 <p itemprop="description">
-                  Our team of <strong>trusted fire engineering suppliers in Mohali and Punjab</strong>
-                  assesses fire risks for homes, offices, and industries, offering customized systems
-                  including <strong>fire extinguishers Mohali</strong>,
-                  <strong>fire hydrant systems Punjab</strong>,
-                  <strong>fire alarm systems Mohali</strong>,
-                  <strong>automatic fire sprinkler systems Punjab</strong>, and
-                  <strong>fire suppression systems Mohali</strong>.
+                  Our team of trusted fire engineering suppliers in Mohali and Punjab assesses fire risks for homes, offices, and industries, offering customized systems including fire extinguishers, fire hydrant systems, fire alarm systems, automatic fire sprinkler systems, and fire suppression systems. 
                 </p>
               </div>
             </div>
@@ -461,15 +462,11 @@
                     href="service-detail.html"
                     title="Fire Alarm Systems"
                     itemprop="url"
-                    >Fire Extinguishers Mohali</a
+                    >Fire </br>Extinguishers</a
                   >
                 </h5>
                 <p itemprop="description">
-                  Our wide range of <strong>fire extinguishers Mohali</strong> includes CO₂, dry
-                  powder, foam, and water-based models designed for quick and effective
-                  <strong>fire suppression systems</strong>. We supply certified extinguishers
-                  suitable for all types of fire hazards across residential and commercial
-                  properties.
+                  Our wide range of fire extinguishers includes CO₂, dry powder, foam, and water-based models designed for quick and effective fire suppression systems.we supply certified extinguishers suitable for all types of fire hazards across residential and commercial properties.
                 </p>
               </div>
             </div>
@@ -491,14 +488,12 @@
                     href="service-detail.html"
                     title="Fire Sprinkler Systems"
                     itemprop="url"
-                    >Fire Hydrant Systems Punjab</a
+                    >Fire Hydrant </br>Systems</a
                   >
                 </h5>
                 <p itemprop="description">
-                  Our robust <strong>fire hydrant systems Punjab</strong> deliver high-pressure water
-                  flow essential for tackling large fires in industrial and commercial settings. We
-                  provide complete <strong>fire safety Mohali</strong> solutions. Designed for
-                  durability and efficiency, our hydrant systems meet all safety standards.
+                   Our robust fire hydrant systems deliver high-pressure water flow essential for tackling large fires in industrial and commercial settings.We provide complete fire safety solutions. Designed for durability and efficiency, our hydrant systems meet all the safety standards.
+
                 </p>
               </div>
             </div>
@@ -520,14 +515,11 @@
                     href="service-detail.html"
                     title="Fire Safety Equipment"
                     itemprop="url"
-                    >Fire Alarm Systems Mohali</a
+                    >Fire Alarm </br>Systems</a
                   >
                 </h5>
                 <p itemprop="description">
-                  Stay alert with our advanced <strong>fire alarm systems in Mohali</strong>,
-                  featuring sensitive smoke and heat detectors for early fire detection. These
-                  intelligent alarms provide timely alerts, helping to prevent fire damage and
-                  ensure the safety of occupants.
+                  Stay alert with our advanced fire alarm systems, featuring sensitive smoke and heat detectors for early fire detection. These intelligent alarms provide timely alerts, helping to prevent fire damage and ensure the safety of occupants.
                 </p>
               </div>
             </div>
@@ -549,16 +541,11 @@
                     href="service-detail.html"
                     title="Fire Suppression Systems"
                     itemprop="url"
-                    >Automatic Fire Sprinkler Systems Punjab</a
+                    >Automatic Fire Sprinkler</a
                   >
                 </h5>
                 <p itemprop="description">
-                  We provide <strong>automatic fire sprinkler systems in Punjab</strong> through
-                  <strong>trusted fire engineering services</strong> and as reliable
-                  <strong>fire safety equipment suppliers Mohali</strong>. These systems provide
-                  continuous <strong>fire safety</strong> by detecting and extinguishing fires
-                  automatically, minimizing damage, and enhancing safety in residential, commercial,
-                  and industrial buildings.
+                  We provide automatic fire sprinkler systems in Punjab through trusted fire engineering services.These systems provide continuous fire safety by detecting and extinguishing fires automatically, minimizing damage, and enhancing safety.
                 </p>
               </div>
             </div>
@@ -580,15 +567,11 @@
                     href="service-detail.html"
                     title="Fire Extinguisher Refilling"
                     itemprop="url"
-                    >Fire Safety Equipment Suppliers Mohali</a
+                    >Fire Safety Equipment</a
                   >
                 </h5>
                 <p itemprop="description">
-                  As leading <strong>fire safety equipment suppliers Mohali</strong> and a
-                  <strong>trusted fire engineering company Mohali</strong>, we offer high-quality
-                  hoses, nozzles, helmets, gloves, and safety signage. Our products are supplied by
-                  <strong>trusted fire engineering suppliers in Mohali and Punjab</strong> and
-                  comply with industry standards.
+                  As leading fire safety equipment suppliers Mohali and a trusted fire engineering company Mohali, we offer high-quality hoses, nozzles, helmets, gloves, and safety signage. Our products are supplied by trusted fire engineering suppliers in Mohali and Punjab and comply with industry standards.
                 </p>
               </div>
             </div>
@@ -614,10 +597,7 @@
                   >
                 </h5>
                 <p itemprop="description">
-                  Our expert-designed <strong>fire suppression systems Mohali</strong> use clean
-                  agents and gas-based technologies to protect sensitive areas like data centers,
-                  commercial kitchens, and industrial spaces. These systems provide rapid
-                  <strong>fire safety Mohali</strong> without causing water damage.
+                  Our expert-designed fire suppression systems use clean agents and gas-based technologies to protect sensitive areas like data centers, commercial kitchens, and industrial spaces.These systems provide rapid fire safety without causing water damage.
                 </p>
               </div>
             </div>
@@ -743,7 +723,7 @@
         <div class="gap black-layer opc8">
           <div
             class="fixed-bg"
-            style="background-image: url(assets/images/para-new.png)"
+            style="background-image: url(assets/images/para-new.jpg)"
           ></div>
           <div class="container">
             <div class="shrt-fcts-wrp">
@@ -804,69 +784,75 @@
         </div>
       </section>
 
-      <section>
-    <div class="gap">
-        <div class="container">
-            <div class="text-center mb-5">
-                <span>Top Quality Fire Safety Equipment from <strong>A.K. Fire Engineering</strong></span>
-                <h2 class="mt-2" itemprop="headline">
-                    Top Selling <span class="theme-clr">Products</span>
-                </h2>
-            </div>
-
-            <div class="row g-4 text-center">
-                <!-- Product 1 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 2 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Smoke detectors and Sprinklers</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 3 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_3.jpg" alt="Fire Hose Pipes" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers Pumps</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 3 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers Hose Pipes</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+      <section style="padding: 60px 0; background-color: #f8f9fa;">
+  <div class="container">
+    <!-- Section Heading -->
+    <div class="text-center mb-5">
+      <span style="font-size: 18px; color: #555;">
+        Top Quality Fire Safety Equipment from 
+        <strong style="color: #d2691e;">A.K. Fire Engineering</strong>
+      </span>
+      <h2 class="mt-3" style="font-weight: 700; color: #222;">
+        Top Selling <span style="color: #d2691e;">Products</span>
+      </h2>
     </div>
+
+    <div class="row g-4 text-center">
+      <!-- Product 1 -->
+      <div class="col-md-3 col-sm- p-3">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Fire Extinguishers</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product 2 -->
+      <div class="col-md-3 col-sm-6 p-3">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Smoke Detectors & Sprinklers</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product 3 -->
+      <div class="col-md-3 col-sm-6 p-3">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_3.webp" alt="Fire Hose Pipes" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Fire Extinguisher Pumps</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product 4 -->
+      <div class="col-md-3 col-sm-6 p-3">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Fire Hose Pipes</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+
 
 <section class="py-5">
         <div class="gap remove-gap">

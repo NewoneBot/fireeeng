@@ -33,8 +33,8 @@
                                 </li>
 								<li class="menu-item-has-children"><a href="#" title="" itemprop="url">Products <i class="fas fa-angle-down"></i></a>
                                     <ul>
-                                        <li><a href="landing-valve-supplier-mohali-punjab.php" title="" itemprop="url">Landing Valve</a></li>
-                                        <li><a href="fire-hose-couplings-valves-nozzles-mohali.php" title="" itemprop="url">Couplings,Nozzles and Pipes</a></li>
+                                        <li><a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url">Landing Valve</a></li>
+                                        <li><a href="fire-suppression-system-punjab.php" title="" itemprop="url">Couplings,Nozzles and Pipes</a></li>
 										<li><a href="fire-hose-reels-drums-punjab-mohali.php" title="" itemprop="url">Drums and Hose</a></li>
 										<li><a href="top-quality-fire-monitors-collecting-heads.php" title="" itemprop="url">Water Monitors and Collecting Heads</a></li>
                                     </ul>

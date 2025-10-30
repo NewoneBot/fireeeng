@@ -37,7 +37,7 @@
 
         <section>
             <div class="gap black-layer opc8 overlap144">
-                <div class="fixed-bg2" style="background-image: url(assets/images/pg-tp-bg.jpg);"></div>
+                <div class="fixed-bg2" style="background-image: url(assets/images/pg-tp-bg-1.jpg);"></div>
                 <div class="container">
                     <div class="pg-tp-wrp">
                         <h1 itemprop="headline">Contact Us</h1>

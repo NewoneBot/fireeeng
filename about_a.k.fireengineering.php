@@ -215,7 +215,7 @@ To become the <strong>leading fire extinguisher supplier</strong> and <strong>fi
 
         <section>
     <div class="gap theme-bg-layer opc9 hlf-parallax">
-        <div class="fixed-bg" style="background-image: url(assets/images/parallax1.jpg);"></div>
+        <div class="fixed-bg" style="background-image: url(assets/images/para-new.jpg);"></div>
         <div class="sec-tl text-center">
             <span>Top Quality Fire Safety Products from <strong>A.K. Fire Engineering</strong></span>
             <h2 itemprop="headline">Our Products</h2>
@@ -387,68 +387,73 @@ To become the <strong>leading fire extinguisher supplier</strong> and <strong>fi
 
     
 
-       <section>
-    <div class="gap">
-        <div class="container">
-            <div class="text-center mb-5">
-                <span>Top Quality Fire Safety Equipment from <strong>A.K. Fire Engineering</strong></span>
-                <h2 class="mt-2" itemprop="headline">
-                    Top Selling <span class="theme-clr">Products</span>
-                </h2>
-            </div>
-
-            <div class="row g-4 text-center">
-                <!-- Product 1 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 2 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Smoke detectors and Sprinklers</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 3 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_3.jpg" alt="Fire Hose Pipes" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers Pumps</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Product 3 -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="card h-100 border-0">
-                        <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
-                             style="width:100%; height:250px; object-fit:cover;">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong>Fire Extinguishers Hose Pipes</strong></h5>
-                            <p class="text-theme" style="color:#d2691e;">Fire Hydrant Equipment</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+       <section style="padding: 60px 0; background-color: #f8f9fa;">
+  <div class="container">
+    <!-- Section Heading -->
+    <div class="text-center mb-5">
+      <span style="font-size: 18px; color: #555;">
+        Top Quality Fire Safety Equipment from 
+        <strong style="color: #d2691e;">A.K. Fire Engineering</strong>
+      </span>
+      <h2 class="mt-3" style="font-weight: 700; color: #222;">
+        Top Selling <span style="color: #d2691e;">Products</span>
+      </h2>
     </div>
+
+    <div class="row g-4 text-center">
+      <!-- Product 1 -->
+      <div class="col-md-3 col-sm-6">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_1.jpg" alt="Single Landing Valve Type (A)" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Fire Extinguishers</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product 2 -->
+      <div class="col-md-3 col-sm-6">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_2.jpg" alt="Double Landing Valve Type (B)" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Smoke Detectors & Sprinklers</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product 3 -->
+      <div class="col-md-3 col-sm-6">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_3.webp" alt="Fire Hose Pipes" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Fire Extinguisher Pumps</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product 4 -->
+      <div class="col-md-3 col-sm-6">
+        <div class="card h-100 border-0"
+             style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <img src="assets/images/topp_4.jpg" alt="Fire Hose Pipes" 
+               style="width:300px; height:300px;">
+          <div class="card-body" style="padding: 20px;">
+            <h5 class="card-title" style="font-weight:600; color:#222;">Fire Hose Pipes</h5>
+            <p class="text-theme" style="color:#d2691e; font-size:15px; margin-bottom:0;">Fire Hydrant Equipment</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
         <!-- footer -->
