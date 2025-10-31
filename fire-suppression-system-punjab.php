@@ -210,7 +210,7 @@
         <div class="gap black-layer opc8 overlap144">
           <div
             class="fixed-bg2"
-            style="background-image: url(assets/images/pg-tp-bg.jpg)"
+            style="background-image: url(assets/images/product2_bg.jpeg)"
           ></div>
           <div class="container">
             <div class="pg-tp-wrp">
@@ -347,7 +347,7 @@ Our <strong>Automatic Sprinkler System in Punjab</strong> is designed to detect 
                         <div class="row align-items-center py-4">
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr" style="color: #d2691e"
+                              <span class="theme-clr"
                                 >Fire Hydrant</span
                               > System
                             </h3>

@@ -224,23 +224,23 @@ To become the <strong>leading fire extinguisher supplier</strong> and <strong>fi
         <div class="vdo-sec-wrp">
             <div class="vdo-car owl-carousel">
                 <div class="vdo-bx">
-                    <img src="assets/images/products/product1_01.png" alt="vdo-img1-1" itemprop="image"
+                    <img src="assets/images/products/AutomaticSprinklerSystem.jpeg" alt="vdo-img1-1" itemprop="image"
                          style="width:350px; height:200px; object-fit:cover;">
                 </div>
                 <div class="vdo-bx">
-                    <img src="assets/images/products/product1_02.png" alt="vdo-img1-2" itemprop="image"
+                    <img src="assets/images/products/smokeD.jpeg" alt="vdo-img1-2" itemprop="image"
                          style="width:350px; height:200px; object-fit:cover;">
                 </div>
                 <div class="vdo-bx">
-                    <img src="assets/images/products/product2_01.png" alt="vdo-img1-3" itemprop="image"
+                    <img src="assets/images/products/WetRiserSystem.jpeg" alt="vdo-img1-3" itemprop="image"
                          style="width:350px; height:200px; object-fit:cover;">
                 </div>
                 <div class="vdo-bx">
-                    <img src="assets/images/products/product2_02.png" alt="vdo-img1-4" itemprop="image"
+                    <img src="assets/images/products/FireHydrantSystem.jpeg" alt="vdo-img1-4" itemprop="image"
                          style="width:350px; height:200px; object-fit:cover;">
                 </div>
                 <div class="vdo-bx">
-                    <img src="assets/images/products/product2_03.png" alt="vdo-img1-5" itemprop="image"
+                    <img src="assets/images/products/flameD.webp" alt="vdo-img1-5" itemprop="image"
                          style="width:350px; height:200px; object-fit:cover;">
                 </div>
             </div>

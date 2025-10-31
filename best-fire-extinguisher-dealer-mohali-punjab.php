@@ -1,155 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
   <!-- Mirrored from nauthemes.net/html/naar/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:26 GMT -->
-
   <head>
     <meta charset="UTF-8" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-
     <title>
-      High-Quality Fire Hydrant Landing Valves | A.K. Fire Engineering Mohali
+      Fire Hose Reel Suppliers Punjab | Fire Safety Equipment & Fire Protection
+      Systems
     </title>
 
     <meta
       name="description"
-      content="As a leading high-quality fire hydrant valve supplier in Mohali, we specialize in Single Landing Valve Type A and Type B, wet riser system valves, and dry riser system valves designed for maximum efficiency and durability. Our industrial fire hydrant valves and fire protection valves in Mohali are precision-engineered to meet the highest safety standards."
+      content="Get high-quality fire hose drums Mohali, fire hose suppliers Mohali, and fire hose reel suppliers Punjab. We provide durable fire hose pipes Punjab, expert fire hose maintenance Mohali, and high-pressure fire hoses Punjab. Trusted for commercial fire hose reels Mohali, industrial fire hose suppliers Punjab, and comprehensive fire safety equipment, fire extinguishers, and fire safety systems. Fast, affordable, and reliable fire protection solutions."
     />
-
     <meta
       name="keywords"
-      content="High-Quality Fire Hydrant Landing Valves, A.K. Fire Engineering Mohali, Fire Engineering Company in Mohali, Trusted Fire Safety Solutions Mohali, Fire Hydrant Valve Supplier Mohali, Fire Hydrant System Components Punjab, Single Landing Valve Type A / Type B, Dry Riser System Valve Punjab, Fire Protection Valves Mohali, Industrial Fire Hydrant Valves, Wet Riser System Valve Mohali, Firefighting Equipment Supplier Mohali, Fire Protection System Components Punjab, Industrial Fire Hydrant Valve"
+      content="Fire hose drums Mohali, Fire hose suppliers Mohali, Fire hose reel suppliers Punjab, Fire hose pipes Punjab, Fire hose maintenance Mohali, High-pressure fire hoses Punjab, Commercial fire hose reels Mohali, Industrial fire hose suppliers Punjab, Fire hoses, Fire hose reels, Fire drums, Fire safety equipment, Fire hose suppliers, Fire extinguisher, Fire protection, Fire safety systems"
     />
-
-    <link
-      rel="canonical"
-      href="https://www.akfireengineering.com/landing-valve-supplier-mohali-punjab/"
-    />
-
-    <!-- Favicons -->
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo.png"
-      sizes="any"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/favicon-16x16.png"
-      sizes="16x16"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/favicon-32x32.png"
-      sizes="32x32"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/android-chrome-192x192.png"
-      sizes="192x192"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/android-chrome-512x512.png"
-      sizes="512x512"
-    />
-    <link
-      rel="apple-touch-icon"
-      href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
-      sizes="180x180"
-    />
-    <link
-      rel="manifest"
-      href="https://ak_fire_engineering.in/image/logo/site.webmanifest"
-    />
-
-    <!-- Open Graph -->
-    <meta
-      property="og:title"
-      content="High-Quality Fire Hydrant Landing Valves | A.K. Fire Engineering Mohali"
-    />
-    <meta
-      property="og:description"
-      content="As a leading fire hydrant valve supplier in Mohali, we specialize in Single Landing Valve Type A and Type B, wet and dry riser system valves for top fire safety performance."
-    />
-    <meta
-      property="og:url"
-      content="https://www.akfireengineering.com/landing-valve-supplier-mohali-punjab"
-    />
-    <meta property="og:site_name" content="A.K. Fire Engineering" />
-    <meta property="og:locale" content="en_IN" />
-    <meta property="og:type" content="website" />
-    <meta
-      property="og:image"
-      content="https://www.akfireengineering.com/landing-valve-supplier-mohali-punjab"
-    />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta
-      property="og:image:alt"
-      content="Fire Hydrant Landing Valves – A.K. Fire Engineering Mohali"
-    />
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="High-Quality Fire Hydrant Landing Valves | A.K. Fire Engineering"
-    />
-    <meta
-      name="twitter:description"
-      content="As a leading fire hydrant valve supplier in Mohali, we specialize in Single Landing Valve Type A and Type B, wet riser and dry riser valves engineered to top safety standards."
-    />
-    <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
-
-    <!-- Robots -->
-    <meta name="robots" content="index, follow" />
-    <meta
-      name="googlebot"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="yahooSeeker"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="msnbot"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="yandexBot"
-      content="index, follow, max-image-preview:large, max-snippet:-1"
-    />
-    <meta name="duckDuckBot" content="index, follow" />
-    <meta name="baiduSpider" content="index, follow" />
-
-    <!-- Verification -->
-    <meta
-      name="google-site-verification"
-      content="replace-this-with-your-google-verification-code"
-    />
-    <meta
-      name="yandex-verification"
-      content="replace-this-with-your-yandex-verification-code"
-    />
-
-    <!-- Other Meta -->
     <meta name="author" content="Nikhil" />
-    <meta name="publisher" content="A.K. Fire Engineering" />
-    <meta name="google" content="notranslate" />
-    <meta name="geo.region" content="IN-PB" />
-    <meta name="geo.placename" content="Mohali" />
-    <meta name="geo.position" content="30.666366;76.719084" />
-    <meta name="ICBM" content="30.666366,76.719084" />
-    <meta name="DC.title" content="High-Quality Fire Hydrant Landing Valves" />
-    <meta name="distribution" content="global" />
+    <meta name="publisher" content="AK Fire Engineering" />
     <meta name="copyright" content="©A.K. Fire Engineering" />
+    <meta name="robots" content="index, follow" />
+    <meta name="google" content="notranslate" />
+    <meta name="geo.region" content="30.666366,76.719084" />
+    <meta name="geo.placename" content="IN-PB" />
+    <meta name="geo.position" content="30.666366,76.719084" />
+    <meta name="ICBM" content="30.666366,76.719084" />
+    <meta
+      name="DC.title"
+      content="Fire Extinguisher Mohali | Fire Safety & Refilling Services"
+    />
+    <meta name="distribution" content="global" />
     <meta name="language" content="en" />
     <meta name="rating" content="General" />
     <meta name="expires" content="never" />
@@ -161,7 +45,103 @@
     <meta name="state" content="Mohali" />
     <meta name="city" content="Mohali" />
 
-    <!-- CSS Files -->
+    <!-- Canonical -->
+    <link
+      rel="canonical"
+      href="https://freelancesociety.in/services-reels-drums-hose-punjab-mohali/"
+    />
+
+    <!-- Icons -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="https://freelancesociety.in/image/logo/favicon-16x16.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="https://freelancesociety.in/image/logo/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="https://freelancesociety.in/image/logo/android-chrome-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="https://freelancesociety.in/image/logo/android-chrome-512x512.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
+    />
+    <link
+      rel="manifest"
+      href="https://freelancesociety.in/image/logo/site.webmanifest"
+    />
+
+    <!-- Open Graph Meta -->
+    <meta
+      property="og:title"
+      content="Fire Hose Reel Suppliers Punjab | Fire Safety Equipment & Fire Protection Systems"
+    />
+    <meta
+      property="og:description"
+      content="Get high-quality fire hose drums Mohali, fire hose suppliers Mohali, and fire hose reel suppliers Punjab. We provide durable fire hose pipes Punjab, expert fire hose maintenance Mohali, and high-pressure fire hoses Punjab. Trusted for commercial fire hose reels Mohali, industrial fire hose suppliers Punjab, and comprehensive fire safety equipment, fire extinguishers, and fire safety systems. Fast, affordable, and reliable fire protection solutions."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://akfireengineering.com/services-reels-drums-hose-punjab-mohali/"
+    />
+    <meta property="og:site_name" content="AK Fire Engineering" />
+    <meta property="og:locale" content="en_IN" />
+    <meta
+      property="og:image"
+      content="https://akfireengineering.com/fire-extinguisher-supplier-mohali"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Fire extinguisher Mohali – trusted fire safety equipment"
+    />
+
+    <!-- Twitter Meta -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Fire Hose Reel Suppliers Punjab | Fire Safety Equipment & Fire Protection Systems"
+    />
+    <meta
+      name="twitter:description"
+      content="Get high-quality fire hose drums Mohali, fire hose suppliers Mohali, and fire hose reel suppliers Punjab. We provide durable fire hose pipes Punjab, expert fire hose maintenance Mohali, and high-pressure fire hoses Punjab. Trusted for commercial fire hose reels Mohali, industrial fire hose suppliers Punjab, and comprehensive fire safety equipment, fire extinguishers, and fire safety systems. Fast, affordable, and reliable fire protection solutions."
+    />
+    <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+
+    <!-- Robots Meta -->
+    <meta
+      name="robots"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />
+
+    <!-- Google/Yandex Verification -->
+    <meta
+      name="google-site-verification"
+      content="replace-this-with-your-google-verification-code"
+    />
+    <meta
+      name="yandex-verification"
+      content="replace-this-with-your-yandex-verification-code"
+    />
+
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="assets/css/icons.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
@@ -171,8 +151,6 @@
       type="image/png"
       href="assets/images/A.K.icon.png"
     />
-
-    <!-- Color Schemes -->
     <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
     <link
       rel="alternate stylesheet"
@@ -208,12 +186,12 @@
         <div class="gap black-layer opc8 overlap144">
           <div
             class="fixed-bg2"
-            style="background-image: url(assets/images/product1_bg.jpeg)"
+            style="background-image: url(assets/images/product3_bg.jpeg)"
           ></div>
           <div class="container">
             <div class="pg-tp-wrp">
               <h1 itemprop="headline">
-                Fire Detection and Alarm System in Punjab
+                Fire Extinguisher Dealer in Mohali, Punjab
               </h1>
               <ol class="breadcrumb">
                 <li class="breadcrumb-item">
@@ -223,7 +201,7 @@
                   <a href="blog.html" title="" itemprop="url">Products</a>
                 </li>
                 <li class="breadcrumb-item active">
-                  Fire Detection and Alarm System in Punjab
+                  Fire Extinguisher Dealer in Mohali, Punjab
                 </li>
               </ol>
             </div>
@@ -296,28 +274,16 @@
                   <div class="blog-detail">
                     <div class="blog-detail-desc">
                       <h3>
-                        <span class="theme-clr">Fire Detection</span> and
-                        <span class="theme-clr">Alarm System</span> in Punjab
+                        <span class="theme-clr">Fire Extinguisher</span> Dealer in
+                        <span class="theme-clr">Mohali</span>, Punjab
                       </h3>
 
                       <p itemprop="description">
-                        We provide a complete range of
-                        <strong>fire safety solutions in Mohali, Punjab</strong
-                        >, including
-                        <strong
-                          >Fire Alarm, Smoke Detector, Heat Sensor, Flame
-                          Detector, and overall Fire Safety systems. Our
-                          offerings also include Fire Detection and Alarm
-                          Systems</strong
-                        >, Smoke and Heat Detectors,
-                        <strong
-                          >Flame Detection Sensors, Manual Call Points (MCP),
-                          Fire Alarm Control Panels (FACP), Sounders and Sirens,
-                          Strobe Lights and Flashing Beacons, Fire Alarm
-                          Signaling Devices, Early Fire Warning Systems</strong
-                        >, and <strong>Automatic Fire Safety Systems</strong>
-                        to ensure maximum protection for residential,
-                        commercial, and industrial spaces.
+                        Looking for a trusted <strong>Fire Extinguisher Dealer in Mohali, Punjab,</strong> we provide 
+                        a complete range of high-quality <strong>Portable Fire Extinguishers</strong> to ensure your 
+                        safety. Our products include <strong>Water Type Fire Extinguishers</strong>, <strong>Foam Type Fire 
+                        Extinguishers</strong>, <strong>CO2 Type Fire Extinguishers</strong>, <strong>Dry Chemical Powder (DCP) Fire 
+                        Extinguishers</strong>, and <strong>Clean Agent Fire Extinguishers</strong>.
                       </p>
                     </div>
                   </div>
@@ -328,7 +294,7 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/smokeD.jpeg"
+                              src="assets/images/products/WaterTypeFireExtinguisher.jpeg"
                               alt="Smoke Detectors"
                               style="
                                 width: 100%;
@@ -341,7 +307,8 @@
                           </div>
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Smoke</span> Detectors
+                              <span class="theme-clr">Water Type Fire</span> Extinguisher
+                               
                             </h3>
                             <p
                               itemprop="description"
@@ -352,8 +319,7 @@
                                 color: #555;
                               "
                             >
-                              Smoke detectors are devices that sense smoke particles present in the air. <strong>Smoke Detectors in Mohali, Punjab</strong> are very important for both residential and commercial buildings. When smoke is detected, they immediately trigger an alarm, allowing early fire detection and quick evacuation. These <strong>Smoke and Heat Detectors in Mohali, Punjab</strong> are core components that provide effective fire safety.
-                            </p>
+Our <strong>Water Type Fire Extinguisher in Mohali, Punjab</strong> is perfect for tackling <strong>Class A fires</strong> involving materials like wood, paper, and cloth. As a <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, we provide high-quality <strong>Water Type Fire Extinguishers</strong> that cool the burning materials effectively. Whether you need a <strong>Portable Fire Extinguisher</strong> or a <strong>Water Type Fire Extinguisher</strong>, we ensure complete fire safety for homes, schools, and offices across <strong>Mohali, Punjab</strong>                            </p>
                           </div>
                         </div>
 
@@ -361,10 +327,8 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr" style="color: #d2691e"
-                                >Heat</span
-                              >
-                              Detectors
+                              <span class="theme-clr"
+                                >Foam Type Fire</span> Extinguisher
                             </h3>
                             <p
                               itemprop="description"
@@ -375,12 +339,11 @@
                                 color: #555;
                               "
                             >
-                              Heat detectors monitor changes in temperature. When the temperature rises above a certain limit, these detectors activate the alarm. <strong>Heat Sensors in Mohali, Punjab</strong> are useful in areas where smoke may not be present but heat levels are high. These devices are part of the <strong>Automatic Fire Safety System</strong>, providing early warning of potential fire hazards.
-                            </p>
+<strong>Foam Type Fire Extinguishers</strong> are suitable for <strong>Class A and B fires</strong> caused by flammable liquids like petrol, diesel, or oil. As a trusted <strong>Fire Extinguisher Dealer in Mohali, Punjab</strong>, we supply <strong>Foam Type Fire Extinguishers</strong> that form a thick foam layer to cut off oxygen and prevent the fire from reigniting. For the best <strong>Portable Fire Extinguisher in Mohali</strong>, choose our <strong>Foam Fire Extinguishers</strong> that ensure effective and long-lasting protection.                            </p>
                           </div>
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/heatD.jpeg"
+                              src="assets/images/products/FoamTypeFireExtinguisher.jpeg"
                               alt="Heat Detectors"
                               style="
                                 width: 100%;
@@ -397,7 +360,7 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/flameD.webp"
+                              src="assets/images/products/CO2TypeFireExtinguisher.jpeg"
                               alt="Flame Detectors"
                               style="
                                 width: 100%;
@@ -410,7 +373,7 @@
                           </div>
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Flame</span> Detectors
+                              <span class="theme-clr">CO2 Type Fire</span> Extinguisher
                             </h3>
                             <p
                               itemprop="description"
@@ -421,8 +384,7 @@
                                 color: #555;
                               "
                             >
-                              Flame detectors detect the actual light (flame) of a fire, usually through ultraviolet (UV) or infrared (IR) light. <strong>Flame Detectors in Mohali, Punjab</strong> or <strong>Flame Detection Sensors</strong> provide a fast response and are especially used in industries or hazardous areas where the risk of flames is high. These are an important part of the system that ensures early fire detection.
-                            </p>
+Our <strong>CO₂ Type Fire Extinguisher in Mohali, Punjab</strong> is ideal for <strong>electrical and flammable liquid fires</strong>. The <strong>CO₂ Fire Extinguisher</strong> discharges carbon dioxide to eliminate oxygen and cool down the flames. As a <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we supply <strong>Portable CO₂ Fire Extinguishers</strong> suitable for offices, data centers, and industrial setups. For effective electrical fire control, trust the <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>.                            </p>
                           </div>
                         </div>
 
@@ -430,8 +392,7 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              Manual
-                              <span class="theme-clr">Call Points</span> (MCPs)
+                              <span class="theme-clr">Dry Chemical Powder (DCP)</span> Fire Extinguisher
                             </h3>
                             <p
                               itemprop="description"
@@ -442,12 +403,11 @@
                                 color: #555;
                               "
                             >
-                              <strong>Manual Call Points (MCPs)</strong> are buttons or glass panels that manually activate the <strong>Fire Alarm in Mohali, Punjab</strong> during emergencies. When someone sees a fire, they can press or break the MCP to notify the alarm system so that everyone can be alerted quickly. It is a vital signaling device in any fire safety system.
-                            </p>
+<strong>Dry Chemical Powder (DCP) Fire Extinguishers</strong> are the most versatile and powerful options for fighting <strong>Class A, B, and C fires</strong>. Our <strong>Dry Chemical Powder Fire Extinguisher in Mohali, Punjab</strong> is designed for quick fire suppression in industrial, commercial, and residential spaces. As a <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong>, we provide <strong>Portable DCP Fire Extinguishers</strong> that deliver reliable performance when you need them the most.                            </p>
                           </div>
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/ManualCallPoints.jpeg"
+                              src="assets/images/products/DryChemicalPowder(DCP)FireExtinguisher.jpeg"
                               alt="Manual Call Points"
                               style="
                                 width: 100%;
@@ -464,7 +424,7 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/FireAlarmControlPanel.jpeg"
+                              src="assets/images/products/CleanAgentFireExtinguisher.jpeg"
                               alt="Fire Alarm Control Panel"
                               style="
                                 width: 100%;
@@ -477,9 +437,7 @@
                           </div>
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              Fire
-                              <span class="theme-clr">Alarm Control Panel</span>
-                              (FACP)
+                              <span class="theme-clr">Clean Agent</span> Fire Extinguisher
                             </h3>
                             <p
                               itemprop="description"
@@ -490,8 +448,7 @@
                                 color: #555;
                               "
                             >
-                              The <strong>Fire Alarm Control Panel (FACP)</strong> is the brain of the entire fire detection system. It receives signals from sensors, triggers alarms, and displays the system’s status. In Mohali, Punjab, this panel acts as the central control center of the <strong>Fire Detection and Alarm System</strong>, managing timely alerts and monitoring.
-                            </p>
+<strong>Clean Agent Fire Extinguishers</strong> are perfect for protecting sensitive equipment like computers, servers, and electronics. Our <strong>Fire Extinguisher in Mohali, Punjab</strong> range includes <strong>Clean Agent Fire Extinguishers</strong> that are safe, eco-friendly, and residue-free. As a leading <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we ensure that your property and people are protected with the best <strong>fire safety solutions</strong> available in <strong>Mohali</strong>                            </p>
                           </div>
                         </div>
 
@@ -499,9 +456,7 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Sounders / Hooters / Sirens</span
-                              >
+                               <span class="theme-clr">Portable</span> Fire Extinguisher
                             </h3>
                             <p
                               itemprop="description"
@@ -512,12 +467,11 @@
                                 color: #555;
                               "
                             >
-                              These devices emit loud audible alarms to alert people inside the building about a fire and to initiate evacuation. <strong>Sounders and Sirens</strong> attract maximum attention during emergency situations and play a crucial role in fire safety.
-                            </p>
+We are the <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, offering a full range of <strong>Portable Fire Extinguishers</strong>, including <strong>Water Type, Foam Type, CO₂ Type, Dry Chemical Powder (DCP), and Clean Agent Fire Extinguishers</strong>. Our <strong>Portable Fire Extinguishers in Mohali</strong> are easy to use, durable, and highly effective during emergencies. Choose the <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong> for certified, high-quality <strong>Fire Extinguishers in Mohali, Punjab</strong>                            </p>
                           </div>
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/SoundersHootersSirens.jpeg"
+                              src="assets/images/products/PortableFireExtinguisher.jpeg"
                               alt="Sounders / Hooters / Sirens"
                               style="
                                 width: 100%;
@@ -527,41 +481,6 @@
                                 box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
                               "
                             />
-                          </div>
-                        </div>
-
-                        <!-- Strobe Lights -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/StrobeLightsFlashingBeacons.jpeg"
-                              alt="Strobe Lights / Flashing Beacons"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Strobe Lights / Flashing Beacons</span
-                              >
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              <strong>Strobe Lights and Flashing Beacons</strong> provide visual alerts, especially in places where loud noises may make audible alarms hard to hear. These flashing lights visually alert people about a fire or emergency, making them an essential part of <strong>Fire Alarm Signaling Devices</strong>.
-                            </p>
                           </div>
                         </div>
                       </div>
@@ -579,7 +498,7 @@
         <div class="gap remove-gap">
           <div class="container">
             <div class="sec-tl">
-              <span>Fire Detection and Alarm System in Punjab</span>
+              <span>best-fire-extinguisher-dealer-mohali-punjab</span>
               <h2 itemprop="headline">Frequently Asked Questions</h2>
             </div>
             <!-- Sec Title -->
@@ -591,35 +510,33 @@
                   <div id="toggle" class="toggle">
                     <div class="toggle-item brd-rd3 activate">
                       <h6 itemprop="headline" class="active">
-                        What is a Fire Detection and Alarm System?
+                        What is the best Fire Extinguisher in Mohali, Punjab?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                          A <strong>Fire Detection and Alarm System in Mohali Punjab</strong> is an integrated setup that quickly detects fire and activates alarms to help people evacuate safely. It includes <strong>Smoke Detector in Mohali Punjab</strong>, <strong>Heat Sensor in Mohali Punjab</strong>, <strong>Manual Call Point (MCP)</strong>, <strong>Fire Alarm Control Panel (FACP)</strong>, and <strong>Sounders and Sirens</strong>. This <strong>Automatic Fire Safety System</strong> provides <strong>Early Fire Warning System</strong> protection for homes and commercial spaces.
+The best <strong>Fire Extinguisher in Mohali, Punjab</strong> depends on the type of fire you want to tackle. For solid materials, a <strong>Water Type Fire Extinguisher</strong> is ideal. For flammable liquids, choose a <strong>Foam Type Fire Extinguisher</strong>. Electrical fires require a <strong>CO2 Type Fire Extinguisher</strong>, while multi-purpose protection can be achieved with a <strong>Dry Chemical Powder (DCP) Fire Extinguisher</strong>.                        </p>
+                      </div>
+                    </div>
+                    <div class="toggle-item brd-rd3">
+                      <h6 itemprop="headline">
+                        Where can I find a Fire Extinguisher Dealer in Mohali, Punjab?
+                        <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
+                      </h6>
+                      <div class="toggle-content">
+                        <p itemprop="description">
+You can find a trusted <strong>Fire Extinguisher Dealer in Mohali, Punjab</strong> who supplies certified and high-quality <strong>Portable Fire Extinguishers</strong>, <strong>Water Type</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>DCP</strong>, and <strong>Clean Agent Fire Extinguishers</strong>. Always choose a dealer with installation and maintenance services for complete <strong>fire safety</strong>
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        What is the difference between a Smoke Detector and a
-                        Heat Detector?
+                        What is a Portable Fire Extinguisher in Mohali?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                           A <strong>Smoke Detector in Mohali Punjab</strong> senses smoke particles in the air, while a <strong>Heat Sensor in Mohali Punjab</strong> monitors sudden increases in temperature. Both devices work together as part of <strong>Smoke and Heat Detectors in Mohali Punjab</strong> to provide effective <strong>Fire Safety in Mohali Punjab</strong>, especially in residential and commercial buildings.
-                        </p>
-                      </div>
-                    </div>
-                    <div class="toggle-item brd-rd3">
-                      <h6 itemprop="headline">
-                        What is the role of a Manual Call Point (MCP)?
-                        <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
-                      </h6>
-                      <div class="toggle-content">
-                        <p itemprop="description">
-                          A <strong>Manual Call Point (MCP)</strong> is used to manually activate the <strong>Fire Alarm in Mohali Punjab</strong> during an emergency. When someone notices a fire, they can press or break the MCP to alert everyone, enabling timely evacuation. It plays a vital role in the <strong>Fire Detection and Alarm System in Mohali Punjab</strong>
+A <strong>Portable Fire Extinguisher in Mohali</strong> is a handheld fire safety device that can be easily moved and used during emergencies. It includes all types: <strong>Water Type Fire Extinguisher</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>Dry Chemical Powder (DCP)</strong>, and <strong>Clean Agent Fire Extinguishers</strong>, suitable for homes, offices, and industrial areas.
                         </p>
                       </div>
                     </div>
@@ -631,34 +548,34 @@
                   <div id="toggle2" class="toggle">
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        What does the Fire Alarm Control Panel (FACP) do?
+                        How often should a Dry Chemical Powder Fire Extinguisher in Mohali, Punjab be serviced?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                           The <strong>Fire Alarm Control Panel (FACP)</strong> acts as the control center of the entire <strong>Fire Detection and Alarm System in Mohali Punjab</strong>. It receives signals from <strong>Smoke and Heat Detectors in Mohali Punjab</strong>, triggers alarms like <strong>Sounders and Sirens</strong>, and assists in monitoring and maintaining the <strong>Automatic Fire Safety System.
+A <strong>Dry Chemical Powder Fire Extinguisher in Mohali, Punjab</strong> should be inspected monthly and serviced annually by a certified <strong>Fire Extinguisher Dealer in Mohali Punjab</strong>. Proper maintenance ensures it works effectively during emergencies and extends its lifespan
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Why are Sounders, Hooters, and Sirens important?
+                        Which Fire Extinguisher Dealer Mohali Punjab is reliable?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                          <strong>Sounders and Sirens</strong> are essential <strong>Fire Alarm Signaling Devices</strong> that emit loud audible alarms to quickly alert people inside the building about a fire. They grab maximum attention during emergencies and form an important part of the <strong>Early Fire Warning System</strong> within the <strong>Fire Alarm in Mohali Punjab</strong>.
+The most reliable <strong>Fire Extinguisher Dealer Mohali Punjab</strong> offers certified <strong>Portable Fire Extinguishers</strong>, installation services, and regular maintenance. They supply all types, including <strong>Water Type</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>Dry Chemical Powder (DCP)</strong>, and <strong>Clean Agent Fire Extinguishers</strong>, ensuring complete <strong>fire protection</strong> for your premises.
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Where are Strobe Lights and Flashing Beacons used?
+                        Can a Clean Agent Fire Extinguisher be used for electronic equipment?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                          <strong>Strobe Lights and Flashing Beacons</strong> provide visual alerts, especially in noisy environments where audible alarms might not be clearly heard. These <strong>Fire Alarm Signaling Devices</strong> visually warn people about fire or emergency situations. They are often paired with <strong>Flame Detector in Mohali Punjab</strong> and <strong>Flame Detection Sensors</strong> for enhanced <strong>Fire Safety in Mohali Punjab</strong>.
+Yes! <strong>Clean Agent Fire Extinguishers</strong> are safe for sensitive equipment like computers and servers. Available through trusted <strong>Fire Extinguisher Dealers in Mohali, Punjab</strong>, they leave no residue and provide fast, effective <strong>fire suppression</strong> for offices, data centers, and hospitals.
                         </p>
                       </div>
                     </div>

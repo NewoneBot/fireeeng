@@ -208,12 +208,12 @@
         <div class="gap black-layer opc8 overlap144">
           <div
             class="fixed-bg2"
-            style="background-image: url(assets/images/product1_bg.jpeg)"
+            style="background-image: url(assets/images/product5_bg.jpeg)"
           ></div>
           <div class="container">
             <div class="pg-tp-wrp">
               <h1 itemprop="headline">
-                Fire Detection and Alarm System in Punjab
+                Emergency and Safety Equipment Mohali Punjab
               </h1>
               <ol class="breadcrumb">
                 <li class="breadcrumb-item">
@@ -223,7 +223,7 @@
                   <a href="blog.html" title="" itemprop="url">Products</a>
                 </li>
                 <li class="breadcrumb-item active">
-                  Fire Detection and Alarm System in Punjab
+                  Emergency and Safety Equipment Mohali Punjab
                 </li>
               </ol>
             </div>
@@ -296,28 +296,12 @@
                   <div class="blog-detail">
                     <div class="blog-detail-desc">
                       <h3>
-                        <span class="theme-clr">Fire Detection</span> and
-                        <span class="theme-clr">Alarm System</span> in Punjab
+                        <span class="theme-clr">Emergency</span> and
+                        <span class="theme-clr">Safety Equipment</span> Mohali Punjab
                       </h3>
 
                       <p itemprop="description">
-                        We provide a complete range of
-                        <strong>fire safety solutions in Mohali, Punjab</strong
-                        >, including
-                        <strong
-                          >Fire Alarm, Smoke Detector, Heat Sensor, Flame
-                          Detector, and overall Fire Safety systems. Our
-                          offerings also include Fire Detection and Alarm
-                          Systems</strong
-                        >, Smoke and Heat Detectors,
-                        <strong
-                          >Flame Detection Sensors, Manual Call Points (MCP),
-                          Fire Alarm Control Panels (FACP), Sounders and Sirens,
-                          Strobe Lights and Flashing Beacons, Fire Alarm
-                          Signaling Devices, Early Fire Warning Systems</strong
-                        >, and <strong>Automatic Fire Safety Systems</strong>
-                        to ensure maximum protection for residential,
-                        commercial, and industrial spaces.
+                        Ensure complete protection for homes, offices, and industrial spaces with our certified <strong>Emergency and Safety Equipment Mohali Punjab</strong>. We provide high-quality <strong>Emergency Exit Signage Mohali Punjab</strong> and reliable <strong>Emergency Light Mohali Punjab</strong> to guide people safely during emergencies. Trust our <strong>Emergency and Safety Equipment</strong> for maximum safety and compliance with all fire and safety regulations.
                       </p>
                     </div>
                   </div>
@@ -328,7 +312,7 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/smokeD.jpeg"
+                              src="assets/images/products/EmergencyExitSignage.jpeg"
                               alt="Smoke Detectors"
                               style="
                                 width: 100%;
@@ -341,7 +325,7 @@
                           </div>
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Smoke</span> Detectors
+                              <span class="theme-clr">Emergency Exit</span> Signage
                             </h3>
                             <p
                               itemprop="description"
@@ -352,7 +336,7 @@
                                 color: #555;
                               "
                             >
-                              Smoke detectors are devices that sense smoke particles present in the air. <strong>Smoke Detectors in Mohali, Punjab</strong> are very important for both residential and commercial buildings. When smoke is detected, they immediately trigger an alarm, allowing early fire detection and quick evacuation. These <strong>Smoke and Heat Detectors in Mohali, Punjab</strong> are core components that provide effective fire safety.
+Our <strong>Emergency Exit Signage Mohali Punjab</strong> is designed to clearly indicate safe evacuation routes during emergencies. These <strong>Emergency Exit Signage</strong> products are made with high-quality materials and LED illumination for visibility even in low-light conditions. They are an essential part of <strong>Emergency and Safety Equipment Mohali Punjab</strong>, ensuring safety in homes, offices, and industrial buildings.
                             </p>
                           </div>
                         </div>
@@ -361,10 +345,9 @@
                         <div class="row align-items-center py-4">
                           <div class="col-md-6">
                             <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr" style="color: #d2691e"
-                                >Heat</span
-                              >
-                              Detectors
+                              <span class="theme-clr"
+                                >Emergency</span
+                              > Light
                             </h3>
                             <p
                               itemprop="description"
@@ -375,12 +358,11 @@
                                 color: #555;
                               "
                             >
-                              Heat detectors monitor changes in temperature. When the temperature rises above a certain limit, these detectors activate the alarm. <strong>Heat Sensors in Mohali, Punjab</strong> are useful in areas where smoke may not be present but heat levels are high. These devices are part of the <strong>Automatic Fire Safety System</strong>, providing early warning of potential fire hazards.
-                            </p>
+<strong>Reliable Emergency Light Mohali Punjab</strong> provides continuous illumination during power outages or fire emergencies. Our <strong>Emergency Light</strong> units are energy-efficient, durable, and an integral part of <strong>Emergency and Safety Equipment Mohali Punjab</strong>. They help guide people safely, reduce panic, and enhance overall safety in residential, commercial, and industrial spaces                            </p>
                           </div>
                           <div class="col-md-6 text-center">
                             <img
-                              src="assets/images/products/heatD.jpeg"
+                              src="assets/images/products/EmergencyLight.jpeg"
                               alt="Heat Detectors"
                               style="
                                 width: 100%;
@@ -390,178 +372,6 @@
                                 box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
                               "
                             />
-                          </div>
-                        </div>
-
-                        <!-- Flame Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/flameD.webp"
-                              alt="Flame Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Flame</span> Detectors
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              Flame detectors detect the actual light (flame) of a fire, usually through ultraviolet (UV) or infrared (IR) light. <strong>Flame Detectors in Mohali, Punjab</strong> or <strong>Flame Detection Sensors</strong> provide a fast response and are especially used in industries or hazardous areas where the risk of flames is high. These are an important part of the system that ensures early fire detection.
-                            </p>
-                          </div>
-                        </div>
-
-                        <!-- Manual Call Points -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              Manual
-                              <span class="theme-clr">Call Points</span> (MCPs)
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              <strong>Manual Call Points (MCPs)</strong> are buttons or glass panels that manually activate the <strong>Fire Alarm in Mohali, Punjab</strong> during emergencies. When someone sees a fire, they can press or break the MCP to notify the alarm system so that everyone can be alerted quickly. It is a vital signaling device in any fire safety system.
-                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/ManualCallPoints.jpeg"
-                              alt="Manual Call Points"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
-
-                        <!-- Fire Alarm Control Panel -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FireAlarmControlPanel.jpeg"
-                              alt="Fire Alarm Control Panel"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              Fire
-                              <span class="theme-clr">Alarm Control Panel</span>
-                              (FACP)
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              The <strong>Fire Alarm Control Panel (FACP)</strong> is the brain of the entire fire detection system. It receives signals from sensors, triggers alarms, and displays the system’s status. In Mohali, Punjab, this panel acts as the central control center of the <strong>Fire Detection and Alarm System</strong>, managing timely alerts and monitoring.
-                            </p>
-                          </div>
-                        </div>
-
-                        <!-- Sounders / Hooters / Sirens -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Sounders / Hooters / Sirens</span
-                              >
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              These devices emit loud audible alarms to alert people inside the building about a fire and to initiate evacuation. <strong>Sounders and Sirens</strong> attract maximum attention during emergency situations and play a crucial role in fire safety.
-                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/SoundersHootersSirens.jpeg"
-                              alt="Sounders / Hooters / Sirens"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
-
-                        <!-- Strobe Lights -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/StrobeLightsFlashingBeacons.jpeg"
-                              alt="Strobe Lights / Flashing Beacons"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Strobe Lights / Flashing Beacons</span
-                              >
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              <strong>Strobe Lights and Flashing Beacons</strong> provide visual alerts, especially in places where loud noises may make audible alarms hard to hear. These flashing lights visually alert people about a fire or emergency, making them an essential part of <strong>Fire Alarm Signaling Devices</strong>.
-                            </p>
                           </div>
                         </div>
                       </div>
@@ -579,7 +389,7 @@
         <div class="gap remove-gap">
           <div class="container">
             <div class="sec-tl">
-              <span>Fire Detection and Alarm System in Punjab</span>
+              <span>Emergency and Safety Equipment Mohali Punjab</span>
               <h2 itemprop="headline">Frequently Asked Questions</h2>
             </div>
             <!-- Sec Title -->
@@ -591,35 +401,34 @@
                   <div id="toggle" class="toggle">
                     <div class="toggle-item brd-rd3 activate">
                       <h6 itemprop="headline" class="active">
-                        What is a Fire Detection and Alarm System?
+                        What is Top Emergency and Safety Equipment?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                          A <strong>Fire Detection and Alarm System in Mohali Punjab</strong> is an integrated setup that quickly detects fire and activates alarms to help people evacuate safely. It includes <strong>Smoke Detector in Mohali Punjab</strong>, <strong>Heat Sensor in Mohali Punjab</strong>, <strong>Manual Call Point (MCP)</strong>, <strong>Fire Alarm Control Panel (FACP)</strong>, and <strong>Sounders and Sirens</strong>. This <strong>Automatic Fire Safety System</strong> provides <strong>Early Fire Warning System</strong> protection for homes and commercial spaces.
+Top <strong>Emergency and Safety Equipment</strong> includes certified products like <strong>Emergency Exit Signage</strong> and <strong>Emergency Light</strong> that ensure safety in homes, offices, and industrial spaces. Investing in the best equipment helps protect lives during emergencies.
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        What is the difference between a Smoke Detector and a
-                        Heat Detector?
+                        What is Emergency Exit Signage Mohali Punjab?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                           A <strong>Smoke Detector in Mohali Punjab</strong> senses smoke particles in the air, while a <strong>Heat Sensor in Mohali Punjab</strong> monitors sudden increases in temperature. Both devices work together as part of <strong>Smoke and Heat Detectors in Mohali Punjab</strong> to provide effective <strong>Fire Safety in Mohali Punjab</strong>, especially in residential and commercial buildings.
+<strong>Emergency Exit Signage Mohali Punjab</strong> clearly indicates safe evacuation routes in case of fire or power failure. These signs are made with high-quality materials and LED illumination to ensure visibility at all times
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        What is the role of a Manual Call Point (MCP)?
+                        Why are Emergency Lights important?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                          A <strong>Manual Call Point (MCP)</strong> is used to manually activate the <strong>Fire Alarm in Mohali Punjab</strong> during an emergency. When someone notices a fire, they can press or break the MCP to alert everyone, enabling timely evacuation. It plays a vital role in the <strong>Fire Detection and Alarm System in Mohali Punjab</strong>
+ <strong>Emergency Light Mohali Punjab</strong> provides illumination during power outages or emergencies, guiding people safely and reducing panic. It is an essential part of <strong>Emergency and Safety Equipment Mohali Punjab</strong>
                         </p>
                       </div>
                     </div>
@@ -631,35 +440,34 @@
                   <div id="toggle2" class="toggle">
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        What does the Fire Alarm Control Panel (FACP) do?
+                        Where can I buy Emergency Exit Signage and Emergency Lights in Mohali?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                           The <strong>Fire Alarm Control Panel (FACP)</strong> acts as the control center of the entire <strong>Fire Detection and Alarm System in Mohali Punjab</strong>. It receives signals from <strong>Smoke and Heat Detectors in Mohali Punjab</strong>, triggers alarms like <strong>Sounders and Sirens</strong>, and assists in monitoring and maintaining the <strong>Automatic Fire Safety System.
+You can get certified <strong>Emergency Exit Signage Mohali Punjab</strong> and <strong>Emergency Light Mohali Punjab</strong> from trusted suppliers of <strong>Emergency and Safety Equipment Mohali Punjab</strong> for homes, offices, and industrial buildings.
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Why are Sounders, Hooters, and Sirens important?
+                        How do I maintain Emergency Exit Signage and Emergency Lights?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                          <strong>Sounders and Sirens</strong> are essential <strong>Fire Alarm Signaling Devices</strong> that emit loud audible alarms to quickly alert people inside the building about a fire. They grab maximum attention during emergencies and form an important part of the <strong>Early Fire Warning System</strong> within the <strong>Fire Alarm in Mohali Punjab</strong>.
+Regularly check the LED lights, battery backup, and visibility of your <strong>Emergency Exit Signage Mohali Punjab</strong> and <strong>Emergency Light Mohali Punjab</strong> to ensure they function properly during emergencies
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Where are Strobe Lights and Flashing Beacons used?
+                        What standards should Emergency and Safety Equipment follow?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-                          <strong>Strobe Lights and Flashing Beacons</strong> provide visual alerts, especially in noisy environments where audible alarms might not be clearly heard. These <strong>Fire Alarm Signaling Devices</strong> visually warn people about fire or emergency situations. They are often paired with <strong>Flame Detector in Mohali Punjab</strong> and <strong>Flame Detection Sensors</strong> for enhanced <strong>Fire Safety in Mohali Punjab</strong>.
-                        </p>
+ All <strong>Emergency and Safety Equipment Mohali Punjab</strong>, including <strong>Emergency Exit Signage</strong> and <strong>Emergency Light</strong>, should comply with national safety standards and certifications to ensure reliability and effective performance during emergencies.                        </p>
                       </div>
                     </div>
                   </div>

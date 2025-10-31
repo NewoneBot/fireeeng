@@ -33,10 +33,11 @@
                                 </li>
 								<li class="menu-item-has-children"><a href="#" title="" itemprop="url">Products <i class="fas fa-angle-down"></i></a>
                                     <ul>
-                                        <li><a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url">Landing Valve</a></li>
-                                        <li><a href="fire-suppression-system-punjab.php" title="" itemprop="url">Couplings,Nozzles and Pipes</a></li>
-										<li><a href="fire-hose-reels-drums-punjab-mohali.php" title="" itemprop="url">Drums and Hose</a></li>
-										<li><a href="top-quality-fire-monitors-collecting-heads.php" title="" itemprop="url">Water Monitors and Collecting Heads</a></li>
+                                        <li><a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url">Fire Detection</a></li>
+                                        <li><a href="fire-suppression-system-punjab.php" title="" itemprop="url">Fire Suppression</a></li>
+										<li><a href="best-fire-extinguisher-dealer-mohali-punjab.php" title="" itemprop="url">Fire Extinguisher</a></li>
+										<li><a href="top-10-fire-safety-accessories-mohali-punjab.php" title="" itemprop="url">Safety Accessories</a></li>
+                                        <li><a href="top-emergency-safety-equipment-mohali-punjab.php" title="" itemprop="url">Emergency Equipment</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.php" title="" itemprop="url">Contact</a></li>
@@ -67,7 +68,7 @@
                 </form>
             </div>
             <div class="lg-mn">
-                <div class="logo"><a href="index.html" title="Logo" itemprop="url"><img src="assets/images/logo2.png" alt="logo2.png" itemprop="image"></a></div>
+                <div class="logo"><a href="index.html" title="Logo" itemprop="url"><img src="assets/images/logo.png" alt="logo.png" itemprop="image"></a></div>
                 <div class="rspn-cnt">
                     <span><i class="fas fa-envelope theme-clr"></i><a href="#" title="" itemprop="url">akfire123@gmail.com</a></span>
                     <span><i class="flaticon-telephone theme-clr"></i>+91 9316004149</span>
@@ -78,14 +79,14 @@
                 <span class="rspn-mnu-cls"><i class="fa fa-times"></i></span>
                 <ul>
                     <li><a href="index.php" title="" itemprop="url">Home</a></li>
-                    <li class="menu-item-has-children"><a href="blog.php" title="" itemprop="url">Blog</a>
-                    </li>
+                    <li><a href="about.php" title="" itemprop="url">About</a></li>
                     <li class="menu-item-has-children"><a href="#" title="" itemprop="url">Products</a>
                         <ul>
-                            <li><a href="product1.php" title="" itemprop="url">Landing Valve</a></li>
-                                        <li><a href="product2.php" title="" itemprop="url">Couplings,Nozzles and Pipes</a></li>
-										<li><a href="product3.php" title="" itemprop="url">Drums and Hose</a></li>
-										<li><a href="product4.php" title="" itemprop="url">Water Monitors and Collecting Heads</a></li>
+                                        <li><a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url">Fire Detection</a></li>
+                                        <li><a href="fire-suppression-system-punjab.php" title="" itemprop="url">Fire Suppression</a></li>
+										<li><a href="best-fire-extinguisher-dealer-mohali-punjab.php" title="" itemprop="url">Fire Extinguisher</a></li>
+										<li><a href="top-10-fire-safety-accessories-mohali-punjab.php" title="" itemprop="url">Safety Accessories </a></li>
+                                        <li><a href="top-emergency-safety-equipment-mohali-punjab.php" title="" itemprop="url">Emergency Equipment</a></li>
                         </ul>
                     </li>
                     <!-- <li class="menu-item-has-children"><a href="#" title="" itemprop="url">Events</a>
@@ -94,7 +95,9 @@
                             <li><a href="event-detail.html" title="" itemprop="url">Event Detail</a></li>
                         </ul>
                     </li> -->
-                    <li><a href="about.php" title="" itemprop="url">About</a></li>
+                    
+                    <li><a href="blog.php" title="" itemprop="url">Blog</a>
+                    </li>
                     <li><a href="contact.php" title="" itemprop="url">Contact</a></li>
                 </ul>
             </div>
