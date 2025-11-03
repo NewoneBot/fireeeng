@@ -159,7 +159,7 @@
                     <!-- About Images -->
                     <div class="col-md-5 col-sm-12 col-lg-5">
                         <div class="abt-img">
-                            <img class="abt-img1" src="assets/images/aboutimg1.jpg" alt="Fire protection equipment" itemprop="image" style="width:100%; height:auto;">
+                            <img class="abt-img1" src="assets/images/aboutimg1.png" alt="Fire protection equipment" itemprop="image" style="width:100%; height:auto;">
                         </div>
                     </div>
                 </div>
@@ -176,7 +176,7 @@
                     <!-- About Images -->
                     <div class="col-md-5 col-sm-12 col-lg-5">
                         <div class="abt-img">
-                            <img class="abt-img1" src="assets/images/aboutimg2.jpg" alt="Fire protection equipment" itemprop="image" style="width:100%; height:auto;">
+                            <img class="abt-img1" src="assets/images/aboutimg2.png" alt="Fire protection equipment" itemprop="image" style="width:100%; height:auto;">
                         </div>
                     </div>
                     <!-- About Text -->
