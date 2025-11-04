@@ -322,251 +322,275 @@
                     </div>
                   </div>
                   <div class="blog-detail">
-                    <div class="blog-detail-desc">
-                      <div class="container">
-                        <!-- Smoke Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/smokeD.jpeg"
-                              alt="Smoke Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Smoke</span> Detectors
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              Smoke detectors are devices that sense smoke particles present in the air. <strong>Smoke Detectors in Mohali, Punjab</strong> are very important for both residential and commercial buildings. When smoke is detected, they immediately trigger an alarm, allowing early fire detection and quick evacuation. These <strong>Smoke and Heat Detectors in Mohali, Punjab</strong> are core components that provide effective fire safety.
-                            </p>
-                          </div>
-                        </div>
+  <div class="blog-detail-desc">
+    <div class="container">
+      <!-- Smoke Detectors -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/smokeD.jpeg"
+            alt="Smoke Detectors"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Smoke</span> Detectors
+          </h3>
+          <p
+            itemprop="description"
+            style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.7;
+              color: #555;
+            "
+          >
+            Smoke detectors are devices that sense smoke particles present in the air.
+            <strong>Smoke Detectors in Mohali, Punjab</strong> are very important for
+            both residential and commercial buildings. When smoke is detected, they
+            immediately trigger an alarm, allowing early fire detection and quick
+            evacuation. These <strong>Smoke and Heat Detectors in Mohali, Punjab</strong>
+            are core components that provide effective fire safety.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Heat Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr" style="color: #d2691e"
-                                >Heat</span
-                              >
-                              Detectors
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              Heat detectors monitor changes in temperature. When the temperature rises above a certain limit, these detectors activate the alarm. <strong>Heat Sensors in Mohali, Punjab</strong> are useful in areas where smoke may not be present but heat levels are high. These devices are part of the <strong>Automatic Fire Safety System</strong>, providing early warning of potential fire hazards.
-                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/heatD.jpeg"
-                              alt="Heat Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Heat Detectors -->
+      <div class="row align-items-center py-4">
+        <!-- Make image appear first on mobile -->
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/heatD.jpeg"
+            alt="Heat Detectors"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Heat</span> Detectors
+          </h3>
+          <p
+            itemprop="description"
+            style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.7;
+              color: #555;
+            "
+          >
+            Heat detectors monitor changes in temperature. When the temperature rises
+            above a certain limit, these detectors activate the alarm.
+            <strong>Heat Sensors in Mohali, Punjab</strong> are useful in areas where
+            smoke may not be present but heat levels are high. These devices are part of
+            the <strong>Automatic Fire Safety System</strong>, providing early warning of
+            potential fire hazards.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Flame Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/flameD.webp"
-                              alt="Flame Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Flame</span> Detectors
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              Flame detectors detect the actual light (flame) of a fire, usually through ultraviolet (UV) or infrared (IR) light. <strong>Flame Detectors in Mohali, Punjab</strong> or <strong>Flame Detection Sensors</strong> provide a fast response and are especially used in industries or hazardous areas where the risk of flames is high. These are an important part of the system that ensures early fire detection.
-                            </p>
-                          </div>
-                        </div>
+      <!-- Flame Detectors -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/flameD.webp"
+            alt="Flame Detectors"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Flame</span> Detectors
+          </h3>
+          <p
+            itemprop="description"
+            style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.7;
+              color: #555;
+            "
+          >
+            Flame detectors detect the actual light (flame) of a fire, usually through
+            ultraviolet (UV) or infrared (IR) light.
+            <strong>Flame Detectors in Mohali, Punjab</strong> or
+            <strong>Flame Detection Sensors</strong> provide a fast response and are
+            especially used in industries or hazardous areas where the risk of flames is
+            high. These are an important part of the system that ensures early fire
+            detection.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Manual Call Points -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              Manual
-                              <span class="theme-clr">Call Points</span> (MCPs)
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              <strong>Manual Call Points (MCPs)</strong> are buttons or glass panels that manually activate the <strong>Fire Alarm in Mohali, Punjab</strong> during emergencies. When someone sees a fire, they can press or break the MCP to notify the alarm system so that everyone can be alerted quickly. It is a vital signaling device in any fire safety system.
-                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/ManualCallPoints.jpeg"
-                              alt="Manual Call Points"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Manual Call Points -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/ManualCallPoints.jpeg"
+            alt="Manual Call Points"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            Manual <span class="theme-clr">Call Points</span> (MCPs)
+          </h3>
+          <p
+            itemprop="description"
+            style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.7;
+              color: #555;
+            "
+          >
+            <strong>Manual Call Points (MCPs)</strong> are buttons or glass panels that
+            manually activate the <strong>Fire Alarm in Mohali, Punjab</strong> during
+            emergencies. When someone sees a fire, they can press or break the MCP to
+            notify the alarm system so that everyone can be alerted quickly. It is a
+            vital signaling device in any fire safety system.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Fire Alarm Control Panel -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FireAlarmControlPanel.jpeg"
-                              alt="Fire Alarm Control Panel"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              Fire
-                              <span class="theme-clr">Alarm Control Panel</span>
-                              (FACP)
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              The <strong>Fire Alarm Control Panel (FACP)</strong> is the brain of the entire fire detection system. It receives signals from sensors, triggers alarms, and displays the system’s status. In Mohali, Punjab, this panel acts as the central control center of the <strong>Fire Detection and Alarm System</strong>, managing timely alerts and monitoring.
-                            </p>
-                          </div>
-                        </div>
+      <!-- Fire Alarm Control Panel -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/FireAlarmControlPanel.jpeg"
+            alt="Fire Alarm Control Panel"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            Fire <span class="theme-clr">Alarm Control Panel</span> (FACP)
+          </h3>
+          <p
+            itemprop="description"
+            style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.7;
+              color: #555;
+            "
+          >
+            The <strong>Fire Alarm Control Panel (FACP)</strong> is the brain of the
+            entire fire detection system. It receives signals from sensors, triggers
+            alarms, and displays the system’s status. In Mohali, Punjab, this panel acts
+            as the central control center of the
+            <strong>Fire Detection and Alarm System</strong>, managing timely alerts and
+            monitoring.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Sounders / Hooters / Sirens -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Sounders / Hooters / Sirens</span
-                              >
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              These devices emit loud audible alarms to alert people inside the building about a fire and to initiate evacuation. <strong>Sounders and Sirens</strong> attract maximum attention during emergency situations and play a crucial role in fire safety.
-                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/SoundersHootersSirens.jpeg"
-                              alt="Sounders / Hooters / Sirens"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Sounders / Hooters / Sirens -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/SoundersHootersSirens.jpeg"
+            alt="Sounders / Hooters / Sirens"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Sounders / Hooters / Sirens</span>
+          </h3>
+          <p
+            itemprop="description"
+            style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.7;
+              color: #555;
+            "
+          >
+            These devices emit loud audible alarms to alert people inside the building
+            about a fire and to initiate evacuation. <strong>Sounders and Sirens</strong>
+            attract maximum attention during emergency situations and play a crucial
+            role in fire safety.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Strobe Lights -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/StrobeLightsFlashingBeacons.jpeg"
-                              alt="Strobe Lights / Flashing Beacons"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Strobe Lights / Flashing Beacons</span
-                              >
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-                              <strong>Strobe Lights and Flashing Beacons</strong> provide visual alerts, especially in places where loud noises may make audible alarms hard to hear. These flashing lights visually alert people about a fire or emergency, making them an essential part of <strong>Fire Alarm Signaling Devices</strong>.
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+      <!-- Strobe Lights -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/StrobeLightsFlashingBeacons.jpeg"
+            alt="Strobe Lights / Flashing Beacons"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Strobe Lights / Flashing Beacons</span>
+          </h3>
+          <p
+            itemprop="description"
+            style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.7;
+              color: #555;
+            "
+          >
+            <strong>Strobe Lights and Flashing Beacons</strong> provide visual alerts,
+            especially in places where loud noises may make audible alarms hard to hear.
+            These flashing lights visually alert people about a fire or emergency,
+            making them an essential part of
+            <strong>Fire Alarm Signaling Devices</strong>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
                 </div>
               </div>
             </div>

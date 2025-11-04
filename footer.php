@@ -26,7 +26,7 @@
                       >
                     </li>
                     <li>
-                      <a href="landing-valve-supplier-mohali-punjab.php" title="" itemprop="url"
+                      <a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url"
                         ><i class="fas fa-angle-double-right"></i>Products</a
                       >
                     </li>

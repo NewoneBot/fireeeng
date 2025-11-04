@@ -288,204 +288,216 @@
                     </div>
                   </div>
                   <div class="blog-detail">
-                    <div class="blog-detail-desc">
-                      <div class="container">
-                        <!-- Smoke Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/WaterTypeFireExtinguisher.jpeg"
-                              alt="Smoke Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Water Type Fire</span> Extinguisher
-                               
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Our <strong>Water Type Fire Extinguisher in Mohali, Punjab</strong> is perfect for tackling <strong>Class A fires</strong> involving materials like wood, paper, and cloth. As a <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, we provide high-quality <strong>Water Type Fire Extinguishers</strong> that cool the burning materials effectively. Whether you need a <strong>Portable Fire Extinguisher</strong> or a <strong>Water Type Fire Extinguisher</strong>, we ensure complete fire safety for homes, schools, and offices across <strong>Mohali, Punjab</strong>                            </p>
-                          </div>
-                        </div>
+  <div class="blog-detail-desc">
+    <div class="container">
 
-                        <!-- Heat Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Foam Type Fire</span> Extinguisher
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-<strong>Foam Type Fire Extinguishers</strong> are suitable for <strong>Class A and B fires</strong> caused by flammable liquids like petrol, diesel, or oil. As a trusted <strong>Fire Extinguisher Dealer in Mohali, Punjab</strong>, we supply <strong>Foam Type Fire Extinguishers</strong> that form a thick foam layer to cut off oxygen and prevent the fire from reigniting. For the best <strong>Portable Fire Extinguisher in Mohali</strong>, choose our <strong>Foam Fire Extinguishers</strong> that ensure effective and long-lasting protection.                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FoamTypeFireExtinguisher.jpeg"
-                              alt="Heat Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Water Type Fire Extinguisher -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/WaterTypeFireExtinguisher.jpeg"
+            alt="Smoke Detectors"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Water Type Fire</span> Extinguisher
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            Our <strong>Water Type Fire Extinguisher in Mohali, Punjab</strong> is perfect for tackling
+            <strong>Class A fires</strong> involving materials like wood, paper, and cloth. As a
+            <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, we provide high-quality
+            <strong>Water Type Fire Extinguishers</strong> that cool the burning materials effectively.
+            Whether you need a <strong>Portable Fire Extinguisher</strong> or a
+            <strong>Water Type Fire Extinguisher</strong>, we ensure complete fire safety for homes,
+            schools, and offices across <strong>Mohali, Punjab</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Flame Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/CO2TypeFireExtinguisher.jpeg"
-                              alt="Flame Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">CO2 Type Fire</span> Extinguisher
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Our <strong>CO₂ Type Fire Extinguisher in Mohali, Punjab</strong> is ideal for <strong>electrical and flammable liquid fires</strong>. The <strong>CO₂ Fire Extinguisher</strong> discharges carbon dioxide to eliminate oxygen and cool down the flames. As a <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we supply <strong>Portable CO₂ Fire Extinguishers</strong> suitable for offices, data centers, and industrial setups. For effective electrical fire control, trust the <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>.                            </p>
-                          </div>
-                        </div>
+      <!-- Foam Type Fire Extinguisher -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Foam Type Fire</span> Extinguisher
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            <strong>Foam Type Fire Extinguishers</strong> are suitable for <strong>Class A and B fires</strong>
+            caused by flammable liquids like petrol, diesel, or oil. As a trusted
+            <strong>Fire Extinguisher Dealer in Mohali, Punjab</strong>, we supply
+            <strong>Foam Type Fire Extinguishers</strong> that form a thick foam layer to cut off oxygen and
+            prevent the fire from reigniting. For the best
+            <strong>Portable Fire Extinguisher in Mohali</strong>, choose our
+            <strong>Foam Fire Extinguishers</strong> that ensure effective and long-lasting protection.
+          </p>
+        </div>
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/FoamTypeFireExtinguisher.jpeg"
+            alt="Heat Detectors"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+      </div>
 
-                        <!-- Manual Call Points -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Dry Chemical Powder (DCP)</span> Fire Extinguisher
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-<strong>Dry Chemical Powder (DCP) Fire Extinguishers</strong> are the most versatile and powerful options for fighting <strong>Class A, B, and C fires</strong>. Our <strong>Dry Chemical Powder Fire Extinguisher in Mohali, Punjab</strong> is designed for quick fire suppression in industrial, commercial, and residential spaces. As a <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong>, we provide <strong>Portable DCP Fire Extinguishers</strong> that deliver reliable performance when you need them the most.                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/DryChemicalPowder(DCP)FireExtinguisher.jpeg"
-                              alt="Manual Call Points"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- CO2 Type Fire Extinguisher -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/CO2TypeFireExtinguisher.jpeg"
+            alt="Flame Detectors"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">CO2 Type Fire</span> Extinguisher
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            Our <strong>CO₂ Type Fire Extinguisher in Mohali, Punjab</strong> is ideal for
+            <strong>electrical and flammable liquid fires</strong>. The <strong>CO₂ Fire Extinguisher</strong>
+            discharges carbon dioxide to eliminate oxygen and cool down the flames. As a
+            <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we supply
+            <strong>Portable CO₂ Fire Extinguishers</strong> suitable for offices, data centers, and industrial
+            setups. For effective electrical fire control, trust the
+            <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Fire Alarm Control Panel -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/CleanAgentFireExtinguisher.jpeg"
-                              alt="Fire Alarm Control Panel"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Clean Agent</span> Fire Extinguisher
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-<strong>Clean Agent Fire Extinguishers</strong> are perfect for protecting sensitive equipment like computers, servers, and electronics. Our <strong>Fire Extinguisher in Mohali, Punjab</strong> range includes <strong>Clean Agent Fire Extinguishers</strong> that are safe, eco-friendly, and residue-free. As a leading <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we ensure that your property and people are protected with the best <strong>fire safety solutions</strong> available in <strong>Mohali</strong>                            </p>
-                          </div>
-                        </div>
+      <!-- DCP Fire Extinguisher -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Dry Chemical Powder (DCP)</span> Fire Extinguisher
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            <strong>Dry Chemical Powder (DCP) Fire Extinguishers</strong> are the most versatile and powerful
+            options for fighting <strong>Class A, B, and C fires</strong>. Our
+            <strong>Dry Chemical Powder Fire Extinguisher in Mohali, Punjab</strong> is designed for quick fire
+            suppression in industrial, commercial, and residential spaces. As a
+            <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong>, we provide
+            <strong>Portable DCP Fire Extinguishers</strong> that deliver reliable performance when you need
+            them the most.
+          </p>
+        </div>
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/DryChemicalPowder(DCP)FireExtinguisher.jpeg"
+            alt="Manual Call Points"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+      </div>
 
-                        <!-- Sounders / Hooters / Sirens -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                               <span class="theme-clr">Portable</span> Fire Extinguisher
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-We are the <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, offering a full range of <strong>Portable Fire Extinguishers</strong>, including <strong>Water Type, Foam Type, CO₂ Type, Dry Chemical Powder (DCP), and Clean Agent Fire Extinguishers</strong>. Our <strong>Portable Fire Extinguishers in Mohali</strong> are easy to use, durable, and highly effective during emergencies. Choose the <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong> for certified, high-quality <strong>Fire Extinguishers in Mohali, Punjab</strong>                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/PortableFireExtinguisher.jpeg"
-                              alt="Sounders / Hooters / Sirens"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+      <!-- Clean Agent Fire Extinguisher -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/CleanAgentFireExtinguisher.jpeg"
+            alt="Fire Alarm Control Panel"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Clean Agent</span> Fire Extinguisher
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            <strong>Clean Agent Fire Extinguishers</strong> are perfect for protecting sensitive equipment like
+            computers, servers, and electronics. Our <strong>Fire Extinguisher in Mohali, Punjab</strong> range
+            includes <strong>Clean Agent Fire Extinguishers</strong> that are safe, eco-friendly, and
+            residue-free. As a leading <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we ensure that
+            your property and people are protected with the best <strong>fire safety solutions</strong> available
+            in <strong>Mohali</strong>.
+          </p>
+        </div>
+      </div>
+
+      <!-- Portable Fire Extinguisher -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Portable</span> Fire Extinguisher
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            We are the <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, offering a full range
+            of <strong>Portable Fire Extinguishers</strong>, including
+            <strong>Water Type, Foam Type, CO₂ Type, Dry Chemical Powder (DCP), and Clean Agent Fire
+              Extinguishers</strong>. Our <strong>Portable Fire Extinguishers in Mohali</strong> are easy to use,
+            durable, and highly effective during emergencies. Choose the
+            <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong> for certified, high-quality
+            <strong>Fire Extinguishers in Mohali, Punjab</strong>.
+          </p>
+        </div>
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/PortableFireExtinguisher.jpeg"
+            alt="Sounders / Hooters / Sirens"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
                 </div>
               </div>
             </div>

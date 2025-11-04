@@ -29,8 +29,7 @@
                                         <li><a href="event-detail.html" title="" itemprop="url">Event Detail</a></li>
                                     </ul>
                                 </li> -->
-								<li class="menu-item-has-children"><a href="blog.php" title="" itemprop="url">Our Blog</a>
-                                </li>
+
 								<li class="menu-item-has-children"><a href="#" title="" itemprop="url">Products <i class="fas fa-angle-down"></i></a>
                                     <ul>
                                         <li><a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url">Fire Detection</a></li>
@@ -39,6 +38,8 @@
 										<li><a href="top-10-fire-safety-accessories-mohali-punjab.php" title="" itemprop="url">Safety Accessories</a></li>
                                         <li><a href="top-emergency-safety-equipment-mohali-punjab.php" title="" itemprop="url">Emergency Equipment</a></li>
                                     </ul>
+                                </li>
+                                								<li class="menu-item-has-children"><a href="blog.php" title="" itemprop="url">Our Blog</a>
                                 </li>
                                 <li><a href="contact.php" title="" itemprop="url">Contact</a></li>
                             </ul>

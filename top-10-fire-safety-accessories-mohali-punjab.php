@@ -268,180 +268,174 @@
                     </div>
                   </div>
                   <div class="blog-detail">
-                    <div class="blog-detail-desc">
-                      <div class="container">
-                        <!-- Smoke Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FireBuckets.jpeg"
-                              alt="Smoke Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Fire</span> Buckets
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Ensure maximum fire protection with our sturdy <strong>Fire Buckets Mohali</strong>. Our <strong>Fire Buckets</strong> are designed for quick response during emergencies and are ideal for homes, offices, and industrial spaces. As a trusted <strong>Fire bucket supplier Mohali Punjab</strong>, we provide top-quality products that meet safety standards
-                            </p>
-                          </div>
-                        </div>
+  <div class="blog-detail-desc">
+    <div class="container">
 
-                        <!-- Heat Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Fire</span
-                              >
-                              Blankets
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Protect your kitchen and workplace with premium <strong>Fire Blankets Mohali</strong>. Our <strong>Fire Blankets</strong> are durable, reliable, and essential <strong>Fire safety accessories Mohali Punjab</strong> for extinguishing small fires safely and efficiently.
-                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FireBlankets.jpeg"
-                              alt="Heat Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Fire Buckets -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center">
+          <img
+            src="assets/images/products/FireBuckets.jpeg"
+            alt="Fire Buckets"
+            style="
+              width: 100%;
+              max-width: 320px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+              object-fit: cover;
+            "
+          />
+        </div>
+        <div class="col-md-6">
+          <h3 style="font-weight: 700; color: #222;">
+            <span class="theme-clr">Fire</span> Buckets
+          </h3>
+          <p style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.8;
+              color: #555;
+            ">
+            Ensure maximum fire protection with our sturdy <strong>Fire Buckets Mohali</strong>.
+            Our <strong>Fire Buckets</strong> are designed for quick emergency response and are ideal for homes, offices, and industrial spaces.
+            As a trusted <strong>Fire Bucket Supplier in Mohali Punjab</strong>, we provide top-quality products that meet safety standards.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Flame Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/SmokeCurtain.jpeg"
-                              alt="Flame Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Smoke</span> Curtain
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Control smoke and enhance fire safety with certified <strong>Smoke Curtain Mohali</strong>. These <strong>Smoke Curtains</strong> are perfect for commercial and industrial buildings, ensuring safe evacuation during emergencies while complementing your <strong>fire safety accessories Mohali Punjab</strong>
-                            </p>
-                          </div>
-                        </div>
+      <!-- Fire Blankets -->
+      <div class="row align-items-center py-4 flex-md-row-reverse">
+        <div class="col-md-6 text-center">
+          <img
+            src="assets/images/products/FireBlankets.jpeg"
+            alt="Fire Blankets"
+            style="
+              width: 100%;
+              max-width: 320px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+              object-fit: cover;
+            "
+          />
+        </div>
+        <div class="col-md-6">
+          <h3 style="font-weight: 700; color: #222;">
+            <span class="theme-clr">Fire</span> Blankets
+          </h3>
+          <p style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.8;
+              color: #555;
+            ">
+            Protect your kitchen and workplace with premium <strong>Fire Blankets Mohali</strong>.
+            Our durable and reliable <strong>Fire Blankets</strong> are essential <strong>fire safety accessories</strong> for quickly extinguishing small fires safely and efficiently.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Manual Call Points -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              
-                              <span class="theme-clr">Fire</span> Axe
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Be prepared for any fire emergency with our strong and reliable <strong>Fire Axe Mohali</strong>. A must-have fire safety accessory, the <strong>Fire Axe</strong> allows quick access and safe fire control, making it essential for homes, offices, and industrial sites
-                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FireAxe.jpeg"
-                              alt="Manual Call Points"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Smoke Curtain -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center">
+          <img
+            src="assets/images/products/SmokeCurtain.jpeg"
+            alt="Smoke Curtain"
+            style="
+              width: 100%;
+              max-width: 320px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+              object-fit: cover;
+            "
+          />
+        </div>
+        <div class="col-md-6">
+          <h3 style="font-weight: 700; color: #222;">
+            <span class="theme-clr">Smoke</span> Curtain
+          </h3>
+          <p style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.8;
+              color: #555;
+            ">
+            Control smoke and enhance safety with certified <strong>Smoke Curtain Mohali</strong>.
+            These <strong>Smoke Curtains</strong> are ideal for commercial and industrial spaces, ensuring safe evacuation during emergencies while supporting your <strong>fire safety systems</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Fire Alarm Control Panel -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FirstaAidHoseReels.jpeg"
-                              alt="Fire Alarm Control Panel"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              First Aid
-                              <span class="theme-clr">Hose Reels</span>
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Ensure complete fire readiness with our <strong>First Aid Hose Reels Mohali</strong>. These <strong>First Aid Hose Reels</strong> are durable, easy to use, and an integral part of <strong>Fire safety accessories Mohali Punjab</strong>, helping you handle fire emergencies efficiently.
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+      <!-- Fire Axe -->
+      <div class="row align-items-center py-4 flex-md-row-reverse">
+        <div class="col-md-6 text-center">
+          <img
+            src="assets/images/products/FireAxe.jpeg"
+            alt="Fire Axe"
+            style="
+              width: 100%;
+              max-width: 320px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+              object-fit: cover;
+            "
+          />
+        </div>
+        <div class="col-md-6">
+          <h3 style="font-weight: 700; color: #222;">
+            <span class="theme-clr">Fire</span> Axe
+          </h3>
+          <p style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.8;
+              color: #555;
+            ">
+            Be prepared for emergencies with our durable <strong>Fire Axe Mohali</strong>.
+            This essential <strong>fire safety tool</strong> allows quick access and control during fire incidents — ideal for homes, offices, and industrial setups.
+          </p>
+        </div>
+      </div>
+
+      <!-- First Aid Hose Reels -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center">
+          <img
+            src="assets/images/products/FirstaAidHoseReels.jpeg"
+            alt="First Aid Hose Reels"
+            style="
+              width: 100%;
+              max-width: 320px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+              object-fit: cover;
+            "
+          />
+        </div>
+        <div class="col-md-6">
+          <h3 style="font-weight: 700; color: #222;">
+            First Aid <span class="theme-clr">Hose Reels</span>
+          </h3>
+          <p style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.8;
+              color: #555;
+            ">
+            Ensure complete readiness with our <strong>First Aid Hose Reels Mohali</strong>.
+            These high-quality <strong>Hose Reels</strong> are built for durability, easy use, and play a vital role in comprehensive <strong>fire safety setups</strong> across residential and industrial areas.
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
                 </div>
               </div>
             </div>

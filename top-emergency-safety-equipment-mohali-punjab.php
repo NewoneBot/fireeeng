@@ -306,77 +306,85 @@
                     </div>
                   </div>
                   <div class="blog-detail">
-                    <div class="blog-detail-desc">
-                      <div class="container">
-                        <!-- Smoke Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/EmergencyExitSignage.jpeg"
-                              alt="Smoke Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Emergency Exit</span> Signage
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Our <strong>Emergency Exit Signage Mohali Punjab</strong> is designed to clearly indicate safe evacuation routes during emergencies. These <strong>Emergency Exit Signage</strong> products are made with high-quality materials and LED illumination for visibility even in low-light conditions. They are an essential part of <strong>Emergency and Safety Equipment Mohali Punjab</strong>, ensuring safety in homes, offices, and industrial buildings.
-                            </p>
-                          </div>
-                        </div>
+  <div class="blog-detail-desc">
+    <div class="container">
 
-                        <!-- Heat Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Emergency</span
-                              > Light
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-<strong>Reliable Emergency Light Mohali Punjab</strong> provides continuous illumination during power outages or fire emergencies. Our <strong>Emergency Light</strong> units are energy-efficient, durable, and an integral part of <strong>Emergency and Safety Equipment Mohali Punjab</strong>. They help guide people safely, reduce panic, and enhance overall safety in residential, commercial, and industrial spaces                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/EmergencyLight.jpeg"
-                              alt="Heat Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+      <!-- Emergency Exit Signage -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center">
+          <img
+            src="assets/images/products/EmergencyExitSignage.jpeg"
+            alt="Emergency Exit Signage Mohali Punjab"
+            style="
+              width: 100%;
+              max-width: 320px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+              object-fit: cover;
+              transition: transform 0.3s ease, box-shadow 0.3s ease;
+            "
+            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.3)'"
+            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.2)'"
+          />
+        </div>
+        <div class="col-md-6">
+          <h3 style="font-weight: 700; color: #222;">
+            <span class="theme-clr">Emergency Exit</span> Signage
+          </h3>
+          <p style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.8;
+              color: #555;
+            ">
+            Our <strong>Emergency Exit Signage Mohali Punjab</strong> ensures safe evacuation routes during fire or power emergencies.
+            Each <strong>Emergency Exit Sign</strong> is made with premium materials and LED illumination for visibility even in low-light conditions.
+            These are essential <strong>Emergency and Safety Equipment Mohali Punjab</strong> for homes, offices, and industrial environments.
+          </p>
+        </div>
+      </div>
+
+      <!-- Emergency Light -->
+      <div class="row align-items-center py-4 flex-md-row-reverse">
+        <div class="col-md-6 text-center">
+          <img
+            src="assets/images/products/EmergencyLight.jpeg"
+            alt="Emergency Light Mohali Punjab"
+            style="
+              width: 100%;
+              max-width: 320px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+              object-fit: cover;
+              transition: transform 0.3s ease, box-shadow 0.3s ease;
+            "
+            onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.3)'"
+            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.2)'"
+          />
+        </div>
+        <div class="col-md-6">
+          <h3 style="font-weight: 700; color: #222;">
+            <span class="theme-clr">Emergency</span> Light
+          </h3>
+          <p style="
+              margin-top: 15px;
+              font-size: 16px;
+              line-height: 1.8;
+              color: #555;
+            ">
+            The <strong>Reliable Emergency Light Mohali Punjab</strong> provides continuous illumination during power outages or fire emergencies.
+            Our energy-efficient and durable <strong>Emergency Lights</strong> are vital <strong>Emergency and Safety Equipment Mohali Punjab</strong>,
+            ensuring safe navigation, reducing panic, and maintaining visibility in residential, commercial, and industrial spaces.
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
                 </div>
               </div>
             </div>

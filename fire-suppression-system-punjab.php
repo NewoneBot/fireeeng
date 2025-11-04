@@ -309,272 +309,237 @@
                     </div>
                   </div>
                   <div class="blog-detail">
-                    <div class="blog-detail-desc">
-                      <div class="container">
-                        <!-- Smoke Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/AutomaticSprinklerSystem.jpeg"
-                              alt="Smoke Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Automatic Sprinkler</span> System
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Our <strong>Automatic Sprinkler System in Punjab</strong> is designed to detect fire at an early stage and release water automatically to control or extinguish flames. Ideal for <strong>residential, commercial, and industrial spaces</strong>, this system ensures continuous protection and forms a vital part of any <strong>comprehensive fire suppression system</strong>                            </p>
-                          </div>
-                        </div>
+  <div class="blog-detail-desc">
+    <div class="container">
 
-                        <!-- Heat Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Fire Hydrant</span
-                              > System
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-The <strong>Fire Hydrant System in Punjab</strong> provides a reliable water source for firefighting during emergencies. <strong>Easily accessible and highly efficient</strong>, it supports quick response in <strong>residential, commercial, and industrial areas</strong>. Integrating this system is essential for <strong>complete fire safety</strong> and <strong>compliance with local regulations</strong>.                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FireHydrantSystem.jpeg"
-                              alt="Heat Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Automatic Sprinkler System -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/AutomaticSprinklerSystem.jpeg"
+            alt="Automatic Sprinkler System"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Automatic Sprinkler</span> System
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            Our <strong>Automatic Sprinkler System in Punjab</strong> is designed to detect fire at an early stage and release water automatically to control or extinguish flames. Ideal for <strong>residential, commercial, and industrial spaces</strong>, this system ensures continuous protection and forms a vital part of any <strong>comprehensive fire suppression system</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Flame Detectors -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/WetRiserSystem.jpeg"
-                              alt="Flame Detectors"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Wet Riser</span> System
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Our <strong>Wet Riser System in Punjab</strong> is designed for buildings where fire-fighting water needs to be readily available on multiple floors. It ensures that fire suppression systems can respond immediately, helping to protect <strong>lives and property</strong> in <strong>high-rise residential and commercial buildings</strong>                            </p>
-                          </div>
-                        </div>
+      <!-- Fire Hydrant System -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/FireHydrantSystem.jpeg"
+            alt="Fire Hydrant System"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Fire Hydrant</span> System
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            The <strong>Fire Hydrant System in Punjab</strong> provides a reliable water source for firefighting during emergencies. <strong>Easily accessible and highly efficient</strong>, it supports quick response in <strong>residential, commercial, and industrial areas</strong>. Integrating this system is essential for <strong>complete fire safety</strong> and <strong>compliance with local regulations</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Manual Call Points -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Dry Riser</span> System
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-The <strong>Dry Riser System in Punjab</strong> is perfect for locations where <strong>freezing conditions</strong> or <strong>intermittent water supply</strong> exist. It allows firefighters to connect hoses and pump water efficiently, providing a critical component of <strong>industrial and commercial fire safety systems</strong>                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/DryRiserSystem.jpeg"
-                              alt="Manual Call Points"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Wet Riser System -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/WetRiserSystem.jpeg"
+            alt="Wet Riser System"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Wet Riser</span> System
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            Our <strong>Wet Riser System in Punjab</strong> is designed for buildings where fire-fighting water needs to be readily available on multiple floors. It ensures that fire suppression systems can respond immediately, helping to protect <strong>lives and property</strong> in <strong>high-rise residential and commercial buildings</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Fire Alarm Control Panel -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FireHoseReels.jpeg"
-                              alt="Fire Alarm Control Panel"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Fire Hose</span> Reels
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-<strong>Fire Hose Reels in Punjab</strong> are essential for rapid on-site fire control. These reels provide a controlled water flow to tackle small fires immediately, enhancing the effectiveness of any <strong>automatic sprinkler</strong> or <strong>fire suppression system</strong>
-                            </p>
-                          </div>
-                        </div>
+      <!-- Dry Riser System -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/DryRiserSystem.jpeg"
+            alt="Dry Riser System"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Dry Riser</span> System
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            The <strong>Dry Riser System in Punjab</strong> is perfect for locations where <strong>freezing conditions</strong> or <strong>intermittent water supply</strong> exist. It allows firefighters to connect hoses and pump water efficiently, providing a critical component of <strong>industrial and commercial fire safety systems</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Sounders / Hooters / Sirens -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Water Mist </span
-                              >System
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-The <strong>Water Mist System in Punjab</strong> uses fine water droplets to suppress fires effectively without causing damage to sensitive equipment. It is widely used in <strong>industrial, commercial, and residential areas</strong> as a <strong>modern, efficient component of fire suppression systems</strong>                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/WaterMistSystem.jpeg"
-                              alt="Sounders / Hooters / Sirens"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
+      <!-- Fire Hose Reels -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/FireHoseReels.jpeg"
+            alt="Fire Hose Reels"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Fire Hose</span> Reels
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            <strong>Fire Hose Reels in Punjab</strong> are essential for rapid on-site fire control. These reels provide a controlled water flow to tackle small fires immediately, enhancing the effectiveness of any <strong>automatic sprinkler</strong> or <strong>fire suppression system</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <!-- Strobe Lights -->
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/GasSuppressionSystem.jpeg"
-                              alt="Strobe Lights / Flashing Beacons"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr"
-                                >Gas Suppression</span
-                              > System (FM200, CO₂, Inergen, Novec 1230)
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-Our <strong>Gas Suppression System in Punjab (FM200, CO₂, Inergen, Novec 1230)</strong> provides rapid fire extinguishing without harming equipment or leaving residues. Perfect for <strong>data centers, server rooms, and industrial facilities</strong>, it is a key solution in <strong>advanced fire safety systems</strong>                            </p>
-                          </div>
-                        </div>
+      <!-- Water Mist System -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/WaterMistSystem.jpeg"
+            alt="Water Mist System"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Water Mist</span> System
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            The <strong>Water Mist System in Punjab</strong> uses fine water droplets to suppress fires effectively without causing damage to sensitive equipment. It is widely used in <strong>industrial, commercial, and residential areas</strong> as a <strong>modern, efficient component of fire suppression systems</strong>.
+          </p>
+        </div>
+      </div>
 
-                        <div class="row align-items-center py-4">
-                          <div class="col-md-6">
-                            <h3 style="font-weight: 700; color: #222">
-                              <span class="theme-clr">Foam</span> System for <span>Flammable</span> Liquids 
-                            </h3>
-                            <p
-                              itemprop="description"
-                              style="
-                                margin-top: 15px;
-                                font-size: 16px;
-                                line-height: 1.7;
-                                color: #555;
-                              "
-                            >
-The <strong>Foam System in Punjab</strong> is designed to control and extinguish fires involving <strong>flammable liquids</strong> safely and efficiently. It is ideal for <strong>chemical plants, fuel stations, and industrial facilities</strong>, forming an integral part of any <strong>comprehensive fire suppression system</strong>                            </p>
-                          </div>
-                          <div class="col-md-6 text-center">
-                            <img
-                              src="assets/images/products/FoamSystemforFlammableLiquids.jpeg"
-                              alt="Sounders / Hooters / Sirens"
-                              style="
-                                width: 100%;
-                                max-width: 300px;
-                                height: 250px;
-                                border-radius: 12px;
-                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-                              "
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+      <!-- Gas Suppression System -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-1">
+          <img
+            src="assets/images/products/GasSuppressionSystem.jpeg"
+            alt="Gas Suppression System"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-2">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Gas Suppression</span> System (FM200, CO₂, Inergen, Novec 1230)
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            Our <strong>Gas Suppression System in Punjab (FM200, CO₂, Inergen, Novec 1230)</strong> provides rapid fire extinguishing without harming equipment or leaving residues. Perfect for <strong>data centers, server rooms, and industrial facilities</strong>, it is a key solution in <strong>advanced fire safety systems</strong>.
+          </p>
+        </div>
+      </div>
+
+      <!-- Foam System -->
+      <div class="row align-items-center py-4">
+        <div class="col-md-6 text-center order-1 order-md-2">
+          <img
+            src="assets/images/products/FoamSystemforFlammableLiquids.jpeg"
+            alt="Foam System for Flammable Liquids"
+            style="
+              width: 100%;
+              max-width: 300px;
+              height: 250px;
+              border-radius: 12px;
+              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            "
+          />
+        </div>
+        <div class="col-md-6 order-2 order-md-1">
+          <h3 style="font-weight: 700; color: #222">
+            <span class="theme-clr">Foam</span> System for <span>Flammable</span> Liquids
+          </h3>
+          <p
+            itemprop="description"
+            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
+          >
+            The <strong>Foam System in Punjab</strong> is designed to control and extinguish fires involving <strong>flammable liquids</strong> safely and efficiently. It is ideal for <strong>chemical plants, fuel stations, and industrial facilities</strong>, forming an integral part of any <strong>comprehensive fire suppression system</strong>.
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
                 </div>
               </div>
             </div>
