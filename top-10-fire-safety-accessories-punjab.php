@@ -2,158 +2,125 @@
 <html lang="en">
   <!-- Mirrored from nauthemes.net/html/naar/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:26 GMT -->
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <title>
-      Top-Quality Fire Monitors & Collecting Heads | AK Fire Engineering
-    </title>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Primary Meta Tags -->
-    <meta name="title" content="Top-Quality Fire Monitors & Collecting Heads" />
-    <meta
-      name="description"
-      content="Explore top-quality water monitors & BS 336 collecting heads in Mohali. Firefighting equipment for industrial safety, hydrant systems & refineries."
-    />
-    <meta
-      name="keywords"
-      content="Top-Quality Fire Monitors & Collecting Heads, Water monitor Mohali, firefighting equipment Mohali, fire monitor Mohali, hydrant monitor Mohali, fire safety systems Mohali, collecting head supplier Punjab, Industrial fire safety Mohali, Hydrant monitor, firefighting fittings, BS 336 fire head, Water monitor nozzle, BS 336 Collecting Heads – Engineered for Safety, Why Gunmetal Fire Monitors are Ideal for Refineries"
-    />
-    <link
-      rel="canonical"
-      href="https://akfireengineering.com/top-quality-fire-monitors-collecting-heads/"
-    />
+  <title>Trusted Fire Bucket Supplier Punjab</title>
 
-    <!-- Favicon & Icons -->
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="https://freelancesociety.in/image/logo/favicon-16x16.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="https://freelancesociety.in/image/logo/favicon-32x32.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
-    />
-    <link
-      rel="manifest"
-      href="https://freelancesociety.in/image/logo/site.webmanifest"
-    />
-    <meta name="theme-color" content="#0d6efd" />
+  <!-- Primary Meta -->
+  <meta
+    name="description"
+    content="Trusted Fire Bucket Supplier Punjab. We provide high-quality Fire Safety Accessories, including Fire Buckets, Fire Blankets, Smoke Curtain, Fire Axe, and First Aid Hose Reels. Ensure complete fire protection with our certified fire safety products."
+  />
+  <meta
+    name="keywords"
+    content="Trusted Fire Bucket Supplier Punjab, Fire bucket supplier Punjab, Fire safety accessories Punjab, Fire Buckets, Fire Blankets, Smoke Curtain, Fire Axe, First Aid hose reels, Fire buckets, Fire blankets, Smoke curtain, Fire axe, First aid hose reels"
+  />
+  <meta name="author" content="Nikhil" />
+  <meta name="publisher" content="AK Fire Engineering" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google" content="notranslate" />
+  <meta name="rating" content="General" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="mobileoptimized" content="320" />
+  <meta name="theme-color" content="#0d6efd" />
+  <meta name="language" content="en" />
+  <meta name="distribution" content="global" />
+  <meta name="expires" content="never" />
+  <meta name="document-type" content="public" />
+  <meta name="country" content="India" />
+  <meta name="state" content="Chandigarh" />
+  <meta name="city" content="Chandigarh" />
 
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
-    <meta property="og:locale" content="en_IN" />
-    <meta property="og:site_name" content="AK Fire Engineering" />
-    <meta
-      property="og:title"
-      content="Top-Quality Fire Monitors & Collecting Heads | AK Fire Engineering"
-    />
-    <meta
-      property="og:description"
-      content="Explore top-quality water monitors & BS 336 collecting heads in Mohali. Firefighting equipment for industrial safety, hydrant systems & refineries."
-    />
-    <meta
-      property="og:url"
-      content="https://akfireengineering.com/top-quality-fire-monitors-collecting-heads/"
-    />
-    <meta
-      property="og:image"
-      content="https://akfireengineering.com/top-quality-fire-monitors-collecting-heads/"
-    />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta
-      property="og:image:alt"
-      content="Top-Quality Fire Monitors, Water Monitor Mohali, Firefighting Equipment Mohali, Fire Monitor Mohali, Hydrant Monitor Mohali, Fire Safety Systems Mohali, Collecting Head Supplier Punjab"
-    />
+  <!-- Canonical -->
+  <link rel="canonical" href="https://akfireengineering.in/fire-safety-accessories-punjab/" />
 
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="Top-Quality Fire Monitors & Collecting Heads"
-    />
-    <meta
-      name="twitter:description"
-      content="Explore top-quality fire monitors & BS 336 collecting heads in Mohali. Firefighting equipment for industrial safety, hydrant systems & refineries."
-    />
-    <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Trusted Fire Bucket Supplier Punjab" />
+  <meta
+    property="og:description"
+    content="Trusted Fire Bucket Supplier Punjab. We provide Fire Buckets, Fire Blankets, Smoke Curtain, Fire Axe, and First Aid Hose Reels for complete fire protection with certified fire safety accessories."
+  />
+  <meta property="og:url" content="https://akfireengineering.in/fire-safety-accessories-punjab/" />
+  <meta property="og:site_name" content="AK Fire Engineering" />
+  <meta property="og:locale" content="en_IN" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
+  <meta
+    property="og:image:alt"
+    content="Trusted Fire Bucket Supplier in Punjab – Fire Blankets, Smoke Curtains, Fire Axe, First Aid Hose Reels"
+  />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
 
-    <!-- Robots -->
-    <meta
-      name="robots"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="googlebot"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="yandexbot"
-      content="index, follow, max-image-preview:large, max-snippet:-1"
-    />
-    <meta name="bingbot" content="index, follow" />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Trusted Fire Bucket Supplier Punjab" />
+  <meta
+    name="twitter:description"
+    content="Trusted Fire Bucket Supplier Punjab. We provide high-quality Fire Safety Accessories, including Fire Buckets, Fire Blankets, Smoke Curtain, Fire Axe, and First Aid Hose Reels for total safety solutions."
+  />
+  <meta
+    name="twitter:image"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
 
-    <!-- Geo Tags -->
-    <meta name="geo.region" content="IN-PB" />
-    <meta name="geo.position" content="30.666366;76.719084" />
-    <meta name="ICBM" content="30.666366,76.719084" />
+  <!-- Geo Tags -->
+  <meta name="geo.region" content="IN-PB" />
+  <meta name="geo.placename" content="Chandigarh" />
+  <meta name="geo.position" content="30.7333;76.7794" />
+  <meta name="ICBM" content="30.7333,76.7794" />
 
-    <!-- Additional Info -->
-    <meta name="author" content="Nikhil" />
-    <meta name="publisher" content="AK Fire Engineering" />
-    <meta name="language" content="en" />
-    <meta name="rating" content="General" />
-    <meta name="distribution" content="global" />
-    <meta name="copyright" content="© A.K. Fire Engineering" />
-    <meta name="HandheldFriendly" content="true" />
-    <meta name="mobileoptimized" content="320" />
-    <meta name="expires" content="never" />
-    <meta name="google" content="notranslate" />
-    <meta name="country" content="India" />
-    <meta name="state" content="Mohali" />
-    <meta name="city" content="Mohali" />
+  <!-- Verification -->
+  <meta
+    name="google-site-verification"
+    content="replace-this-with-your-google-verification-code"
+  />
+  <meta
+    name="yandex-verification"
+    content="replace-this-with-your-yandex-verification-code"
+  />
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="assets/css/icons.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
-    <link
-      rel="shortcut icon"
-      type="image/png"
-      href="assets/images/A.K.icon.png"
-    />
+  <!-- Favicon (kept same as your setup) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/A.K.icon.png" />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="https://akfireengineering.in/image/logo/apple-touch-icon.png"
+  />
+  <link
+    rel="manifest"
+    href="https://akfireengineering.in/image/logo/site.webmanifest"
+  />
 
-    <!-- Color Schemes -->
-    <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color2.css"
-      title="color2"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color3.css"
-      title="color3"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color4.css"
-      title="color4"
-    />
-  </head>
+  <!-- Robots control for various crawlers -->
+  <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yahooSeeker" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="msnbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yandexBot" content="index,follow,max-snippet:-1,max-image-preview:large" />
+  <meta name="duckDuckBot" content="index,follow" />
+  <meta name="baiduSpider" content="index,follow" />
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="assets/css/icons.min.css" />
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/responsive.css" />
+
+  <!-- Color Schemes -->
+  <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color2.css" title="color2" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color3.css" title="color3" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color4.css" title="color4" />
+
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
   <body itemscope>
     <div class="preloader">
       <div class="loader-inner ball-scale-multiple">
@@ -263,7 +230,7 @@
                       </h3>
 
                       <p itemprop="description">
-                        Looking for a <strong>Trusted Fire Bucket Supplier Mohali Punjab</strong>? We offer premium <strong>Fire Buckets Mohali</strong>, <strong>Fire Blankets Mohali</strong>, <strong>Smoke Curtain Mohali</strong>, <strong>Fire Axe Mohali</strong>, and <strong>First Aid Hose Reels Mohali</strong>. As a leading <strong>Fire bucket supplier Mohali Punjab</strong>, we provide a complete range of <strong>Fire safety accessories Mohali Punjab</strong> to ensure maximum protection for homes, offices, and industrial spaces
+                        Looking for a <strong>Trusted Fire Bucket Supplier  Punjab</strong>? We offer premium <strong>Fire Buckets</strong>, <strong>Fire Blankets</strong>, <strong>Smoke Curtain</strong>, <strong>Fire Axe</strong>, and <strong>First Aid Hose Reels </strong>. As a leading <strong>Fire bucket supplier Punjab</strong>, we provide a complete range of <strong>Fire safety accessories  Punjab</strong> to ensure maximum protection for homes, offices, and industrial spaces
                       </p>
                     </div>
                   </div>
@@ -297,9 +264,7 @@
               line-height: 1.8;
               color: #555;
             ">
-            Ensure maximum fire protection with our sturdy <strong>Fire Buckets Mohali</strong>.
-            Our <strong>Fire Buckets</strong> are designed for quick emergency response and are ideal for homes, offices, and industrial spaces.
-            As a trusted <strong>Fire Bucket Supplier in Mohali Punjab</strong>, we provide top-quality products that meet safety standards.
+            Ensure maximum fire protection with our sturdy <strong>Fire Buckets </strong>. Our <strong>Fire Buckets</strong> are designed for quick response during emergencies and are ideal for homes, offices, and industrial spaces. As a trusted <strong>Fire bucket supplier Punjab</strong>, we provide top-quality products that meet safety standards
           </p>
         </div>
       </div>
@@ -330,8 +295,7 @@
               line-height: 1.8;
               color: #555;
             ">
-            Protect your kitchen and workplace with premium <strong>Fire Blankets Mohali</strong>.
-            Our durable and reliable <strong>Fire Blankets</strong> are essential <strong>fire safety accessories</strong> for quickly extinguishing small fires safely and efficiently.
+            Protect your kitchen and workplace with premium <strong>Fire Blankets</strong>. Our <strong>Fire Blankets</strong> are durable, reliable, and essential <strong>Fire safety accessories Punjab</strong> for extinguishing small fires safely and efficiently.
           </p>
         </div>
       </div>
@@ -362,8 +326,7 @@
               line-height: 1.8;
               color: #555;
             ">
-            Control smoke and enhance safety with certified <strong>Smoke Curtain Mohali</strong>.
-            These <strong>Smoke Curtains</strong> are ideal for commercial and industrial spaces, ensuring safe evacuation during emergencies while supporting your <strong>fire safety systems</strong>.
+            Control smoke and enhance fire safety with certified <strong>Smoke Curtain</strong>. These <strong>Smoke Curtains</strong> are perfect for commercial and industrial buildings, ensuring safe evacuation during emergencies while complementing your <strong>fire safety accessories  Punjab</strong>
           </p>
         </div>
       </div>
@@ -394,8 +357,7 @@
               line-height: 1.8;
               color: #555;
             ">
-            Be prepared for emergencies with our durable <strong>Fire Axe Mohali</strong>.
-            This essential <strong>fire safety tool</strong> allows quick access and control during fire incidents — ideal for homes, offices, and industrial setups.
+            Be prepared for any fire emergency with our strong and reliable <strong>Fire Axe Mohali</strong>. A must-have fire safety accessory, the <strong>Fire Axe</strong> allows quick access and safe fire control, making it essential for homes, offices, and industrial sites
           </p>
         </div>
       </div>
@@ -426,8 +388,7 @@
               line-height: 1.8;
               color: #555;
             ">
-            Ensure complete readiness with our <strong>First Aid Hose Reels Mohali</strong>.
-            These high-quality <strong>Hose Reels</strong> are built for durability, easy use, and play a vital role in comprehensive <strong>fire safety setups</strong> across residential and industrial areas.
+            Ensure complete fire readiness with our <strong>First Aid Hose Reels </strong>. These <strong>First Aid Hose Reels</strong> are durable, easy to use, and an integral part of <strong>Fire safety accessories Punjab</strong>, helping you handle fire emergencies efficiently.</p>
           </p>
         </div>
       </div>
@@ -471,23 +432,23 @@ A <strong>Trusted Fire Bucket Supplier Mohali Punjab</strong> provides high-qual
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                       What types of Fire Buckets Mohali are available?
+                       What types of Fire Buckets are available?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-We offer durable <strong>Fire Buckets Mohali</strong> suitable for different environments. These <strong>Fire Buckets</strong> are part of essential <strong>fire safety accessories Mohali Punjab</strong> and are designed for quick and efficient use during fire emergencies.
+                          We offer durable <strong>Fire Buckets</strong> suitable for different environments. These <strong>Fire Buckets</strong> are part of essential <strong>fire safety accessories Punjab</strong> and are designed for quick and efficient use during fire emergencies.
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        How do Fire Blankets Mohali help in fire safety?
+                        How do Fire Blankets help in fire safety?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-<strong>Fire Blankets Mohali</strong> are designed to extinguish small fires quickly and safely. They are an essential part of <strong>Fire safety accessories Mohali Punjab</strong> for kitchens, offices, and industrial areas, providing reliable protection in emergencies                        </p>
+                          <strong>Fire Blankets</strong> are designed to extinguish small fires quickly and safely. They are an essential part of <strong>Fire safety accessories </strong> for kitchens, offices, and industrial areas, providing reliable protection in emergencies
                       </div>
                     </div>
                   </div>
@@ -498,34 +459,34 @@ We offer durable <strong>Fire Buckets Mohali</strong> suitable for different env
                   <div id="toggle2" class="toggle">
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        What is the purpose of a Smoke Curtain Mohali?
+                        What is the purpose of a Smoke Curtain?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-A <strong>Smoke Curtain Mohali</strong> helps control smoke and direct people safely during fire emergencies. It is a critical <strong>Fire safety accessory Mohali Punjab</strong> for commercial and industrial buildings, ensuring safe evacuation and enhanced fire protection.
+                          A <strong>Smoke Curtain</strong> helps control smoke and direct people safely during fire emergencies. It is a critical <strong>Fire safety accessory</strong> for commercial and industrial buildings, ensuring safe evacuation and enhanced fire protection.  
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                       Why should I invest in a Fire Axe Mohali?
+                        Why should I invest in a Fire Axe?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-A <strong>Fire Axe Mohali</strong> is an essential <strong>Fire safety accessory</strong> for homes, offices, and factories. It allows quick access to fire-affected areas, making it a crucial tool offered by a <strong>Fire bucket supplier Mohali Punjab</strong> for complete fire preparedness.
+                          A <strong>Fire Axe</strong> is an essential <strong>Fire safety accessory</strong> for homes, offices, and factories. It allows quick access to fire-affected areas, making it a crucial tool offered by a <strong>us</strong> for complete fire preparedness.
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        How do First Aid Hose Reels Mohali improve fire safety?
+                        How do First Aid Hose Reels improve fire safety?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-<strong>First Aid Hose Reels Mohali</strong> provide a reliable water source to control and extinguish fires quickly. As part of certified <strong>Fire safety accessories Mohali Punjab</strong>, these hose reels are essential for any residential, commercial, or industrial fire safety setup
+                          <strong>First Aid Hose Reels</strong> provide a reliable water source to control and extinguish fires quickly. As part of certified <strong>Fire safety accessories</strong>, these hose reels are essential for any residential, commercial, or industrial fire safety setup
                         </p>
                       </div>
                     </div>

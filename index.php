@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
   <!-- Mirrored from nauthemes.net/html/naar/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:17 GMT -->
- <head>
-    <meta charset="UTF-8" />
+<head>
+  <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no"
-  />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   <title>A.K. Fire Engineering Services | Trusted Fire Engineering Services</title>
 
   <!-- Primary Meta -->
   <meta
     name="description"
-    content="Trusted Fire engineering services in Mohali – trusted fire engineering supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today."
+    content="Trusted Fire engineering services in Punjab – trusted fire engineering supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today."
   />
   <meta
     name="keywords"
-    content="Trusted Fire Engineering Services, Fire Engineering Services Mohali, Fire engineering company Mohali, Trusted fire engineering suppliers in Mohali and Punjab, Fire safety Mohali, Fire extinguisher dealers Punjab, Fire extinguisher supplier near me, Fast & Affordable Safety Products & Services Fire safety solutions Mohali, Fire extinguishers Mohali, Fire hydrant systems Punjab, Fire alarm systems Mohali, Automatic fire sprinkler systems Punjab, Fire safety equipment suppliers Mohali, Fire suppression systems Mohali, Fire extinguisher refilling and maintenance Mohali"
+    content="Trusted Fire Engineering Services, Fire Engineering Services, Fire engineering company, Trusted fire engineering suppliers in Punjab, Fire safety, Fire extinguisher dealers Punjab, Fire extinguisher supplier near me, Fast & Affordable Safety Products & Services Fire safety solutions, Fire extinguishers, Fire hydrant systems Punjab, Fire alarm systems, Automatic fire sprinkler systems Punjab, Fire safety equipment suppliers, Fire suppression systems, Fire extinguisher refilling and maintenance"
   />
   <meta name="author" content="Nikhil" />
   <meta name="publisher" content="AK Fire Engineering" />
@@ -37,34 +34,25 @@
   <meta name="city" content="Mohali" />
 
   <!-- Canonical -->
-  <link
-    rel="canonical"
-    href="https://akfireengineering.com/fire-extinguisher-supplier-mohali/"
-  />
+  <link rel="canonical" href="https://akfireengineering.com/fire-extinguisher-supplier-mohali/" />
 
   <!-- Open Graph -->
-  <meta
-    property="og:title"
-    content="A.K. Fire Engineering Services | Trusted Fire Engineering Services"
-  />
+  <meta property="og:title" content="A.K. Fire Engineering Services | Trusted Fire Engineering Services" />
   <meta
     property="og:description"
-    content="Trusted Fire engineering services in Mohali – trusted fire engineering supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today."
+    content="Trusted Fire engineering services in Punjab – trusted fire engineering supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today."
   />
-  <meta
-    property="og:url"
-    content="https://akfireengineering.com/fire-extinguisher-supplier-mohali/"
-  />
+  <meta property="og:url" content="https://akfireengineering.com/fire-extinguisher-supplier-mohali/" />
   <meta property="og:site_name" content="AK Fire Engineering" />
   <meta property="og:locale" content="en_IN" />
   <meta property="og:type" content="website" />
   <meta
     property="og:image"
-    content="https://akfireengineering.com/fire-extinguisher-supplier-mohali"
+    content="https://akfireengineering.com/image/logo/android-chrome-512x512.png"
   />
   <meta
     property="og:image:alt"
-    content="Fire extinguisher Mohali – trusted fire safety equipment"
+    content="Fire extinguisher – trusted fire safety equipment"
   />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -73,13 +61,16 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta
     name="twitter:title"
-    content="Fire Extinguisher Mohali | Fire Safety & Refilling Services"
+    content="Fire Extinguisher | Fire Safety & Refilling Services"
   />
   <meta
     name="twitter:description"
-    content="Fire extinguisher Mohali – trusted fire extinguisher supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today!"
+    content="Fire extinguisher – trusted fire extinguisher supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today!"
   />
-  <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+  <meta
+    name="twitter:image"
+    content="https://akfireengineering.com/image/logo/android-chrome-512x512.png"
+  />
 
   <!-- Geo Tags -->
   <meta name="geo.region" content="IN-PB" />
@@ -97,13 +88,8 @@
     content="replace-this-with-your-yandex-verification-code"
   />
 
-  <!-- Favicon -->
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="assets/images/A.K.icon.png"
-  />
+  <!-- Favicon (kept exactly as you requested) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/A.K.icon.png" />
   <link
     rel="apple-touch-icon"
     sizes="180x180"
@@ -130,25 +116,14 @@
 
   <!-- Color Schemes -->
   <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
-  <link
-    rel="alternate stylesheet"
-    href="assets/css/colors/color2.css"
-    title="color2"
-  />
-  <link
-    rel="alternate stylesheet"
-    href="assets/css/colors/color3.css"
-    title="color3"
-  />
-  <link
-    rel="alternate stylesheet"
-    href="assets/css/colors/color4.css"
-    title="color4"
-  />
+  <link rel="alternate stylesheet" href="assets/css/colors/color2.css" title="color2" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color3.css" title="color3" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color4.css" title="color4" />
 
+  <!-- Font Awesome -->
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
 </head>
+
 
   <body itemscope>
     <div class="preloader">
@@ -272,7 +247,7 @@
                     <div class="sec-tl">
                       <span
                         ><strong
-                          >Trusted Fire Engineering Services in Mohali and Punjab </strong
+                          >Trusted Fire Engineering Services in Punjab </strong
                         ></span
                       >
                       <h2 itemprop="headline">
@@ -283,11 +258,12 @@
                     <!-- Sec Title -->
                     <div class="abt-desc">
                       <p itemprop="description">
-                        Since 2008, we have been a <strong>trusted fire engineering company Mohali</strong> and one of the most <strong>trusted fire engineering suppliers in Mohali and Punjab</strong>, delivering reliable <strong>fire engineering services Mohali</strong> and certified <strong>fire safety Mohali</strong> solutions. As experienced <strong>fire extinguisher dealers Punjab</strong> and <strong>fire safety equipment suppliers Mohali</strong>, we offer a wide range of <strong>fire extinguishers Mohali</strong>, <strong>fire hydrant systems Punjab</strong>, <strong>fire alarm systems Mohali</strong>, <strong>automatic fire sprinkler systems Punjab</strong>, and <strong>fire suppression systems Mohali</strong>.
+                        Since 2008, we have been a <strong>trusted fire engineering company</strong> and one of the <strong>most trusted fire engineering suppliers Chandigarh Punjab</strong>, delivering <strong>reliable fire engineering services</strong> and <strong>certified fire safety solutions</strong>. As <strong>experienced fire extinguisher dealers</strong> and <strong>fire safety equipment suppliers</strong>, we offer a wide range of <strong>fire extinguishers</strong>, <strong>fire hydrant systems</strong>, <strong>fire alarm systems</strong>, <strong>automatic fire sprinkler systems</strong>, and <strong>fire suppression systems</strong>.
+
                       </p>
 
                       <p>
-                        Our company also provides <strong>fire extinguisher refilling and maintenance Mohali</strong> and ensures <strong>fast & affordable safety products & services fire safety solutions Mohali</strong>. Whether you’re searching for a <strong>fire extinguisher supplier near me</strong> or a dedicated <strong>fire extinguisher shop in Mohali</strong>, we are your one-stop solution. Our mission is to provide high-quality fire protection backed by expert service, making us a trusted name in fire safety in Mohali for over 15 years.
+                        Our company also provides <strong>fire extinguisher refilling</strong> and ensures <strong>fast & affordable safety products & services fire safety solutions</strong>. Whether you’re searching for a <strong>fire extinguisher supplier near me</strong> or a <strong>dedicated fire extinguisher shop</strong>, we are your one-stop solution. Our mission is to provide <strong>high-quality fire protection backed by expert service</strong>, making us a <strong>trusted name in fire safety for over 15 years</strong>.
                       </p>
                     </div>
                   </div>
@@ -320,7 +296,8 @@
         </div>
         <h5 style="font-weight: 600; margin-bottom: 10px;">Installation Safety</h5>
         <p style="font-size: 0.95rem; color: #333;">
-          Always install <strong>fire extinguishers</strong> and consult <strong>trusted fire engineering services</strong> to prevent small fires from becoming disasters in homes and offices.
+          Always <strong>install fire extinguishers</strong> and consult <strong>trusted fire engineering services</strong> to prevent <strong>small fires from becoming disasters</strong> in homes and offices.
+
         </p>
       </div>
     </div>
@@ -333,7 +310,7 @@
         </div>
         <h5 style="font-weight: 600; margin-bottom: 10px;">Regular Inspections</h5>
         <p style="font-size: 0.95rem; color: #333;">
-          Schedule regular checks with <strong>trusted fire engineering suppliers in Mohali & Punjab</strong> or <strong>fire extinguisher dealers Punjab</strong> to ensure your equipment works properly.
+          Schedule <strong>regular checks</strong> with a <strong>trusted fire engineering supplier</strong> to ensure your <strong>equipment is in working condition</strong>.
         </p>
       </div>
     </div>
@@ -346,7 +323,7 @@
         </div>
         <h5 style="font-weight: 600; margin-bottom: 10px;">Maintenance & Refilling</h5>
         <p style="font-size: 0.95rem; color: #333;">
-          Never ignore routine <strong>fire extinguisher refilling & maintenance Mohali</strong>, as an expired unit may fail during emergencies.
+          Never ignore <strong>routine fire extinguisher refilling</strong>, as an <strong>expired unit may fail during emergencies</strong>.Never ignore <strong>routine fire extinguisher refilling</strong>, as an <strong>expired unit may fail during emergencies</strong>.
         </p>
       </div>
     </div>
@@ -359,7 +336,7 @@
         </div>
         <h5 style="font-weight: 600; margin-bottom: 10px;">Comprehensive Protection</h5>
         <p style="font-size: 0.95rem; color: #333;">
-          Ensure your premises have <strong>fire hydrant systems, fire alarms, automatic sprinklers, and fire suppression systems</strong> for full-scale fire protection.
+          Ensure your premises are equipped with <strong>fire hydrant systems</strong>, <strong>fire alarm systems </strong>, <strong>automatic fire sprinkler systems</strong>, and <strong>fire suppression systems</strong> for <strong>full-scale fire protection</strong>
         </p>
       </div>
     </div>
@@ -381,7 +358,7 @@
   <div class="gap gray-bg">
     <div class="container">
       <div class="sec-tl text-center">
-        <span>Trusted fire engineering suppliers in Mohali and Punjab</span>
+        <span>Trusted fire engineering suppliers and Punjab</span>
         <h2 itemprop="headline">
           Our <span class="theme-clr">Fast & Affordable Safety Products</span> & Services
         </h2>
@@ -410,10 +387,10 @@
                   >
                 </h5>
                 <p itemprop="description">
-                  A <strong>fire extinguisher Mohali</strong> is an essential safety tool used to
+                  A <strong>fire extinguisher </strong> is an essential safety tool used to
                   control small fires before they spread. Since 2008, we’ve been a
-                  <strong>trusted fire engineering company Mohali</strong> and one of the most
-                  <strong>trusted fire engineering suppliers in Mohali and Punjab</strong>, serving
+                  <strong>trusted fire engineering company </strong> and one of the most
+                  <strong>trusted fire engineering suppliers in Punjab</strong>, serving
                   homes, offices, and businesses.
                 </p>
               </div>
@@ -440,7 +417,7 @@
                   >
                 </h5>
                 <p itemprop="description">
-                  Our team of trusted fire engineering suppliers in Mohali and Punjab assesses fire risks for homes, offices, and industries, offering customized systems including fire extinguishers, fire hydrant systems, fire alarm systems, automatic fire sprinkler systems, and fire suppression systems. 
+                  Our team of trusted fire engineering suppliers in Punjab assesses fire risks for homes, offices, and industries, offering customized systems including fire extinguishers, fire hydrant systems, fire alarm systems, automatic fire sprinkler systems, and fire suppression systems. 
                 </p>
               </div>
             </div>
@@ -571,7 +548,7 @@
                   >
                 </h5>
                 <p itemprop="description">
-                  As leading fire safety equipment suppliers Mohali and a trusted fire engineering company Mohali, we offer high-quality hoses, nozzles, helmets, gloves, and safety signage. Our products are supplied by trusted fire engineering suppliers in Mohali and Punjab and comply with industry standards.
+                  As leading fire safety equipment suppliers a trusted fire engineering company , we offer high-quality hoses, nozzles, helmets, gloves, and safety signage. Our products are supplied by trusted fire engineering suppliers in Punjab and comply with industry standards.
                 </p>
               </div>
             </div>
@@ -593,7 +570,7 @@
                     href="service-detail.html"
                     title="Fire Safety Training"
                     itemprop="url"
-                    >Fire Suppression Systems Mohali</a
+                    >Fire Suppression Systems </a
                   >
                 </h5>
                 <p itemprop="description">
@@ -737,13 +714,13 @@
                       >
                       <h2 itemprop="headline">
                         <strong
-                          >Key Facts About A.K. Fire Engineering — Trusted Fire Engineering Services & Fire Safety Experts in Mohali and Punjab</strong
+                          >Key Facts About A.K. Fire Engineering — Trusted Fire Engineering Services & Fire Safety Experts in Punjab</strong
                         >
                       </h2>
                     </div>
                     <!-- Sec Title -->
                     <p itemprop="description">
-                      A.K. Fire Engineering has been a trusted name in <strong>fire extinguisher supply and fire safety solutions in Mohali and Punjab</strong> since 2008. We specialize in <strong>fire extinguishers</strong>, <strong>hydrant systems</strong>, <strong>alarm systems</strong>, and <strong>sprinkler installations</strong> to protect your home and business. 
+                      A.K. Fire Engineering has been a trusted name in <strong>fire extinguisher supply and fire safety solutions in Punjab</strong> since 2008. We specialize in <strong>fire extinguishers</strong>, <strong>hydrant systems</strong>, <strong>alarm systems</strong>, and <strong>sprinkler installations</strong> to protect your home and business. 
 
                     </p>
                     <ul class="fcts-lst">

@@ -2,172 +2,166 @@
 <html lang="en">
   <!-- Mirrored from nauthemes.net/html/naar/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:26 GMT -->
   <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <title>
-      Fire Hose Reel Suppliers Punjab | Fire Safety Equipment & Fire Protection
-      Systems
-    </title>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <meta
-      name="description"
-      content="Get high-quality fire hose drums Mohali, fire hose suppliers Mohali, and fire hose reel suppliers Punjab. We provide durable fire hose pipes Punjab, expert fire hose maintenance Mohali, and high-pressure fire hoses Punjab. Trusted for commercial fire hose reels Mohali, industrial fire hose suppliers Punjab, and comprehensive fire safety equipment, fire extinguishers, and fire safety systems. Fast, affordable, and reliable fire protection solutions."
-    />
-    <meta
-      name="keywords"
-      content="Fire hose drums Mohali, Fire hose suppliers Mohali, Fire hose reel suppliers Punjab, Fire hose pipes Punjab, Fire hose maintenance Mohali, High-pressure fire hoses Punjab, Commercial fire hose reels Mohali, Industrial fire hose suppliers Punjab, Fire hoses, Fire hose reels, Fire drums, Fire safety equipment, Fire hose suppliers, Fire extinguisher, Fire protection, Fire safety systems"
-    />
-    <meta name="author" content="Nikhil" />
-    <meta name="publisher" content="AK Fire Engineering" />
-    <meta name="copyright" content="©A.K. Fire Engineering" />
-    <meta name="robots" content="index, follow" />
-    <meta name="google" content="notranslate" />
-    <meta name="geo.region" content="30.666366,76.719084" />
-    <meta name="geo.placename" content="IN-PB" />
-    <meta name="geo.position" content="30.666366,76.719084" />
-    <meta name="ICBM" content="30.666366,76.719084" />
-    <meta
-      name="DC.title"
-      content="Fire Extinguisher Mohali | Fire Safety & Refilling Services"
-    />
-    <meta name="distribution" content="global" />
-    <meta name="language" content="en" />
-    <meta name="rating" content="General" />
-    <meta name="expires" content="never" />
-    <meta name="HandheldFriendly" content="true" />
-    <meta name="mobileoptimized" content="320" />
-    <meta name="theme-color" content="#0d6efd" />
-    <meta name="document-type" content="public" />
-    <meta name="country" content="India" />
-    <meta name="state" content="Mohali" />
-    <meta name="city" content="Mohali" />
+  <title>Best Fire Extinguisher Dealer in Punjab</title>
 
-    <!-- Canonical -->
-    <link
-      rel="canonical"
-      href="https://freelancesociety.in/services-reels-drums-hose-punjab-mohali/"
-    />
+  <!-- Primary Meta -->
+  <meta
+    name="description"
+    content="Looking for reliable and best Fire Extinguisher in Mohali, Punjab? Get high-quality Portable Fire Extinguishers including Water Type, Foam Type, CO2 Type, Dry Chemical Powder (DCP), and Clean Agent Extinguishers. Trusted Fire Extinguisher Dealer in Mohali, Punjab offering professional installation & maintenance services."
+  />
+  <meta
+    name="keywords"
+    content="Best fire extinguisher dealer Punjab, Fire Extinguisher in Punjab, Fire Extinguisher Dealer, Portable Fire Extinguisher, Water Type Fire Extinguisher, Foam Type Fire Extinguisher, CO2 Type Fire Extinguisher, Dry Chemical Powder (DCP) & Clean Agent Fire Extinguisher, Portable fire extinguisher Mohali, Dry chemical powder fire extinguisher in Punjab"
+  />
+  <meta name="author" content="Nikhil" />
+  <meta name="publisher" content="AK Fire Engineering" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google" content="notranslate" />
+  <meta name="rating" content="General" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="mobileoptimized" content="320" />
+  <meta name="theme-color" content="#0d6efd" />
+  <meta name="language" content="en" />
+  <meta name="distribution" content="global" />
+  <meta name="expires" content="never" />
+  <meta name="document-type" content="public" />
+  <meta name="country" content="India" />
+  <meta name="state" content="Chandigarh" />
+  <meta name="city" content="Chandigarh" />
 
-    <!-- Icons -->
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="https://freelancesociety.in/image/logo/favicon-16x16.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="https://freelancesociety.in/image/logo/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="https://freelancesociety.in/image/logo/android-chrome-192x192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="512x512"
-      href="https://freelancesociety.in/image/logo/android-chrome-512x512.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
-    />
-    <link
-      rel="manifest"
-      href="https://freelancesociety.in/image/logo/site.webmanifest"
-    />
+  <!-- Canonical -->
+  <link
+    rel="canonical"
+    href="https://akfireengineering.in/best-fire-extinguisher-dealer-punjab/"
+  />
 
-    <!-- Open Graph Meta -->
-    <meta
-      property="og:title"
-      content="Fire Hose Reel Suppliers Punjab | Fire Safety Equipment & Fire Protection Systems"
-    />
-    <meta
-      property="og:description"
-      content="Get high-quality fire hose drums Mohali, fire hose suppliers Mohali, and fire hose reel suppliers Punjab. We provide durable fire hose pipes Punjab, expert fire hose maintenance Mohali, and high-pressure fire hoses Punjab. Trusted for commercial fire hose reels Mohali, industrial fire hose suppliers Punjab, and comprehensive fire safety equipment, fire extinguishers, and fire safety systems. Fast, affordable, and reliable fire protection solutions."
-    />
-    <meta property="og:type" content="website" />
-    <meta
-      property="og:url"
-      content="https://akfireengineering.com/services-reels-drums-hose-punjab-mohali/"
-    />
-    <meta property="og:site_name" content="AK Fire Engineering" />
-    <meta property="og:locale" content="en_IN" />
-    <meta
-      property="og:image"
-      content="https://akfireengineering.com/fire-extinguisher-supplier-mohali"
-    />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta
-      property="og:image:alt"
-      content="Fire extinguisher Mohali – trusted fire safety equipment"
-    />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Best Fire Extinguisher Dealer in Punjab" />
+  <meta
+    property="og:description"
+    content="Looking for reliable and best Fire Extinguisher in Mohali, Punjab? Get high-quality Portable Fire Extinguishers including Water Type, Foam Type, CO2 Type, DCP, and Clean Agent Extinguishers. Trusted Fire Extinguisher Dealer in Punjab offering professional installation & maintenance services."
+  />
+  <meta
+    property="og:url"
+    content="https://akfireengineering.in/best-fire-extinguisher-dealer-punjab/"
+  />
+  <meta property="og:site_name" content="AK Fire Engineering" />
+  <meta property="og:locale" content="en_IN" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
+  <meta
+    property="og:image:alt"
+    content="Fire Extinguisher Dealer in Punjab – trusted fire safety supplier and service provider"
+  />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
 
-    <!-- Twitter Meta -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="Fire Hose Reel Suppliers Punjab | Fire Safety Equipment & Fire Protection Systems"
-    />
-    <meta
-      name="twitter:description"
-      content="Get high-quality fire hose drums Mohali, fire hose suppliers Mohali, and fire hose reel suppliers Punjab. We provide durable fire hose pipes Punjab, expert fire hose maintenance Mohali, and high-pressure fire hoses Punjab. Trusted for commercial fire hose reels Mohali, industrial fire hose suppliers Punjab, and comprehensive fire safety equipment, fire extinguishers, and fire safety systems. Fast, affordable, and reliable fire protection solutions."
-    />
-    <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta
+    name="twitter:title"
+    content="Best Fire Extinguisher Dealer in Mohali, Punjab"
+  />
+  <meta
+    name="twitter:description"
+    content="Looking for reliable Fire Extinguisher in Punjab? Get high-quality Portable Fire Extinguishers including Water Type, Foam Type, CO2 Type, DCP, and Clean Agent. Trusted Fire Extinguisher Dealer in Punjab offering professional installation & maintenance services."
+  />
+  <meta
+    name="twitter:image"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
 
-    <!-- Robots Meta -->
-    <meta
-      name="robots"
-      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
-    />
+  <!-- Geo Tags -->
+  <meta name="geo.region" content="IN-PB" />
+  <meta name="geo.placename" content="Chandigarh" />
+  <meta name="geo.position" content="30.7333;76.7794" />
+  <meta name="ICBM" content="30.7333,76.7794" />
 
-    <!-- Google/Yandex Verification -->
-    <meta
-      name="google-site-verification"
-      content="replace-this-with-your-google-verification-code"
-    />
-    <meta
-      name="yandex-verification"
-      content="replace-this-with-your-yandex-verification-code"
-    />
+  <!-- Verification -->
+  <meta
+    name="google-site-verification"
+    content="replace-this-with-your-google-verification-code"
+  />
+  <meta
+    name="yandex-verification"
+    content="replace-this-with-your-yandex-verification-code"
+  />
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="assets/css/icons.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
-    <link
-      rel="shortcut icon"
-      type="image/png"
-      href="assets/images/A.K.icon.png"
-    />
-    <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color2.css"
-      title="color2"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color3.css"
-      title="color3"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color4.css"
-      title="color4"
-    />
-  </head>
+  <!-- Favicon (unchanged) -->
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="assets/images/A.K.icon.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="https://akfireengineering.in/image/logo/apple-touch-icon.png"
+  />
+  <link
+    rel="manifest"
+    href="https://akfireengineering.in/image/logo/site.webmanifest"
+  />
+
+  <!-- Robots control for various crawlers -->
+  <meta
+    name="googlebot"
+    content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"
+  />
+  <meta
+    name="yahooSeeker"
+    content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"
+  />
+  <meta
+    name="msnbot"
+    content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"
+  />
+  <meta
+    name="yandexBot"
+    content="index,follow,max-snippet:-1,max-image-preview:large"
+  />
+  <meta name="duckDuckBot" content="index,follow" />
+  <meta name="baiduSpider" content="index,follow" />
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="assets/css/icons.min.css" />
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/responsive.css" />
+
+  <!-- Color Schemes -->
+  <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
+  <link
+    rel="alternate stylesheet"
+    href="assets/css/colors/color2.css"
+    title="color2"
+  />
+  <link
+    rel="alternate stylesheet"
+    href="assets/css/colors/color3.css"
+    title="color3"
+  />
+  <link
+    rel="alternate stylesheet"
+    href="assets/css/colors/color4.css"
+    title="color4"
+  />
+
+  <!-- Font Awesome -->
+  <script
+    src="https://kit.fontawesome.com/a076d05399.js"
+    crossorigin="anonymous"
+  ></script>
+</head>
+
 
   <body itemscope>
     <div class="preloader">
@@ -314,13 +308,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            Our <strong>Water Type Fire Extinguisher in Mohali, Punjab</strong> is perfect for tackling
-            <strong>Class A fires</strong> involving materials like wood, paper, and cloth. As a
-            <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, we provide high-quality
-            <strong>Water Type Fire Extinguishers</strong> that cool the burning materials effectively.
-            Whether you need a <strong>Portable Fire Extinguisher</strong> or a
-            <strong>Water Type Fire Extinguisher</strong>, we ensure complete fire safety for homes,
-            schools, and offices across <strong>Mohali, Punjab</strong>.
+            Our <strong>Water Type Fire Extinguisher in Punjab</strong> is perfect for tackling <strong>Class A fires</strong> involving materials like wood, paper, and cloth. As a <strong>Best Fire Extinguisher Dealer in Punjab</strong>, we provide high-quality <strong>Water Type Fire Extinguishers</strong> that cool the burning materials effectively. Whether you need a <strong>Portable Fire Extinguisher</strong> or a <strong>Water Type Fire Extinguisher</strong>, we ensure complete fire safety for homes, schools, and offices across <strong>Punjab</strong>
           </p>
         </div>
       </div>
@@ -335,13 +323,8 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            <strong>Foam Type Fire Extinguishers</strong> are suitable for <strong>Class A and B fires</strong>
-            caused by flammable liquids like petrol, diesel, or oil. As a trusted
-            <strong>Fire Extinguisher Dealer in Mohali, Punjab</strong>, we supply
-            <strong>Foam Type Fire Extinguishers</strong> that form a thick foam layer to cut off oxygen and
-            prevent the fire from reigniting. For the best
-            <strong>Portable Fire Extinguisher in Mohali</strong>, choose our
-            <strong>Foam Fire Extinguishers</strong> that ensure effective and long-lasting protection.
+            <strong>Foam Type Fire Extinguishers</strong> are suitable for <strong>Class A and B fires</strong> caused by flammable liquids like petrol, diesel, or oil. As a trusted <strong>Fire Extinguisher Dealer in Punjab</strong>, we supply <strong>Foam Type Fire Extinguishers</strong> that form a thick foam layer to cut off oxygen and prevent the fire from reigniting. For the best <strong>Portable Fire Extinguisher </strong>, choose our <strong>Foam Fire Extinguishers</strong> that ensure effective and long-lasting protection.
+
           </p>
         </div>
         <div class="col-md-6 text-center order-1 order-md-2">
@@ -382,13 +365,8 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            Our <strong>CO₂ Type Fire Extinguisher in Mohali, Punjab</strong> is ideal for
-            <strong>electrical and flammable liquid fires</strong>. The <strong>CO₂ Fire Extinguisher</strong>
-            discharges carbon dioxide to eliminate oxygen and cool down the flames. As a
-            <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we supply
-            <strong>Portable CO₂ Fire Extinguishers</strong> suitable for offices, data centers, and industrial
-            setups. For effective electrical fire control, trust the
-            <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>.
+            Our <strong>CO₂ Type Fire Extinguisher in Punjab</strong> is ideal for <strong>electrical and flammable liquid fires</strong>. The <strong>CO₂ Fire Extinguisher</strong> discharges carbon dioxide to eliminate oxygen and cool down the flames. As a <strong>Fire Extinguisher Dealer Punjab</strong>, we supply <strong>Portable CO₂ Fire Extinguishers</strong> suitable for offices, data centers, and industrial setups. For effective electrical fire control, trust the <strong>Best Fire Extinguisher Dealer in Punjab</strong>
+
           </p>
         </div>
       </div>
@@ -403,13 +381,8 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            <strong>Dry Chemical Powder (DCP) Fire Extinguishers</strong> are the most versatile and powerful
-            options for fighting <strong>Class A, B, and C fires</strong>. Our
-            <strong>Dry Chemical Powder Fire Extinguisher in Mohali, Punjab</strong> is designed for quick fire
-            suppression in industrial, commercial, and residential spaces. As a
-            <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong>, we provide
-            <strong>Portable DCP Fire Extinguishers</strong> that deliver reliable performance when you need
-            them the most.
+            <strong>Dry Chemical Powder (DCP) Fire Extinguishers</strong> are the most versatile and powerful options for fighting <strong>Class A, B, and C fires</strong>. Our <strong>Dry Chemical Powder Fire Extinguisher in Punjab</strong> is designed for quick fire suppression in industrial, commercial, and residential spaces. As a <strong>Best Fire Extinguisher Dealer Punjab</strong>, we provide <strong>Portable DCP Fire Extinguishers</strong> that deliver reliable performance when you need them the most.
+
           </p>
         </div>
         <div class="col-md-6 text-center order-1 order-md-2">
@@ -450,12 +423,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            <strong>Clean Agent Fire Extinguishers</strong> are perfect for protecting sensitive equipment like
-            computers, servers, and electronics. Our <strong>Fire Extinguisher in Mohali, Punjab</strong> range
-            includes <strong>Clean Agent Fire Extinguishers</strong> that are safe, eco-friendly, and
-            residue-free. As a leading <strong>Fire Extinguisher Dealer Mohali Punjab</strong>, we ensure that
-            your property and people are protected with the best <strong>fire safety solutions</strong> available
-            in <strong>Mohali</strong>.
+            <strong><strong>Clean Agent Fire Extinguishers</strong> are perfect for protecting sensitive equipment like computers, servers, and electronics. Our <strong>Fire Extinguisher in Punjab</strong> range includes <strong>Clean Agent Fire Extinguishers</strong> that are safe, eco-friendly, and residue-free. As a leading <strong>Fire Extinguisher Dealer Punjab</strong>, we ensure that your property and people are protected with the best <strong>fire safety solutions</strong> 
           </p>
         </div>
       </div>
@@ -470,13 +438,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            We are the <strong>Best Fire Extinguisher Dealer in Mohali, Punjab</strong>, offering a full range
-            of <strong>Portable Fire Extinguishers</strong>, including
-            <strong>Water Type, Foam Type, CO₂ Type, Dry Chemical Powder (DCP), and Clean Agent Fire
-              Extinguishers</strong>. Our <strong>Portable Fire Extinguishers in Mohali</strong> are easy to use,
-            durable, and highly effective during emergencies. Choose the
-            <strong>Best Fire Extinguisher Dealer Mohali Punjab</strong> for certified, high-quality
-            <strong>Fire Extinguishers in Mohali, Punjab</strong>.
+            We are the <strong>Best Fire Extinguisher Dealer in Punjab</strong>, offering a full range of <strong>Portable Fire Extinguishers</strong>, including <strong>Water Type, Foam Type, CO₂ Type, Dry Chemical Powder (DCP), and Clean Agent Fire Extinguishers</strong>. Our <strong>Portable Fire Extinguishers </strong> are easy to use, durable, and highly effective during emergencies. Choose the <strong>Best Fire Extinguisher Dealer Punjab</strong> for certified, high-quality <strong>Fire Extinguishers in Punjab</strong>
           </p>
         </div>
         <div class="col-md-6 text-center order-1 order-md-2">
@@ -522,22 +484,22 @@
                   <div id="toggle" class="toggle">
                     <div class="toggle-item brd-rd3 activate">
                       <h6 itemprop="headline" class="active">
-                        What is the best Fire Extinguisher in Mohali, Punjab?
+                        What is the best Fire Extinguisher in Punjab?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-The best <strong>Fire Extinguisher in Mohali, Punjab</strong> depends on the type of fire you want to tackle. For solid materials, a <strong>Water Type Fire Extinguisher</strong> is ideal. For flammable liquids, choose a <strong>Foam Type Fire Extinguisher</strong>. Electrical fires require a <strong>CO2 Type Fire Extinguisher</strong>, while multi-purpose protection can be achieved with a <strong>Dry Chemical Powder (DCP) Fire Extinguisher</strong>.                        </p>
+                          The best <strong>Fire Extinguisher in Punjab</strong> depends on the type of fire you want to tackle. For solid materials, a <strong>Water Type Fire Extinguisher</strong> is ideal. For flammable liquids, choose a <strong>Foam Type Fire Extinguisher</strong>. Electrical fires require a <strong>CO2 Type Fire Extinguisher</strong>, while multi-purpose protection can be achieved with a <strong>Dry Chemical Powder (DCP) Fire Extinguisher</strong>.
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Where can I find a Fire Extinguisher Dealer in Mohali, Punjab?
+                        Where can I find a Fire Extinguisher Dealer in Punjab?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-You can find a trusted <strong>Fire Extinguisher Dealer in Mohali, Punjab</strong> who supplies certified and high-quality <strong>Portable Fire Extinguishers</strong>, <strong>Water Type</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>DCP</strong>, and <strong>Clean Agent Fire Extinguishers</strong>. Always choose a dealer with installation and maintenance services for complete <strong>fire safety</strong>
+                          You can find a trusted <strong>Fire Extinguisher Dealer in Punjab</strong> who supplies certified and high-quality <strong>Portable Fire Extinguishers</strong>, <strong>Water Type</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>DCP</strong>, and <strong>Clean Agent Fire Extinguishers</strong>. Always choose a dealer with installation and maintenance services for complete <strong>fire safety</strong>
                         </p>
                       </div>
                     </div>
@@ -548,7 +510,7 @@ You can find a trusted <strong>Fire Extinguisher Dealer in Mohali, Punjab</stron
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-A <strong>Portable Fire Extinguisher in Mohali</strong> is a handheld fire safety device that can be easily moved and used during emergencies. It includes all types: <strong>Water Type Fire Extinguisher</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>Dry Chemical Powder (DCP)</strong>, and <strong>Clean Agent Fire Extinguishers</strong>, suitable for homes, offices, and industrial areas.
+                          A <strong>Portable Fire Extinguisher </strong> is a handheld fire safety device that can be easily moved and used during emergencies. It includes all types: <strong>Water Type Fire Extinguisher</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>Dry Chemical Powder (DCP)</strong>, and <strong>Clean Agent Fire Extinguishers</strong>, suitable for homes, offices, and industrial areas.
                         </p>
                       </div>
                     </div>
@@ -560,34 +522,34 @@ A <strong>Portable Fire Extinguisher in Mohali</strong> is a handheld fire safet
                   <div id="toggle2" class="toggle">
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        How often should a Dry Chemical Powder Fire Extinguisher in Mohali, Punjab be serviced?
+                        How often should a Dry Chemical Powder Fire Extinguisher in Punjab be serviced?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-A <strong>Dry Chemical Powder Fire Extinguisher in Mohali, Punjab</strong> should be inspected monthly and serviced annually by a certified <strong>Fire Extinguisher Dealer in Mohali Punjab</strong>. Proper maintenance ensures it works effectively during emergencies and extends its lifespan
+                          A <strong>Dry Chemical Powder Fire Extinguisher in Punjab</strong> should be inspected monthly and serviced annually by a certified <strong>Fire Extinguisher Dealer in Punjab</strong>. Proper maintenance ensures it works effectively during emergencies and extends its lifespan.
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Which Fire Extinguisher Dealer Mohali Punjab is reliable?
+                        Which Fire Extinguisher Dealer Punjab is reliable?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-The most reliable <strong>Fire Extinguisher Dealer Mohali Punjab</strong> offers certified <strong>Portable Fire Extinguishers</strong>, installation services, and regular maintenance. They supply all types, including <strong>Water Type</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>Dry Chemical Powder (DCP)</strong>, and <strong>Clean Agent Fire Extinguishers</strong>, ensuring complete <strong>fire protection</strong> for your premises.
+                          The most reliable <strong>Fire Extinguisher Dealer Punjab</strong> offers certified <strong>Portable Fire Extinguishers</strong>, installation services, and regular maintenance. They supply all types, including <strong>Water Type</strong>, <strong>Foam Type</strong>, <strong>CO2 Type</strong>, <strong>Dry Chemical Powder (DCP)</strong>, and <strong>Clean Agent Fire Extinguishers</strong>, ensuring complete <strong>fire protection</strong> for your premises.
                         </p>
                       </div>
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Can a Clean Agent Fire Extinguisher be used for electronic equipment?
+                         Can a Clean Agent Fire Extinguisher be used for electronic equipment?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-Yes! <strong>Clean Agent Fire Extinguishers</strong> are safe for sensitive equipment like computers and servers. Available through trusted <strong>Fire Extinguisher Dealers in Mohali, Punjab</strong>, they leave no residue and provide fast, effective <strong>fire suppression</strong> for offices, data centers, and hospitals.
+                          Yes! <strong>Clean Agent Fire Extinguishers</strong> are safe for sensitive equipment like computers and servers. Available through trusted <strong>Fire Extinguisher Dealers in Punjab</strong>, they leave no residue and provide fast, effective <strong>fire suppression</strong> for offices, data centers, and hospitals.
                         </p>
                       </div>
                     </div>

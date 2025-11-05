@@ -3,193 +3,137 @@
   <!-- Mirrored from nauthemes.net/html/naar/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:26 GMT -->
 
   <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <title>
-      High-Quality Fire Hydrant Landing Valves | A.K. Fire Engineering Mohali
-    </title>
+  <title>Top Emergency and Safety Equipment in Punjab</title>
 
-    <meta
-      name="description"
-      content="As a leading high-quality fire hydrant valve supplier in Mohali, we specialize in Single Landing Valve Type A and Type B, wet riser system valves, and dry riser system valves designed for maximum efficiency and durability. Our industrial fire hydrant valves and fire protection valves in Mohali are precision-engineered to meet the highest safety standards."
-    />
+  <!-- Primary Meta -->
+  <meta
+    name="description"
+    content="Looking for reliable Top Emergency and Safety Equipment in Punjab? We provide certified Emergency Exit Signage and Emergency Lights to ensure complete safety for homes, offices, and industrial spaces. Trust our Emergency and Safety Equipment for maximum protection during emergencies."
+  />
+  <meta
+    name="keywords"
+    content="Top Emergency and Safety Equipment, Emergency Exit Signage, Emergency Light, Emergency and Safety Equipment, Emergency Exit Signage Punjab, Emergency Light Punjab, Emergency Exit Signage and Lighting Solutions"
+  />
+  <meta name="author" content="Nikhil" />
+  <meta name="publisher" content="AK Fire Engineering" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google" content="notranslate" />
+  <meta name="rating" content="General" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="mobileoptimized" content="320" />
+  <meta name="theme-color" content="#0d6efd" />
+  <meta name="language" content="en" />
+  <meta name="distribution" content="global" />
+  <meta name="expires" content="never" />
+  <meta name="document-type" content="public" />
+  <meta name="country" content="India" />
+  <meta name="state" content="Chandigarh" />
+  <meta name="city" content="Mohali" />
 
-    <meta
-      name="keywords"
-      content="High-Quality Fire Hydrant Landing Valves, A.K. Fire Engineering Mohali, Fire Engineering Company in Mohali, Trusted Fire Safety Solutions Mohali, Fire Hydrant Valve Supplier Mohali, Fire Hydrant System Components Punjab, Single Landing Valve Type A / Type B, Dry Riser System Valve Punjab, Fire Protection Valves Mohali, Industrial Fire Hydrant Valves, Wet Riser System Valve Mohali, Firefighting Equipment Supplier Mohali, Fire Protection System Components Punjab, Industrial Fire Hydrant Valve"
-    />
+  <!-- Canonical -->
+  <link rel="canonical" href="https://akfireengineering.in/top-emergency-safety-equipment-punjab/" />
 
-    <link
-      rel="canonical"
-      href="https://www.akfireengineering.com/landing-valve-supplier-mohali-punjab/"
-    />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Top Emergency and Safety Equipment in Punjab" />
+  <meta
+    property="og:description"
+    content="Looking for reliable Emergency and Safety Equipment in Punjab? We provide certified Emergency Exit Signage and Emergency Lights to ensure complete safety for homes, offices, and industrial spaces."
+  />
+  <meta property="og:url" content="https://akfireengineering.in/top-emergency-safety-equipment-punjab/" />
+  <meta property="og:site_name" content="AK Fire Engineering" />
+  <meta property="og:locale" content="en_IN" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
+  <meta
+    property="og:image:alt"
+    content="Emergency and Safety Equipment in Punjab – Certified Exit Signage and Emergency Lights"
+  />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
 
-    <!-- Favicons -->
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo.png"
-      sizes="any"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/favicon-16x16.png"
-      sizes="16x16"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/favicon-32x32.png"
-      sizes="32x32"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/android-chrome-192x192.png"
-      sizes="192x192"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/android-chrome-512x512.png"
-      sizes="512x512"
-    />
-    <link
-      rel="apple-touch-icon"
-      href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
-      sizes="180x180"
-    />
-    <link
-      rel="manifest"
-      href="https://ak_fire_engineering.in/image/logo/site.webmanifest"
-    />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Top Emergency and Safety Equipment in Punjab" />
+  <meta
+    name="twitter:description"
+    content="Looking for reliable Emergency and Safety Equipment in Punjab? We provide certified Emergency Exit Signage and Emergency Lights for homes, offices, and industries. Trust our Emergency and Safety Equipment for maximum protection."
+  />
+  <meta
+    name="twitter:image"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
 
-    <!-- Open Graph -->
-    <meta
-      property="og:title"
-      content="High-Quality Fire Hydrant Landing Valves | A.K. Fire Engineering Mohali"
-    />
-    <meta
-      property="og:description"
-      content="As a leading fire hydrant valve supplier in Mohali, we specialize in Single Landing Valve Type A and Type B, wet and dry riser system valves for top fire safety performance."
-    />
-    <meta
-      property="og:url"
-      content="https://www.akfireengineering.com/landing-valve-supplier-mohali-punjab"
-    />
-    <meta property="og:site_name" content="A.K. Fire Engineering" />
-    <meta property="og:locale" content="en_IN" />
-    <meta property="og:type" content="website" />
-    <meta
-      property="og:image"
-      content="https://www.akfireengineering.com/landing-valve-supplier-mohali-punjab"
-    />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta
-      property="og:image:alt"
-      content="Fire Hydrant Landing Valves – A.K. Fire Engineering Mohali"
-    />
+  <!-- Geo Tags -->
+  <meta name="geo.region" content="IN-PB" />
+  <meta name="geo.placename" content="Mohali" />
+  <meta name="geo.position" content="30.7333;76.7794" />
+  <meta name="ICBM" content="30.7333,76.7794" />
 
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="High-Quality Fire Hydrant Landing Valves | A.K. Fire Engineering"
-    />
-    <meta
-      name="twitter:description"
-      content="As a leading fire hydrant valve supplier in Mohali, we specialize in Single Landing Valve Type A and Type B, wet riser and dry riser valves engineered to top safety standards."
-    />
-    <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+  <!-- Verification -->
+  <meta
+    name="google-site-verification"
+    content="replace-this-with-your-google-verification-code"
+  />
+  <meta
+    name="yandex-verification"
+    content="replace-this-with-your-yandex-verification-code"
+  />
 
-    <!-- Robots -->
-    <meta name="robots" content="index, follow" />
-    <meta
-      name="googlebot"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="yahooSeeker"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="msnbot"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="yandexBot"
-      content="index, follow, max-image-preview:large, max-snippet:-1"
-    />
-    <meta name="duckDuckBot" content="index, follow" />
-    <meta name="baiduSpider" content="index, follow" />
+  <!-- Favicon (unchanged as per your setup) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/A.K.icon.png" />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="https://akfireengineering.in/image/logo/apple-touch-icon.png"
+  />
+  <link
+    rel="manifest"
+    href="https://akfireengineering.in/image/logo/site.webmanifest"
+  />
 
-    <!-- Verification -->
-    <meta
-      name="google-site-verification"
-      content="replace-this-with-your-google-verification-code"
-    />
-    <meta
-      name="yandex-verification"
-      content="replace-this-with-your-yandex-verification-code"
-    />
+  <!-- Robots control for various crawlers -->
+  <meta
+    name="googlebot"
+    content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"
+  />
+  <meta
+    name="yahooSeeker"
+    content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"
+  />
+  <meta
+    name="msnbot"
+    content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"
+  />
+  <meta
+    name="yandexBot"
+    content="index,follow,max-snippet:-1,max-image-preview:large"
+  />
+  <meta name="duckDuckBot" content="index,follow" />
+  <meta name="baiduSpider" content="index,follow" />
 
-    <!-- Other Meta -->
-    <meta name="author" content="Nikhil" />
-    <meta name="publisher" content="A.K. Fire Engineering" />
-    <meta name="google" content="notranslate" />
-    <meta name="geo.region" content="IN-PB" />
-    <meta name="geo.placename" content="Mohali" />
-    <meta name="geo.position" content="30.666366;76.719084" />
-    <meta name="ICBM" content="30.666366,76.719084" />
-    <meta name="DC.title" content="High-Quality Fire Hydrant Landing Valves" />
-    <meta name="distribution" content="global" />
-    <meta name="copyright" content="©A.K. Fire Engineering" />
-    <meta name="language" content="en" />
-    <meta name="rating" content="General" />
-    <meta name="expires" content="never" />
-    <meta name="HandheldFriendly" content="true" />
-    <meta name="mobileoptimized" content="320" />
-    <meta name="theme-color" content="#0d6efd" />
-    <meta name="document-type" content="public" />
-    <meta name="country" content="India" />
-    <meta name="state" content="Mohali" />
-    <meta name="city" content="Mohali" />
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="assets/css/icons.min.css" />
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/responsive.css" />
 
-    <!-- CSS Files -->
-    <link rel="stylesheet" href="assets/css/icons.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
-    <link
-      rel="shortcut icon"
-      type="image/png"
-      href="assets/images/A.K.icon.png"
-    />
+  <!-- Color Schemes -->
+  <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color2.css" title="color2" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color3.css" title="color3" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color4.css" title="color4" />
 
-    <!-- Color Schemes -->
-    <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color2.css"
-      title="color2"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color3.css"
-      title="color3"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color4.css"
-      title="color4"
-    />
-  </head>
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
 
   <body itemscope>
     <div class="preloader">
@@ -213,7 +157,7 @@
           <div class="container">
             <div class="pg-tp-wrp">
               <h1 itemprop="headline">
-                Emergency and Safety Equipment Mohali Punjab
+                Emergency and Safety Equipment  Punjab
               </h1>
               <ol class="breadcrumb">
                 <li class="breadcrumb-item">
@@ -223,7 +167,7 @@
                   <a href="blog.html" title="" itemprop="url">Products</a>
                 </li>
                 <li class="breadcrumb-item active">
-                  Emergency and Safety Equipment Mohali Punjab
+                  Emergency and Safety Equipment  Punjab
                 </li>
               </ol>
             </div>
@@ -297,11 +241,11 @@
                     <div class="blog-detail-desc">
                       <h3>
                         <span class="theme-clr">Emergency</span> and
-                        <span class="theme-clr">Safety Equipment</span> Mohali Punjab
+                        <span class="theme-clr">Safety Equipment</span>  Punjab
                       </h3>
 
                       <p itemprop="description">
-                        Ensure complete protection for homes, offices, and industrial spaces with our certified <strong>Emergency and Safety Equipment Mohali Punjab</strong>. We provide high-quality <strong>Emergency Exit Signage Mohali Punjab</strong> and reliable <strong>Emergency Light Mohali Punjab</strong> to guide people safely during emergencies. Trust our <strong>Emergency and Safety Equipment</strong> for maximum safety and compliance with all fire and safety regulations.
+                        Ensure complete protection for homes, offices, and industrial spaces with our certified <strong>Emergency and Safety Equipment  Punjab</strong>. We provide high-quality <strong>Emergency Exit Signage  Punjab</strong> and reliable <strong>Emergency Light  Punjab</strong> to guide people safely during emergencies. Trust our <strong>Emergency and Safety Equipment</strong> for maximum safety and compliance with all fire and safety regulations.
                       </p>
                     </div>
                   </div>
@@ -314,7 +258,7 @@
         <div class="col-md-6 text-center">
           <img
             src="assets/images/products/EmergencyExitSignage.jpeg"
-            alt="Emergency Exit Signage Mohali Punjab"
+            alt="Emergency Exit Signage  Punjab"
             style="
               width: 100%;
               max-width: 320px;
@@ -338,9 +282,9 @@
               line-height: 1.8;
               color: #555;
             ">
-            Our <strong>Emergency Exit Signage Mohali Punjab</strong> ensures safe evacuation routes during fire or power emergencies.
+            Our <strong>Emergency Exit Signage  Punjab</strong> ensures safe evacuation routes during fire or power emergencies.
             Each <strong>Emergency Exit Sign</strong> is made with premium materials and LED illumination for visibility even in low-light conditions.
-            These are essential <strong>Emergency and Safety Equipment Mohali Punjab</strong> for homes, offices, and industrial environments.
+            These are essential <strong>Emergency and Safety Equipment  Punjab</strong> for homes, offices, and industrial environments.
           </p>
         </div>
       </div>
@@ -350,7 +294,7 @@
         <div class="col-md-6 text-center">
           <img
             src="assets/images/products/EmergencyLight.jpeg"
-            alt="Emergency Light Mohali Punjab"
+            alt="Emergency Light  Punjab"
             style="
               width: 100%;
               max-width: 320px;
@@ -374,8 +318,8 @@
               line-height: 1.8;
               color: #555;
             ">
-            The <strong>Reliable Emergency Light Mohali Punjab</strong> provides continuous illumination during power outages or fire emergencies.
-            Our energy-efficient and durable <strong>Emergency Lights</strong> are vital <strong>Emergency and Safety Equipment Mohali Punjab</strong>,
+            The <strong>Reliable Emergency Light  Punjab</strong> provides continuous illumination during power outages or fire emergencies.
+            Our energy-efficient and durable <strong>Emergency Lights</strong> are vital <strong>Emergency and Safety Equipment  Punjab</strong>,
             ensuring safe navigation, reducing panic, and maintaining visibility in residential, commercial, and industrial spaces.
           </p>
         </div>
@@ -397,7 +341,7 @@
         <div class="gap remove-gap">
           <div class="container">
             <div class="sec-tl">
-              <span>Emergency and Safety Equipment Mohali Punjab</span>
+              <span>Emergency and Safety Equipment  Punjab</span>
               <h2 itemprop="headline">Frequently Asked Questions</h2>
             </div>
             <!-- Sec Title -->
@@ -420,12 +364,12 @@ Top <strong>Emergency and Safety Equipment</strong> includes certified products 
                     </div>
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        What is Emergency Exit Signage Mohali Punjab?
+                        What is Emergency Exit Signage  Punjab?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-<strong>Emergency Exit Signage Mohali Punjab</strong> clearly indicates safe evacuation routes in case of fire or power failure. These signs are made with high-quality materials and LED illumination to ensure visibility at all times
+<strong>Emergency Exit Signage  Punjab</strong> clearly indicates safe evacuation routes in case of fire or power failure. These signs are made with high-quality materials and LED illumination to ensure visibility at all times
                         </p>
                       </div>
                     </div>
@@ -436,7 +380,7 @@ Top <strong>Emergency and Safety Equipment</strong> includes certified products 
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
- <strong>Emergency Light Mohali Punjab</strong> provides illumination during power outages or emergencies, guiding people safely and reducing panic. It is an essential part of <strong>Emergency and Safety Equipment Mohali Punjab</strong>
+ <strong>Emergency Light  Punjab</strong> provides illumination during power outages or emergencies, guiding people safely and reducing panic. It is an essential part of <strong>Emergency and Safety Equipment  Punjab</strong>
                         </p>
                       </div>
                     </div>
@@ -448,12 +392,12 @@ Top <strong>Emergency and Safety Equipment</strong> includes certified products 
                   <div id="toggle2" class="toggle">
                     <div class="toggle-item brd-rd3">
                       <h6 itemprop="headline">
-                        Where can I buy Emergency Exit Signage and Emergency Lights in Mohali?
+                        Where can I buy Emergency Exit Signage and Emergency Lights in ?
                         <i class="fas fa-plus"></i><i class="fas fa-minus"></i>
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-You can get certified <strong>Emergency Exit Signage Mohali Punjab</strong> and <strong>Emergency Light Mohali Punjab</strong> from trusted suppliers of <strong>Emergency and Safety Equipment Mohali Punjab</strong> for homes, offices, and industrial buildings.
+You can get certified <strong>Emergency Exit Signage  Punjab</strong> and <strong>Emergency Light  Punjab</strong> from trusted suppliers of <strong>Emergency and Safety Equipment  Punjab</strong> for homes, offices, and industrial buildings.
                         </p>
                       </div>
                     </div>
@@ -464,7 +408,7 @@ You can get certified <strong>Emergency Exit Signage Mohali Punjab</strong> and 
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
-Regularly check the LED lights, battery backup, and visibility of your <strong>Emergency Exit Signage Mohali Punjab</strong> and <strong>Emergency Light Mohali Punjab</strong> to ensure they function properly during emergencies
+Regularly check the LED lights, battery backup, and visibility of your <strong>Emergency Exit Signage  Punjab</strong> and <strong>Emergency Light  Punjab</strong> to ensure they function properly during emergencies
                         </p>
                       </div>
                     </div>
@@ -475,7 +419,7 @@ Regularly check the LED lights, battery backup, and visibility of your <strong>E
                       </h6>
                       <div class="toggle-content">
                         <p itemprop="description">
- All <strong>Emergency and Safety Equipment Mohali Punjab</strong>, including <strong>Emergency Exit Signage</strong> and <strong>Emergency Light</strong>, should comply with national safety standards and certifications to ensure reliability and effective performance during emergencies.                        </p>
+ All <strong>Emergency and Safety Equipment  Punjab</strong>, including <strong>Emergency Exit Signage</strong> and <strong>Emergency Light</strong>, should comply with national safety standards and certifications to ensure reliability and effective performance during emergencies.                        </p>
                       </div>
                     </div>
                   </div>

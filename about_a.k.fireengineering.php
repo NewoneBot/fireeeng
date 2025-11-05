@@ -4,106 +4,127 @@
 <!-- Mirrored from nauthemes.net/html/naar/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:19 GMT -->
 <head>
   <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-  <title>About Us – Trusted Fire Engineering Suppliers in Mohali & Punjab</title>
+  <title>About Us – Trusted Fire Engineering Suppliers in Punjab</title>
 
+  <!-- Primary Meta -->
   <meta
     name="description"
-    content="Looking for the best Fire Engineering in Mohali? We are a trusted Fire Engineering Supplier in Mohali offering a complete range of fire safety and fire protection equipment across Punjab. Established in 2008, our company provides high-quality fire extinguishers, refilling services, and maintenance solutions to ensure your safety at home, office, or industrial sites. Visit our Fire Extinguisher Shop in Mohali for top-branded products and expert guidance."
+    content="Looking for the best Fire Engineering Services in Punjab? We are a trusted Fire Engineering Supplier in Punjab offering a complete range of fire safety and fire protection equipment across Punjab. Established in 2008, our company provides high-quality fire extinguishers, refilling services, and maintenance solutions to ensure your safety at home, office, or industrial sites. Visit our Fire Extinguisher Shop for top-branded products and expert guidance."
   />
-
   <meta
     name="keywords"
-    content="Fire extinguisher Mohali, Fire safety Mohali, Fire extinguisher supplier Mohali, Fire protection Mohali, Extinguisher refill Mohali, fire extinguisher Mohali, Fire extinguisher Punjab, Fire extinguisher shop Mohali, Fire extinguisher dealers Punjab, Fire extinguisher supplier near me"
+    content="Fire extinguisher, Fire safety, Fire extinguisher supplier, Fire protection, Extinguisher refill, Fire extinguisher Punjab, Fire extinguisher shop, Fire extinguisher dealers Punjab, Fire extinguisher supplier near me"
   />
+  <meta name="author" content="Nikhil" />
+  <meta name="publisher" content="AK Fire Engineering" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google" content="notranslate" />
+  <meta name="rating" content="General" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="mobileoptimized" content="320" />
+  <meta name="theme-color" content="#0d6efd" />
+  <meta name="language" content="en" />
+  <meta name="distribution" content="global" />
+  <meta name="expires" content="never" />
+  <meta name="document-type" content="public" />
+  <meta name="country" content="India" />
+  <meta name="state" content="Chandigarh" />
+  <meta name="city" content="Chandigarh" />
 
-  <link rel="canonical" href="https://akfireengineering.com/fire-extinguisher-supplier-mohali/" />
-
-  <!-- Favicons -->
-  <link rel="icon" type="image/png" href="https://freelancesociety.in/image/logo.png" sizes="any" />
-  <link rel="icon" type="image/png" href="https://freelancesociety.in/image/logo/favicon-16x16.png" sizes="16x16" />
-  <link rel="icon" type="image/png" href="https://freelancesociety.in/image/logo/favicon-32x32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="https://freelancesociety.in/image/logo/android-chrome-192x192.png" sizes="192x192" />
-  <link rel="icon" type="image/png" href="https://freelancesociety.in/image/logo/android-chrome-512x512.png" sizes="512x512" />
-  <link rel="apple-touch-icon" href="https://freelancesociety.in/image/logo/apple-touch-icon.png" sizes="180x180" />
-  <link rel="manifest" href="https://freelancesociety.in/image/logo/site.webmanifest" />
+  <!-- Canonical -->
+  <link rel="canonical" href="https://akfireengineering.in/fire-extinguisher-supplier/" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="About Us – Trusted Fire Engineering Suppliers in Mohali & Punjab" />
+  <meta property="og:title" content="About Us – Trusted Fire Engineering Suppliers in Punjab" />
   <meta
     property="og:description"
-    content="Trusted Fire Engineering Supplier in Mohali offering complete fire safety and fire protection equipment across Punjab."
+    content="We are a trusted Fire Engineering Supplier in Punjab offering fire extinguishers, refilling services, maintenance and fire safety equipment across Punjab since 2008."
   />
-  <meta property="og:url" content="https://akfireengineering.com/fire-extinguisher-supplier-mohali/" />
-  <meta property="og:site_name" content="A.K. Fire Engineering" />
+  <meta property="og:url" content="https://akfireengineering.in/fire-extinguisher-supplier/" />
+  <meta property="og:site_name" content="AK Fire Engineering" />
   <meta property="og:locale" content="en_IN" />
   <meta property="og:type" content="website" />
   <meta
     property="og:image"
-    content="https://akfireengineering.com/fire-extinguisher-supplier-mohali"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
+  <meta
+    property="og:image:alt"
+    content="Fire extinguisher Punjab – trusted fire safety equipment"
   />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
-  <meta property="og:image:alt" content="Fire extinguisher Mohali – trusted fire safety equipment" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Fire Extinguisher Mohali | Fire Safety & Refilling Services" />
+  <meta
+    name="twitter:title"
+    content="About Us – Trusted Fire Engineering Suppliers in Punjab"
+  />
   <meta
     name="twitter:description"
-    content="Fire extinguisher Mohali – trusted fire extinguisher supplier, shop & dealer. Get fire safety, protection & extinguisher refill services near you today!"
+    content="Looking for the best Fire Engineering Services in Punjab? We provide fire extinguishers, refilling, maintenance and complete fire safety solutions across Punjab."
   />
-  <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+  <meta
+    name="twitter:image"
+    content="https://akfireengineering.in/image/logo/android-chrome-512x512.png"
+  />
 
-  <!-- Robots -->
-  <meta name="robots" content="index, follow" />
-  <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-  <meta name="yahooSeeker" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-  <meta name="msnbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-  <meta name="yandexBot" content="index, follow, max-image-preview:large, max-snippet:-1" />
-  <meta name="duckDuckBot" content="index, follow" />
-  <meta name="baiduSpider" content="index, follow" />
+  <!-- Geo Tags -->
+  <meta name="geo.region" content="IN-PB" />
+  <meta name="geo.placename" content="Chandigarh" />
+  <meta name="geo.position" content="30.7333;76.7794" />
+  <meta name="ICBM" content="30.7333,76.7794" />
 
   <!-- Verification -->
-  <meta name="google-site-verification" content="replace-this-with-your-google-verification-code" />
-  <meta name="yandex-verification" content="replace-this-with-your-yandex-verification-code" />
+  <meta
+    name="google-site-verification"
+    content="replace-this-with-your-google-verification-code"
+  />
+  <meta
+    name="yandex-verification"
+    content="replace-this-with-your-yandex-verification-code"
+  />
 
-  <!-- Other Meta -->
-  <meta name="author" content="Nikhil" />
-  <meta name="publisher" content="A.K. Fire Engineering" />
-  <meta name="google" content="notranslate" />
-  <meta name="geo.region" content="IN-PB" />
-  <meta name="geo.placename" content="Mohali" />
-  <meta name="geo.position" content="30.666366;76.719084" />
-  <meta name="ICBM" content="30.666366,76.719084" />
-  <meta name="DC.title" content="Fire Extinguisher Mohali | Fire Safety & Refilling Services" />
-  <meta name="distribution" content="global" />
-  <meta name="copyright" content="©A.K. Fire Engineering" />
-  <meta name="language" content="en" />
-  <meta name="rating" content="General" />
-  <meta name="expires" content="never" />
-  <meta name="HandheldFriendly" content="true" />
-  <meta name="mobileoptimized" content="320" />
-  <meta name="theme-color" content="#0d6efd" />
-  <meta name="document-type" content="public" />
-  <meta name="country" content="India" />
-  <meta name="state" content="Mohali" />
-  <meta name="city" content="Mohali" />
+  <!-- Favicon (kept same as you wanted) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/A.K.icon.png" />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="https://akfireengineering.in/image/logo/apple-touch-icon.png"
+  />
+  <link
+    rel="manifest"
+    href="https://akfireengineering.in/image/logo/site.webmanifest"
+  />
 
-  <!-- CSS Files -->
+  <!-- Robots control for various crawlers -->
+  <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yahooSeeker" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="msnbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yandexBot" content="index,follow,max-snippet:-1,max-image-preview:large" />
+  <meta name="duckDuckBot" content="index,follow" />
+  <meta name="baiduSpider" content="index,follow" />
+
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="assets/css/icons.min.css" />
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet" href="assets/css/responsive.css" />
-  <link rel="shortcut icon" type="image/png" href="assets/images/A.K.icon.png" />
 
   <!-- Color Schemes -->
   <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
   <link rel="alternate stylesheet" href="assets/css/colors/color2.css" title="color2" />
   <link rel="alternate stylesheet" href="assets/css/colors/color3.css" title="color3" />
   <link rel="alternate stylesheet" href="assets/css/colors/color4.css" title="color4" />
+
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
+
 
 <body itemscope>
     <div class="preloader">
@@ -145,10 +166,10 @@
                             </div><!-- Sec Title -->
                             <div class="abt-desc">
                                 <p itemprop="description">
-                                    Established in 2008, our company has been a trusted provider of fire safety and protection equipment in Mohali. For over 15 years, we have specialized in supplying a wide range of fire extinguishers, refilling services, fire protection systems, and other essential safety equipment to homes, offices, and industries across the city.
+                                    Established in 2008, our company has been a trusted provider of fire safety and protection equipment in. For over 15 years, we have specialized in supplying a wide range of fire extinguishers, refilling services, fire protection systems, and other essential safety equipment to homes, offices, and industries across the city.
                                 </p>
                                 <p itemprop="description">
-                                    Our mission is to ensure the safety and security of every client by delivering high-quality, certified fire safety products and reliable services. With a strong focus on customer satisfaction, prompt support, and expert guidance, we have earned a reputation as a trusted fire safety solutions provider in Mohali.
+                                    Our mission is to ensure the safety and security of every client by delivering high-quality, certified fire safety products and reliable services. With a strong focus on customer satisfaction, prompt support, and expert guidance, we have earned a reputation as a trusted fire safety solutions provider in.
                                 </p>
                                 <p itemprop="description">
                                     From portable fire extinguishers to industrial fire protection systems, our comprehensive product range meets the diverse needs of clients, ensuring peace of mind and compliance with safety standards.                                </p>
@@ -194,7 +215,7 @@ At the core of our work is an unwavering commitment to <strong>safety</strong>, 
                             </div><!-- Sec Title -->
                             <div class="abt-desc">
                                 <p itemprop="description">
-To provide <strong>high-quality fire extinguishers</strong> and <strong>comprehensive fire safety solutions</strong> across Mohali and Punjab. We aim to make fire protection <strong>affordable</strong>, <strong>accessible</strong>, and <strong>understandable</strong> for every home, office, and industry. Our mission is to create <strong>fire-safe environments</strong> through reliable products and expert guidance.
+To provide <strong>high-quality fire extinguishers</strong> and <strong>comprehensive fire safety solutions</strong> across Punjab. We aim to make fire protection <strong>affordable</strong>, <strong>accessible</strong>, and <strong>understandable</strong> for every home, office, and industry. Our mission is to create <strong>fire-safe environments</strong> through reliable products and expert guidance.
                             </div>
                              <div class="sec-tl">
                                 <h2 itemprop="headline"><strong>Our Vision</strong></h2>

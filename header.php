@@ -32,11 +32,11 @@
 
 								<li class="menu-item-has-children"><a href="#" title="" itemprop="url">Products <i class="fas fa-angle-down"></i></a>
                                     <ul>
-                                        <li><a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url">Fire Detection</a></li>
+                                        <li><a href="fire-detection-and-alarm-system-punjab.php" title="" itemprop="url">Fire Detection</a></li>
                                         <li><a href="fire-suppression-system-punjab.php" title="" itemprop="url">Fire Suppression</a></li>
-										<li><a href="best-fire-extinguisher-dealer-mohali-punjab.php" title="" itemprop="url">Fire Extinguisher</a></li>
-										<li><a href="top-10-fire-safety-accessories-mohali-punjab.php" title="" itemprop="url">Safety Accessories</a></li>
-                                        <li><a href="top-emergency-safety-equipment-mohali-punjab.php" title="" itemprop="url">Emergency Equipment</a></li>
+										<li><a href="best-fire-extinguisher-dealer-punjab.php" title="" itemprop="url">Fire Extinguisher</a></li>
+										<li><a href="top-10-fire-safety-accessories-punjab.php" title="" itemprop="url">Safety Accessories</a></li>
+                                        <li><a href="top-emergency-safety-equipment-punjab.php" title="" itemprop="url">Emergency Equipment</a></li>
                                     </ul>
                                 </li>
                                 								<li class="menu-item-has-children"><a href="blog.php" title="" itemprop="url">Our Blog</a>
@@ -83,11 +83,11 @@
                     <li><a href="about.php" title="" itemprop="url">About</a></li>
                     <li class="menu-item-has-children"><a href="#" title="" itemprop="url">Products</a>
                         <ul>
-                                        <li><a href="fire-detection-and-alarm-system-mohali-punjab.php" title="" itemprop="url">Fire Detection</a></li>
+                                        <li><a href="fire-detection-and-alarm-system-punjab.php" title="" itemprop="url">Fire Detection</a></li>
                                         <li><a href="fire-suppression-system-punjab.php" title="" itemprop="url">Fire Suppression</a></li>
-										<li><a href="best-fire-extinguisher-dealer-mohali-punjab.php" title="" itemprop="url">Fire Extinguisher</a></li>
-										<li><a href="top-10-fire-safety-accessories-mohali-punjab.php" title="" itemprop="url">Safety Accessories </a></li>
-                                        <li><a href="top-emergency-safety-equipment-mohali-punjab.php" title="" itemprop="url">Emergency Equipment</a></li>
+										<li><a href="best-fire-extinguisher-dealer-punjab.php" title="" itemprop="url">Fire Extinguisher</a></li>
+										<li><a href="top-10-fire-safety-accessories-punjab.php" title="" itemprop="url">Safety Accessories </a></li>
+                                        <li><a href="top-emergency-safety-equipment-punjab.php" title="" itemprop="url">Emergency Equipment</a></li>
                         </ul>
                     </li>
                     <!-- <li class="menu-item-has-children"><a href="#" title="" itemprop="url">Events</a>

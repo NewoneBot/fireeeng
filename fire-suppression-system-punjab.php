@@ -2,197 +2,103 @@
 <html lang="en">
   <!-- Mirrored from nauthemes.net/html/naar/blog-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 05:29:26 GMT -->
   <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <title>
-      Fire Hose Couplings, Valves & Safety Equipment | A.K. Fire Engineering
-      Mohali
-    </title>
+  <title>Ultimate Fire Suppression System in Punjab</title>
 
-    <meta
-      name="description"
-      content="A.K. Fire Engineering Mohali provides fire hose couplings, valves, nozzles, and firefighting equipment in Mohali. Trusted fire engineering company offering durable fire safety solutions for homes, offices, and industries."
-    />
+  <!-- Primary Meta -->
+  <meta
+    name="description"
+    content="We offer fire suppression systems in Punjab, including automatic sprinklers, fire hydrants, wet and dry risers, fire hose reels, water mist systems, gas suppression systems, and foam systems for flammable liquids. These solutions help protect homes, offices, and industrial spaces."
+  />
+  <meta
+    name="keywords"
+    content="Ultimate Fire Suppression System in Punjab, Fire Suppression System, Automatic Sprinkler System in Punjab, Fire Hydrant System in Punjab, Wet Riser System in Punjab, Dry Riser System in Punjab, Fire Hose Reels in Punjab, Water Mist System in Punjab, Gas Suppression System in Punjab, FM200, CO2, Inergen, Novec 1230, Foam System in Punjab for Flammable Liquids, Automatic Sprinkler System Punjab, Fire Hydrant System Punjab, Wet Riser System Punjab, Dry Riser System Punjab"
+  />
+  <meta name="author" content="Nikhil" />
+  <meta name="publisher" content="AK Fire Engineering" />
+  <meta name="robots" content="index, follow" />
+  <meta name="google" content="notranslate" />
+  <meta name="rating" content="General" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="mobileoptimized" content="320" />
+  <meta name="theme-color" content="#0d6efd" />
+  <meta name="language" content="en" />
+  <meta name="distribution" content="global" />
+  <meta name="expires" content="never" />
+  <meta name="document-type" content="public" />
+  <meta name="country" content="India" />
+  <meta name="state" content="Chandigarh" />
+  <meta name="city" content="Chandigarh" />
 
-    <meta
-      name="keywords"
-      content="Fire hose coupling suppliers Mohali, High-Quality Fire Hose Couplings Nozzles & Pipes, Aluminum fire hose couplings Mohali, Brass fire hose couplings Mohali, Fire hose coupling fittings Mohali, Industrial fire hose couplings Mohali, Fire engineering company Mohali, Fire safety solutions Mohali, Firefighting equipment supplier Mohali, Fire Hose Mohali, Fire Couplings Mohali, Fire Nozzles Mohali, Fire Valves Mohali, Fire Hydrant Mohali, Fire Safety Mohali, Fire Equipment Mohali, Fire Protection Mohali, Fire System Mohali, Industrial Fire Mohali"
-    />
+  <!-- Canonical -->
+  <link rel="canonical" href="https://akfireengineering.in/fire-suppression-system-punjab/" />
 
-    <link
-      rel="canonical"
-      href="https://akfireengineering.com/Fire-hose-couplings-valves-nozzles-mohali/"
-    />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Ultimate Fire Suppression System in Punjab" />
+  <meta
+    property="og:description"
+    content="We offer fire suppression systems in Punjab, including automatic sprinklers, fire hydrants, wet and dry risers, fire hose reels, water mist systems, gas suppression systems, and foam systems for flammable liquids."
+  />
+  <meta property="og:url" content="https://akfireengineering.in/fire-suppression-system-punjab/" />
+  <meta property="og:site_name" content="AK Fire Engineering" />
+  <meta property="og:locale" content="en_IN" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://akfireengineering.in/image/logo/android-chrome-512x512.png" />
+  <meta property="og:image:alt" content="Fire suppression systems in Punjab including sprinklers, hydrants, risers, hoses, water mist, gas and foam systems" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
 
-    <!-- Favicons -->
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo.png"
-      sizes="any"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/favicon-16x16.png"
-      sizes="16x16"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/favicon-32x32.png"
-      sizes="32x32"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/android-chrome-192x192.png"
-      sizes="192x192"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://freelancesociety.in/image/logo/android-chrome-512x512.png"
-      sizes="512x512"
-    />
-    <link
-      rel="apple-touch-icon"
-      href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
-      sizes="180x180"
-    />
-    <link
-      rel="manifest"
-      href="https://freelancesociety.in/image/logo/site.webmanifest"
-    />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Ultimate Fire Suppression System in Punjab" />
+  <meta
+    name="twitter:description"
+    content="We offer fire suppression systems in Punjab, including automatic sprinklers, fire hydrants, wet and dry risers, fire hose reels, water mist systems, gas suppression systems, and foam systems for flammable liquids."
+  />
+  <meta name="twitter:image" content="https://akfireengineering.in/image/logo/android-chrome-512x512.png" />
 
-    <!-- Open Graph -->
-    <meta
-      property="og:title"
-      content="Fire Hose Couplings, Valves & Safety Equipment | A.K. Fire Engineering Mohali"
-    />
-    <meta
-      property="og:description"
-      content="A.K. Fire Engineering Mohali provides fire hose couplings, valves, nozzles, and firefighting equipment in Mohali. Trusted fire engineering company offering durable fire safety solutions for homes, offices, and industries."
-    />
-    <meta
-      property="og:url"
-      content="https://akfireengineering.com/Fire-hose-couplings-valves-nozzles-mohali/"
-    />
-    <meta property="og:site_name" content="A.K. Fire Engineering" />
-    <meta property="og:locale" content="en_IN" />
-    <meta property="og:type" content="website" />
-    <meta
-      property="og:image"
-      content="https://akfireengineering.com/Fire-hose-couplings-valves-nozzles-mohali/"
-    />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta
-      property="og:image:alt"
-      content="Fire hose coupling suppliers Mohali, Aluminum fire hose couplings Mohali, Brass fire hose couplings Mohali, Fire hose coupling fittings Mohali, Industrial fire hose couplings Mohali"
-    />
+  <!-- Geo Tags -->
+  <meta name="geo.region" content="IN-PB" />
+  <meta name="geo.placename" content="Chandigarh" />
+  <meta name="geo.position" content="30.7333;76.7794" />
+  <meta name="ICBM" content="30.7333,76.7794" />
 
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
-      content="Fire Hose Couplings, Valves & Safety Equipment"
-    />
-    <meta
-      name="twitter:description"
-      content="A.K. Fire Engineering Mohali provides fire hose couplings, valves, nozzles, and firefighting equipment in Mohali. Trusted fire engineering company offering durable fire safety solutions for homes, offices, and industries."
-    />
-    <meta name="twitter:image" content="https://ak_fire_engineering.jpg" />
+  <!-- Verification -->
+  <meta name="google-site-verification" content="replace-this-with-your-google-verification-code" />
+  <meta name="yandex-verification" content="replace-this-with-your-yandex-verification-code" />
 
-    <!-- Robots -->
-    <meta name="robots" content="index, follow" />
-    <meta
-      name="googlebot"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="yahooSeeker"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="msnbot"
-      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-    />
-    <meta
-      name="yandexBot"
-      content="index, follow, max-snippet:-1, max-image-preview:large"
-    />
-    <meta name="duckDuckBot" content="index, follow" />
-    <meta name="baiduSpider" content="index, follow" />
+  <!-- Favicon (kept as per your other pages) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/A.K.icon.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://akfireengineering.in/image/logo/apple-touch-icon.png" />
+  <link rel="manifest" href="https://akfireengineering.in/image/logo/site.webmanifest" />
 
-    <!-- Verification -->
-    <meta
-      name="google-site-verification"
-      content="replace-this-with-your-google-verification-code"
-    />
-    <meta
-      name="yandex-verification"
-      content="replace-this-with-your-yandex-verification-code"
-    />
+  <!-- Robots control for various crawlers -->
+  <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yahooSeeker" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="msnbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+  <meta name="yandexBot" content="index,follow,max-snippet:-1,max-image-preview:large" />
+  <meta name="duckDuckBot" content="index,follow" />
+  <meta name="baiduSpider" content="index,follow" />
 
-    <!-- Other Meta -->
-    <meta name="author" content="Nikhil" />
-    <meta name="publisher" content="A.K. Fire Engineering" />
-    <meta name="google" content="notranslate" />
-    <meta name="geo.region" content="IN-PB" />
-    <meta name="geo.placename" content="Mohali" />
-    <meta name="geo.position" content="30.666366;76.719084" />
-    <meta name="ICBM" content="30.666366,76.719084" />
-    <meta
-      name="DC.title"
-      content="Fire Hose Couplings, Valves & Safety Equipment"
-    />
-    <meta name="distribution" content="global" />
-    <meta name="copyright" content="©A.K. Fire Engineering" />
-    <meta name="language" content="en" />
-    <meta name="rating" content="General" />
-    <meta name="expires" content="never" />
-    <meta name="HandheldFriendly" content="true" />
-    <meta name="mobileoptimized" content="320" />
-    <meta name="theme-color" content="#0d6efd" />
-    <meta name="document-type" content="public" />
-    <meta name="country" content="India" />
-    <meta name="state" content="Punjab" />
-    <meta name="city" content="Mohali" />
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="assets/css/icons.min.css" />
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/responsive.css" />
 
-    <!-- CSS Files -->
-    <link rel="stylesheet" href="assets/css/icons.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
-    <link
-      rel="shortcut icon"
-      type="image/png"
-      href="assets/images/A.K.icon.png"
-    />
+  <!-- Color Schemes -->
+  <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color2.css" title="color2" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color3.css" title="color3" />
+  <link rel="alternate stylesheet" href="assets/css/colors/color4.css" title="color4" />
 
-    <!-- Color Schemes -->
-    <link rel="stylesheet" href="assets/css/colors/color.css" title="color" />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color2.css"
-      title="color2"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color3.css"
-      title="color3"
-    />
-    <link
-      rel="alternate stylesheet"
-      href="assets/css/colors/color4.css"
-      title="color4"
-    />
-  </head>
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+
   <body itemscope>
     <div class="preloader">
       <div class="loader-inner ball-scale-multiple">
@@ -299,12 +205,11 @@
                     <div class="blog-detail-desc">
                       <h3>
                         Ultimate <span class="theme-clr">Fire Suppression</span>
-                         Systems in Punjab
+                         Systems
                       </h3>
 
                       <p itemprop="description">
                         Protect your property with <strong>advanced fire suppression systems in Punjab</strong>. Our range includes <strong>automatic sprinklers, fire hydrants, wet and dry risers, fire hose reels, water mist systems, gas suppression systems</strong>, and <strong>foam systems for flammable liquids</strong>. Designed for homes, offices, and industrial spaces, these solutions provide <strong>reliable fire safety</strong> and <strong>peace of mind across Punjab</strong>.
-
                       </p>
                     </div>
                   </div>
@@ -335,8 +240,8 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            Our <strong>Automatic Sprinkler System in Punjab</strong> is designed to detect fire at an early stage and release water automatically to control or extinguish flames. Ideal for <strong>residential, commercial, and industrial spaces</strong>, this system ensures continuous protection and forms a vital part of any <strong>comprehensive fire suppression system</strong>.
-          </p>
+            Our <strong>Automatic Sprinkler System in Punjab</strong> is designed to detect fire at an early stage and release water automatically to control or extinguish flames. Ideal for <strong>residential, commercial, and industrial spaces</strong>, this system ensures continuous protection and forms a vital part of any <strong>comprehensive fire suppression system</strong>
+           </p>
         </div>
       </div>
 
@@ -363,8 +268,8 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            The <strong>Fire Hydrant System in Punjab</strong> provides a reliable water source for firefighting during emergencies. <strong>Easily accessible and highly efficient</strong>, it supports quick response in <strong>residential, commercial, and industrial areas</strong>. Integrating this system is essential for <strong>complete fire safety</strong> and <strong>compliance with local regulations</strong>.
-          </p>
+          The <strong>Fire Hydrant System in Punjab</strong> provides a reliable water source for firefighting during emergencies. <strong>Easily accessible and highly efficient</strong>, it supports quick response in <strong>residential, commercial, and industrial areas</strong>. Integrating this system is essential for <strong>complete fire safety</strong> and <strong>compliance with local regulations</strong>.
+        </p>
         </div>
       </div>
 
@@ -391,7 +296,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            Our <strong>Wet Riser System in Punjab</strong> is designed for buildings where fire-fighting water needs to be readily available on multiple floors. It ensures that fire suppression systems can respond immediately, helping to protect <strong>lives and property</strong> in <strong>high-rise residential and commercial buildings</strong>.
+          Our <strong>Wet Riser System in Punjab</strong> is designed for buildings where fire-fighting water needs to be readily available on multiple floors. It ensures that fire suppression systems can respond immediately, helping to protect <strong>lives and property</strong> in <strong>high-rise residential and commercial buildings</strong>
           </p>
         </div>
       </div>
@@ -447,7 +352,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            <strong>Fire Hose Reels in Punjab</strong> are essential for rapid on-site fire control. These reels provide a controlled water flow to tackle small fires immediately, enhancing the effectiveness of any <strong>automatic sprinkler</strong> or <strong>fire suppression system</strong>.
+          <strong>Fire Hose Reels in Punjab</strong> are essential for rapid on-site fire control. These reels provide a controlled water flow to tackle small fires immediately, enhancing the effectiveness of any <strong>automatic sprinkler</strong> or <strong>fire suppression system</strong>
           </p>
         </div>
       </div>
@@ -475,7 +380,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            The <strong>Water Mist System in Punjab</strong> uses fine water droplets to suppress fires effectively without causing damage to sensitive equipment. It is widely used in <strong>industrial, commercial, and residential areas</strong> as a <strong>modern, efficient component of fire suppression systems</strong>.
+          The <strong>Water Mist System in Punjab</strong> uses fine water droplets to suppress fires effectively without causing damage to sensitive equipment. It is widely used in <strong>industrial, commercial, and residential areas</strong> as a <strong>modern, efficient component of fire suppression systems</strong>
           </p>
         </div>
       </div>
@@ -503,7 +408,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            Our <strong>Gas Suppression System in Punjab (FM200, CO₂, Inergen, Novec 1230)</strong> provides rapid fire extinguishing without harming equipment or leaving residues. Perfect for <strong>data centers, server rooms, and industrial facilities</strong>, it is a key solution in <strong>advanced fire safety systems</strong>.
+          Our <strong>Gas Suppression System in Punjab (FM200, CO₂, Inergen, Novec 1230)</strong> provides rapid fire extinguishing without harming equipment or leaving residues. Perfect for <strong>data centers, server rooms, and industrial facilities</strong>, it is a key solution in <strong>advanced fire safety systems</strong>
           </p>
         </div>
       </div>
@@ -531,7 +436,7 @@
             itemprop="description"
             style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
           >
-            The <strong>Foam System in Punjab</strong> is designed to control and extinguish fires involving <strong>flammable liquids</strong> safely and efficiently. It is ideal for <strong>chemical plants, fuel stations, and industrial facilities</strong>, forming an integral part of any <strong>comprehensive fire suppression system</strong>.
+           The <strong>Foam System in Punjab</strong> is designed to control and extinguish fires involving <strong>flammable liquids</strong> safely and efficiently. It is ideal for <strong>chemical plants, fuel stations, and industrial facilities</strong>, forming an integral part of any <strong>comprehensive fire suppression system</strong>
           </p>
         </div>
       </div>
