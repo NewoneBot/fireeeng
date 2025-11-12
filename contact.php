@@ -14,7 +14,14 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 	
-	<link rel="shortcut icon" type="image/png" href="assets/images/A.K.icon.png"/>
+	<!-- Favicons -->
+<link rel="icon" href="assets/images/logo/favicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-512x512.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
 
     <!-- Color Scheme -->
     <link rel="stylesheet" href="assets/css/colors/color.css" title="color" /><!-- Color -->
@@ -80,7 +87,7 @@
                             </div>
                             <div class="col-md-4 col-sm-12 col-lg-4">
                                 <div class="cnt-inf-wrp">
-                                    <h4 itemprop="headline">Contact info</h4>
+                                    <h2 itemprop="headline">Contact info</h2>
                                     <ul class="cnt-inf-lst">
                                         <li><i class="fas fa-envelope theme-clr"></i> <strong>Email</strong><a href="#" title="" itemprop="url">akfire123@gmail.com</a></li>
                                         <li><i class="fas fa-map-marker-alt theme-clr"></i> <strong>Address</strong><span>SCO No. 251, Swastik Vihar, Patiala Road, Near Trinity Hospital, Zirakpur SAS Nagar, Mohali, Punjab</span></li>

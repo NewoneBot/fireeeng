@@ -88,17 +88,14 @@
     content="replace-this-with-your-yandex-verification-code"
   />
 
-  <!-- Favicon (kept exactly as you requested) -->
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/A.K.icon.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="https://freelancesociety.in/image/logo/apple-touch-icon.png"
-  />
-  <link
-    rel="manifest"
-    href="https://freelancesociety.in/image/logo/site.webmanifest"
-  />
+<!-- Favicons -->
+<link rel="icon" href="assets/images/logo/favicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-512x512.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
 
   <!-- Robots control for various crawlers -->
   <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
@@ -158,11 +155,11 @@
                     ><strong></strong> – Your Trusted
                     Partner in <strong>Fire Safety Equipment</strong></span
                   >
-                  <h2>
+                  <h1>
                     A.K.<span class="theme-clr">Fire</span> Engineering<br/>
 
                     <strong>(Contractors & Consultants)</strong>
-                  </h2>
+                  </h1>
                   <p>
                     <strong>A.K. Fire Engineering</strong>
                     Deal in Fire Alarm/Detection System,Security System,Wet 
@@ -263,7 +260,7 @@
                       </p>
 
                       <p>
-                        Our company also provides <strong>fire extinguisher refilling</strong> and ensures <strong>fast & affordable safety products & services fire safety solutions</strong>. Whether you’re searching for a <strong>fire extinguisher supplier near me</strong> or a <strong>dedicated fire extinguisher shop</strong>, we are your one-stop solution. Our mission is to provide <strong>high-quality fire protection backed by expert service</strong>, making us a <strong>trusted name in fire safety for over 15 years</strong>.
+                        The company provides services of designing, supplying, installation, testing and commissioning on turnkey basis:- deals in leading brands of  <strong>fire extinguisher </strong> <strong>Annual maintained contract (A.M.C)</strong> for firefighting, Portable and <strong>Trolley mounted  Fire Extinguishers,</strong> Fire Fighting Hydrant System,Sprinkler System,Conventional and Manual Fire Alarm Systems, PA system, Talk Back System, Foam Flooding System,CO2 Gas Flooding System, Fire Suppression System (FM-200) for electrical panels & Refilling of Fire Extinguisher.
                       </p>
                     </div>
                   </div>
@@ -294,7 +291,7 @@
         <div style="font-size: 40px; color: #0d6efd; margin-bottom: 15px;">
           <i class="fas fa-fire-extinguisher"></i>
         </div>
-        <h5 style="font-weight: 600; margin-bottom: 10px;">Installation Safety</h5>
+        <h3 style="font-weight: 600; margin-bottom: 10px;">Installation Safety</h3>
         <p style="font-size: 0.95rem; color: #333;">
           Always <strong>install fire extinguishers</strong> and consult <strong>trusted fire engineering services</strong> to prevent <strong>small fires from becoming disasters</strong> in homes and offices.
 
@@ -308,7 +305,7 @@
         <div style="font-size: 40px; color: #198754; margin-bottom: 15px;">
           <i class="fas fa-search"></i>
         </div>
-        <h5 style="font-weight: 600; margin-bottom: 10px;">Regular Inspections</h5>
+        <h3 style="font-weight: 600; margin-bottom: 10px;">Regular Inspections</h3>
         <p style="font-size: 0.95rem; color: #333;">
           Schedule <strong>regular checks</strong> with a <strong>trusted fire engineering supplier</strong> to ensure your <strong>equipment is in working condition</strong>.
         </p>
@@ -321,7 +318,7 @@
         <div style="font-size: 40px; color: #ffc107; margin-bottom: 15px;">
           <i class="fas fa-sync-alt"></i> <!-- Changed icon -->
         </div>
-        <h5 style="font-weight: 600; margin-bottom: 10px;">Maintenance & Refilling</h5>
+        <h4 style="font-weight: 600; margin-bottom: 10px;">Maintenance & Refilling</h4>
         <p style="font-size: 0.95rem; color: #333;">
           Never ignore <strong>routine fire extinguisher refilling</strong>, as an <strong>expired unit may fail during emergencies</strong>.Never ignore <strong>routine fire extinguisher refilling</strong>, as an <strong>expired unit may fail during emergencies</strong>.
         </p>
@@ -334,7 +331,7 @@
         <div style="font-size: 40px; color: #dc3545; margin-bottom: 15px;">
           <i class="fas fa-shield-alt"></i>
         </div>
-        <h5 style="font-weight: 600; margin-bottom: 10px;">Comprehensive Protection</h5>
+        <h4 style="font-weight: 600; margin-bottom: 10px;">Comprehensive Protection</h4>
         <p style="font-size: 0.95rem; color: #333;">
           Ensure your premises are equipped with <strong>fire hydrant systems</strong>, <strong>fire alarm systems </strong>, <strong>automatic fire sprinkler systems</strong>, and <strong>fire suppression systems</strong> for <strong>full-scale fire protection</strong>
         </p>
@@ -855,19 +852,16 @@
                     <div class="row">
                       <div class="col-md-6 col-sm-6 col-lg-6">
                         <div class="blg-bx">
-                          <div class="blg-thmb">
-                            <a
-                              href="blog-detail.html"
-                              title="Importance of Fire Extinguisher Maintenance"
-                              itemprop="url"
-                            >
-                              <img
-                                src="assets/images/resources/blg-img1-1.jpg"
-                                alt="Fire Extinguisher Maintenance Tips by A.K. Fire Engineering"
-                                itemprop="image"
-                              />
-                            </a>
-                          </div>
+<div class="blg-thmb">
+  <video 
+    style="width: 300px; object-fit: cover;" 
+    controls 
+    poster="assets/images/blogs/b1_p.png">
+    <source src="assets/images/blogs/b1.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
+
                           <div class="blg-inf">
                             <h6 itemprop="headline">
                               <a
@@ -875,13 +869,13 @@
                                 title="Fire Extinguisher Maintenance Tips"
                                 itemprop="url"
                               >
-                                Importance of Fire Extinguisher Maintenance
+                                The fire‑drill at the city centre in Mohali:
                               </a>
                             </h6>
                             <ul class="pst-mta">
                               <li>
                                 <i class="far fa-calendar-alt"></i
-                                ><a href="#" itemprop="url">Sept 20, 2024</a>
+                                ><a href="#" itemprop="url">Sept 20, 2025</a>
                               </li>
                               <li>
                                 <i class="fas fa-user"></i
@@ -891,14 +885,10 @@
                               </li>
                             </ul>
                             <p itemprop="description">
-                              Regular
-                              <strong>fire extinguisher inspections</strong> are
-                              essential to ensure safety in workplaces and
-                              homes. Learn how to check your extinguishers and
-                              maintain them effectively.
+                              AK Fire Engineering recently led a thorough fire safety drill at the city centre in Mohali, designed to enhance readiness across all departments and stakeholders.
                             </p>
                             <a
-                              href="blog-detail.html"
+                              href="blog.php"
                               title="Read More on Fire Extinguisher Maintenance"
                               itemprop="url"
                               >Read More</a
@@ -910,18 +900,15 @@
                       <div class="col-md-6 col-sm-6 col-lg-6">
                         <div class="blg-bx">
                           <div class="blg-thmb">
-                            <a
-                              href="blog-detail.html"
-                              title="Top Fire Safety Equipment Every Building Needs"
-                              itemprop="url"
-                            >
-                              <img
-                                src="assets/images/resources/blg-img1-2.jpg"
-                                alt="Essential Fire Safety Equipment by A.K. Fire Engineering"
-                                itemprop="image"
-                              />
-                            </a>
-                          </div>
+  <video 
+    style="width: 300px; object-fit: cover;" 
+    controls 
+    poster="assets/images/blogs/b2_p.png">
+    <source src="assets/images/blogs/b2.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
+
                           <div class="blg-inf">
                             <h6 itemprop="headline">
                               <a
@@ -929,13 +916,13 @@
                                 title="Fire Safety Equipment Guide"
                                 itemprop="url"
                               >
-                                Top Fire Safety Equipment Every Building Needs
+                                Fire‑Safety Drill at Ortech Textiles Pvt Ltd, Mohali
                               </a>
                             </h6>
                             <ul class="pst-mta">
                               <li>
                                 <i class="far fa-calendar-alt"></i
-                                ><a href="#" itemprop="url">Oct 5, 2024</a>
+                                ><a href="#" itemprop="url">Oct 5, 2025</a>
                               </li>
                               <li>
                                 <i class="fas fa-user"></i
@@ -945,14 +932,10 @@
                               </li>
                             </ul>
                             <p itemprop="description">
-                              Discover the most important
-                              <strong>fire safety equipment</strong> — from
-                              <strong>fire alarms</strong> to
-                              <strong>hydrant systems</strong> — every business
-                              should install for maximum protection.
+                              Recently, Ortech Textiles Pvt Ltd in Mohali organised a comprehensive fire‑safety drill to ensure that the industrial facility is fully prepared for any emergency.
                             </p>
                             <a
-                              href="blog-detail.html"
+                              href="blog.php"
                               title="Read More on Fire Safety Equipment"
                               itemprop="url"
                               >Read More</a
@@ -984,13 +967,13 @@
                             title="Fire Safety Training Workshop"
                             itemprop="url"
                           >
-                            Fire Safety Training Workshop
+                            Fire Drill at City Center
                           </a>
                         </h5>
                         <ul class="pst-mta">
                           <li>
                             <i class="fas fa-map-marker-alt theme-clr"></i
-                            >Delhi, India
+                            >Mohali, Punjab
                           </li>
                           <li>
                             <i class="far fa-clock theme-clr"></i>10:00 am -
@@ -998,16 +981,11 @@
                           </li>
                         </ul>
                         <p itemprop="description">
-                          Join <strong>A.K. Fire Engineering</strong> for an
-                          interactive workshop on
-                          <strong>fire safety awareness</strong> and
-                          <strong>emergency response</strong>. Learn how to
-                          handle fire emergencies and use extinguishers
-                          correctly.
+                          AK Fire Engineering recently led a thorough fire safety drill at the city centre in Mohali, designed to enhance readiness across all departments and stakeholders.
                         </p>
                         <a
                           class="event-btn"
-                          href="event-detail.html"
+                          href="blog.php"
                           title="Read More about Fire Safety Workshop"
                           itemprop="url"
                           >Read More</a
@@ -1022,7 +1000,7 @@
                           href="#"
                           title="Fire Prevention Week Event"
                           itemprop="url"
-                          >25<i>Oct</i></a
+                          >5<i>Oct</i></a
                         >
                       </span>
                       <div class="evnt-inf">
@@ -1032,13 +1010,14 @@
                             title="Fire Prevention Week Event"
                             itemprop="url"
                           >
-                            Fire Prevention Week 2024
+                            
+                         Fire‑Safety Drill at Ortech Textiles Pvt Ltd
                           </a>
                         </h5>
                         <ul class="pst-mta">
                           <li>
                             <i class="fas fa-map-marker-alt theme-clr"></i
-                            >Gurugram, India
+                            >Moholi, Punjab
                           </li>
                           <li>
                             <i class="far fa-clock theme-clr"></i>09:00 am -
@@ -1046,11 +1025,7 @@
                           </li>
                         </ul>
                         <p itemprop="description">
-                          Celebrate
-                          <strong>National Fire Prevention Week</strong> with
-                          <strong>A.K. Fire Engineering</strong>. Explore our
-                          latest <strong>firefighting products</strong>, attend
-                          demos, and participate in safety drills.
+                          Recently, Ortech Textiles Pvt Ltd in Mohali organised a comprehensive fire‑safety drill to ensure that the industrial facility is fully prepared for any emergency.
                         </p>
                         <a
                           class="event-btn"

@@ -89,17 +89,15 @@
     content="replace-this-with-your-yandex-verification-code"
   />
 
-  <!-- Favicon (kept same as you wanted) -->
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/A.K.icon.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="https://akfireengineering.in/image/logo/apple-touch-icon.png"
-  />
-  <link
-    rel="manifest"
-    href="https://akfireengineering.in/image/logo/site.webmanifest"
-  />
+  
+<!-- Favicons -->
+<link rel="icon" href="assets/images/logo/favicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-512x512.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
 
   <!-- Robots control for various crawlers -->
   <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
@@ -166,13 +164,14 @@
                             </div><!-- Sec Title -->
                             <div class="abt-desc">
                                 <p itemprop="description">
-                                    Established in 2008, our company has been a trusted provider of fire safety and protection equipment in. For over 15 years, we have specialized in supplying a wide range of fire extinguishers, refilling services, fire protection systems, and other essential safety equipment to homes, offices, and industries across the city.
+                                    A.K.Fire engineering an enlisted company U.T. Chandigarh is highly acclaimed as one of the leading <strong>Fire Fighting & Alarm System</strong> Engineering and Consultation organization Mr.Kaushal Kishore is managing director of the company.
                                 </p>
                                 <p itemprop="description">
-                                    Our mission is to ensure the safety and security of every client by delivering high-quality, certified fire safety products and reliable services. With a strong focus on customer satisfaction, prompt support, and expert guidance, we have earned a reputation as a trusted fire safety solutions provider in.
-                                </p>
+                                    It has highly capable team of engineers which provides the clients with expert advice on the type of <strong>Fire Fighting & Alarm System</strong> according to their needs.Its services are available round-the-clock for any support required. It has high tech systems with joint bencher of some leading manufacturer of Fire Equipments word class companies to cater to modern day requirements of any organization.
+                                  </p>
                                 <p itemprop="description">
-                                    From portable fire extinguishers to industrial fire protection systems, our comprehensive product range meets the diverse needs of clients, ensuring peace of mind and compliance with safety standards.                                </p>
+                                    The main motive of the company is to create awareness of the essentialities attached to a <strong>Fire Fighting & Alarm System</strong> an important requisite in everyday life.
+                                </p>
                                 
                             </div>
                         </div>
@@ -204,21 +203,21 @@
                     <div class="col-md-7 col-sm-12 col-lg-7">
                         <div class="abt-cnt">
                             <div class="sec-tl">
-                                <h2 itemprop="headline"><strong>Our Values</strong></h2>
+                                <h3 itemprop="headline"><strong>Our Values</strong></h3>
                             </div><!-- Sec Title -->
                             <div class="abt-desc">
                                 <p itemprop="description">
 At the core of our work is an unwavering commitment to <strong>safety</strong>, <strong>reliability</strong>, and <strong>service excellence</strong>. We value <strong>customer trust</strong>, <strong>product quality</strong>, and <strong>prompt support</strong>. Every extinguisher we supply or refill reflects our dedication to protecting lives and property.                                </p>
                             </div>
                              <div class="sec-tl">
-                                <h2 itemprop="headline"><strong>Our Mission</strong></h2>
+                                <h3 itemprop="headline"><strong>Our Mission</strong></h3>
                             </div><!-- Sec Title -->
                             <div class="abt-desc">
                                 <p itemprop="description">
 To provide <strong>high-quality fire extinguishers</strong> and <strong>comprehensive fire safety solutions</strong> across Punjab. We aim to make fire protection <strong>affordable</strong>, <strong>accessible</strong>, and <strong>understandable</strong> for every home, office, and industry. Our mission is to create <strong>fire-safe environments</strong> through reliable products and expert guidance.
                             </div>
                              <div class="sec-tl">
-                                <h2 itemprop="headline"><strong>Our Vision</strong></h2>
+                                <h3 itemprop="headline"><strong>Our Vision</strong></h3>
                             </div><!-- Sec Title -->
                             <div class="abt-desc">
                                 <p itemprop="description">
@@ -239,7 +238,10 @@ To become the <strong>leading fire extinguisher supplier</strong> and <strong>fi
         <div class="fixed-bg" style="background-image: url(assets/images/para-new.jpg);"></div>
         <div class="sec-tl text-center">
             <span>Top Quality Fire Safety Products from <strong>A.K. Fire Engineering</strong></span>
-            <h2 itemprop="headline">Our Products</h2>
+            <h4 style="font-weight: 600; margin-bottom: 10px; color: #fff; font-size: 2rem;">
+  Our Products
+</h4>
+
         </div><!-- Sec Title -->
 
         <div class="vdo-sec-wrp">

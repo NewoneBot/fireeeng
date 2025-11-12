@@ -94,22 +94,14 @@
     content="replace-this-with-your-yandex-verification-code"
   />
 
-  <!-- Favicon (unchanged) -->
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="assets/images/A.K.icon.png"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="https://akfireengineering.in/image/logo/apple-touch-icon.png"
-  />
-  <link
-    rel="manifest"
-    href="https://akfireengineering.in/image/logo/site.webmanifest"
-  />
+<!-- Favicons -->
+<link rel="icon" href="assets/images/logo/favicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-512x512.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
 
   <!-- Robots control for various crawlers -->
   <meta
@@ -472,7 +464,8 @@
         <div class="gap remove-gap">
           <div class="container">
             <div class="sec-tl">
-              <span>best-fire-extinguisher-dealer-mohali-punjab</span>
+              <h4 style="font-size: 1.25rem; font-weight: 500; color: #6c757d; margin-bottom: 10px;">
+best-fire-extinguisher-dealer-mohali-punjab</h4>
               <h2 itemprop="headline">Frequently Asked Questions</h2>
             </div>
             <!-- Sec Title -->

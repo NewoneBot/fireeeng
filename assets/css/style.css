@@ -3604,7 +3604,7 @@ footer .gap {
   display:none;
 }
 .featured-cap > span + h2 {margin-top: -10px;}
-.featured-cap > h2 {
+.featured-cap > h1 {
   margin-bottom: 0;
   color: #fff;
   font-size: 58px;
