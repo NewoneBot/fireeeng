@@ -758,6 +758,242 @@
         </div>
       </section>
 
+      <section id="site-work" aria-label="AK Fire Engineering - Site Work" style="padding:48px 0; background:#f8f9fa;">
+  <div class="container" style="max-width:1100px;">
+    <div class="d-flex align-items-start justify-content-between" style="margin-bottom:22px;">
+      <div>
+        <h2 style="margin:0; font-size:28px; font-weight:700; letter-spacing:0.2px;">Our Site Work — Companies</h2>
+        <p style="margin:6px 0 0; color:#6c757d; font-size:14px;">
+          Companies & institutions where A.K. Fire Engineering performed site works.
+        </p>
+      </div>
+      <div style="align-self:center;">
+        <a href="contact.php" class="btn" style="background:#0d6efd; color:white; padding:8px 14px; border-radius:8px; text-decoration:none; font-weight:600;">
+          Contact for Work
+        </a>
+      </div>
+    </div>
+
+    <!-- Grid of company cards -->
+    <div class="row g-3">
+      <!-- Card template: update text exactly as you want -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              1
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Indiana Holiday Home</div>
+              <div style="font-size:13px; color:#6c757d;">Sector 24-B, Chandigarh</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Site work carried out for fire safety & equipment installation.
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              2
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Ontech Textiles Pvt. Ltd.</div>
+              <div style="font-size:13px; color:#6c757d;">Sector 56-A, Mohali</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Fire system installation & inspection for textile plant areas.
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              3
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Shri Guru Ramdass Educational Society</div>
+              <div style="font-size:13px; color:#6c757d;">Landran, Dist. Mohali</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Educational campus fire safety works and equipment supply.
+          </div>
+        </div>
+      </div>
+
+      <!-- 4 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              4
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Bhakra Beas Management Board</div>
+              <div style="font-size:13px; color:#6c757d;">Sector 19-B, Chandigarh</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Fire protection & emergency planning for board facilities.
+          </div>
+        </div>
+      </div>
+
+      <!-- 5 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              5
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Hindustan Times Employees Co-op H.B. Society Ltd.</div>
+              <div style="font-size:13px; color:#6c757d;">SAS Nagar (Mohali)</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Residential society fire audits & electrical safety checks.
+          </div>
+        </div>
+      </div>
+
+      <!-- 6 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              6
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Romsons Medsource</div>
+              <div style="font-size:13px; color:#6c757d;">Phase 8B, Sector 90, Mohali</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Medical facility fire safety equipment & fittings.
+          </div>
+        </div>
+      </div>
+
+      <!-- 7 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              7
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Yadavindra Public School</div>
+              <div style="font-size:13px; color:#6c757d;">Patiala</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Campus fire safety checks and equipment commissioning.
+          </div>
+        </div>
+      </div>
+
+      <!-- 8 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              8
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Thapar Institute of Engineering & Technology</div>
+              <div style="font-size:13px; color:#6c757d;">Patiala</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Large campus fire alarm & hydrant system work.
+          </div>
+        </div>
+      </div>
+
+      <!-- 9 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              9
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Cheema Boilers Ltd.</div>
+              <div style="font-size:13px; color:#6c757d;">Phase VIII-B, Sector 74, Mohali</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Industrial boiler area fire safety retrofit & hydrants.
+          </div>
+        </div>
+      </div>
+
+      <!-- 10 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              10
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Chandigarh Distilleries & Bottlers Ltd.</div>
+              <div style="font-size:13px; color:#6c757d;">(Industrial site)</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Fire risk assessment and firefighting systems for plant.
+          </div>
+        </div>
+      </div>
+
+      <!-- 11 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              11
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Alco Spirit Ltd.</div>
+              <div style="font-size:13px; color:#6c757d;">Kundla (Sirmour), Himachal Pradesh</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Alcohol/distillery site fire detection & safety works.
+          </div>
+        </div>
+      </div>
+
+      <!-- 12 -->
+      <div class="col-12 col-md-6 col-lg-4 p-2">
+        <div style="border-radius:10px; padding:16px; background:white; box-shadow:0 6px 18px rgba(16,24,40,0.06); height:100%;">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+            <div style="width:46px; height:46px; border-radius:8px; background:#eef5ff; display:flex; align-items:center; justify-content:center; font-weight:700; color:#0d6efd;">
+              12
+            </div>
+            <div>
+              <div style="font-weight:700; font-size:15px;">Punjab PWD - Electrical Department</div>
+              <div style="font-size:13px; color:#6c757d;">Sector 7, Chandigarh</div>
+            </div>
+          </div>
+          <div style="margin-top:8px; font-size:13px; color:#495057;">
+            Government electrical & fire safety coordination projects.
+          </div>
+        </div>
+      </div>
+
+    </div> <!-- /row -->
+  </div>
+</section>
+
       <section style="padding: 60px 0; background-color: #f8f9fa;">
   <div class="container">
     <!-- Section Heading -->
