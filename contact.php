@@ -89,7 +89,7 @@
                                 <div class="cnt-inf-wrp">
                                     <h2 itemprop="headline">Contact info</h2>
                                     <ul class="cnt-inf-lst">
-                                        <li><i class="fas fa-envelope theme-clr"></i> <strong>Email</strong><a href="#" title="" itemprop="url">akfire123@gmail.com</a></li>
+                                        <li><i class="fas fa-envelope theme-clr"></i> <strong>Email</strong><a href="#" title="" itemprop="url">akfire_engineering@yahoo.com</a></li>
                                         <li><i class="fas fa-map-marker-alt theme-clr"></i> <strong>Address</strong><span>SCO No. 251, Swastik Vihar, Patiala Road, Near Trinity Hospital, Zirakpur SAS Nagar, Mohali, Punjab</span></li>
                                         <li><i class="fas fa-phone theme-clr"></i> <strong>Phone</strong><span>+91 9417246711</span><span>+91 9316004149</span></li>
                                     </ul>

@@ -333,34 +333,6 @@
         </div>
       </div>
 
-      <!-- Fire Hose Reels -->
-      <div class="row align-items-center py-4">
-        <div class="col-md-6 text-center order-1 order-md-1">
-          <img
-            src="assets/images/products/FireHoseReels.jpeg"
-            alt="Fire Hose Reels"
-            style="
-              width: 100%;
-              max-width: 300px;
-              height: 250px;
-              border-radius: 12px;
-              box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-            "
-          />
-        </div>
-        <div class="col-md-6 order-2 order-md-2">
-          <h3 style="font-weight: 700; color: #222">
-            <span class="theme-clr">Fire Hose</span> Reels
-          </h3>
-          <p
-            itemprop="description"
-            style="margin-top: 15px; font-size: 16px; line-height: 1.7; color: #555;"
-          >
-          <strong>Fire Hose Reels in Punjab</strong> are essential for rapid on-site fire control. These reels provide a controlled water flow to tackle small fires immediately, enhancing the effectiveness of any <strong>automatic sprinkler</strong> or <strong>fire suppression system</strong>
-          </p>
-        </div>
-      </div>
-
       <!-- Water Mist System -->
       <div class="row align-items-center py-4">
         <div class="col-md-6 text-center order-1 order-md-2">

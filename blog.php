@@ -59,25 +59,34 @@
       </div>
     </section>
     <section>
-      <div class="gap">
-        <div class="container">
-          <div class="blg-sec remove-ext5">
-            <div class="row">
-              <!-- Blog 1 -->
-              <div class="col-md-3 col-sm-6 col-lg-3">
-                <div class="blg-bx">
+  <div class="gap">
+    <div class="container">
+      <div class="blg-sec remove-ext5">
+
+        <div class="row">
+
+          <!-- Blog 1 (Video left | Content right) -->
+          <div class="col-12">
+            <div class="blg-bx" style="border:1px solid #eee; border-radius:10px; padding:12px; margin-bottom:20px;">
+              <div class="row align-items-start g-2">
+                <!-- Video -->
+                <div class="col-12 col-md-6">
                   <div class="blg-thmb">
-                    <video style="width: 300px; object-fit: cover;" controls poster="assets/images/blogs/b1_p.png">
+                    <video style="width:100%; height:100%; max-height:360px; object-fit:cover; border-radius:8px;"
+                      controls poster="assets/images/blogs/b1_p.png">
                       <source src="assets/images/blogs/b1.mp4" type="video/mp4" />
                       Your browser does not support the video tag.
                     </video>
                   </div>
+                </div>
 
-                  <!-- START: Blog 1 content with inline CSS toggle -->
-                  <div class="blg-inf" style="font-family: Arial, sans-serif; line-height:1.6; color:#333; padding:12px;">
+                <!-- Content -->
+                <div class="col-12 col-md-6">
+                  <div class="blg-inf" style="font-family: Arial, sans-serif; line-height:1.6; color:#333; padding:6px;">
                     <h6 itemprop="headline" style="font-weight:700; margin-bottom:8px;">
                       <strong>The fire-drill conducted by AK Fire Engineering at the city centre in Mohali</strong>
                     </h6>
+
                     <ul class="pst-mta" style="list-style:none; padding:0; margin:0 0 10px 0; color:#777; font-size:13px;">
                       <li style="display:inline-block; margin-right:10px;"><i class="far fa-calendar-alt"></i> Oct 06, 2025</li>
                     </ul>
@@ -131,26 +140,23 @@
                       }
                     </style>
                   </div>
-                  <!-- END: Blog 1 content -->
-
                 </div>
               </div>
+            </div>
+          </div>
 
-              <!-- Blog 2 -->
-              <div class="col-md-3 col-sm-6 col-lg-3">
-                <div class="blg-bx">
-                  <div class="blg-thmb">
-                    <video style="width: 300px; object-fit: cover;" controls poster="assets/images/blogs/b2_p.png">
-                      <source src="assets/images/blogs/b2.mp4" type="video/mp4" />
-                      Your browser does not support the video tag.
-                    </video>
-                  </div>
+          <!-- Blog 2 (Video left | Content right) -->
+          <div class="col-12">
+            <div class="blg-bx" style="border:1px solid #eee; border-radius:10px; padding:12px; margin-bottom:20px;">
+              <div class="row align-items-start g-2">
 
-                  <!-- START: Blog 2 content with inline CSS toggle -->
-                  <div class="blg-inf" style="font-family: Arial, sans-serif; line-height:1.6; color:#333; padding:12px;">
+              <!-- Content -->
+                <div class="col-12 col-md-6">
+                  <div class="blg-inf" style="font-family: Arial, sans-serif; line-height:1.6; color:#333; padding:6px;">
                     <h6 itemprop="headline" style="font-weight:700; margin-bottom:8px;">
                       <strong>Fire-Safety Drill at Ortech Textiles Pvt Ltd, Mohali</strong>
                     </h6>
+
                     <ul class="pst-mta" style="list-style:none; padding:0; margin:0 0 10px 0; color:#777; font-size:13px;">
                       <li style="display:inline-block; margin-right:10px;"><i class="far fa-calendar-alt"></i> Oct 17, 2025</li>
                     </ul>
@@ -201,26 +207,45 @@
                       }
                     </style>
                   </div>
-                  <!-- END: Blog 2 content -->
-
                 </div>
-              </div>
-
-              <!-- Blog 3 -->
-              <div class="col-md-3 col-sm-6 col-lg-3">
-                <div class="blg-bx">
+                <!-- Video -->
+                <div class="col-12 col-md-6">
                   <div class="blg-thmb">
-                    <video style="width: 300px; object-fit: cover;" controls poster="assets/images/blogs/b3_p.png">
+                    <video style="width:100%; height:100%; max-height:360px; object-fit:cover; border-radius:8px;"
+                      controls poster="assets/images/blogs/b2_p.png">
+                      <source src="assets/images/blogs/b2.mp4" type="video/mp4" />
+                      Your browser does not support the video tag.
+                    </video>
+                  </div>
+                </div>
+
+                
+              </div>
+            </div>
+          </div>
+
+          <!-- Blog 3 (Video left | Content right) -->
+          <div class="col-12">
+            <div class="blg-bx" style="border:1px solid #eee; border-radius:10px; padding:12px; margin-bottom:20px;">
+              <div class="row align-items-start g-2">
+                <!-- Video -->
+                <div class="col-12 col-md-6">
+                  <div class="blg-thmb">
+                    <video style="width:100%; height:100%; max-height:360px; object-fit:cover; border-radius:8px;"
+                      controls poster="assets/images/blogs/b3_p.png">
                       <source src="assets/images/blogs/b3.mp4" type="video/mp4" />
                       Your browser does not support the video tag.
                     </video>
                   </div>
+                </div>
 
-                  <!-- START: Blog 3 content with inline CSS toggle -->
-                  <div class="blg-inf" style="font-family: Arial, sans-serif; line-height:1.6; color:#333; padding:12px;">
+                <!-- Content -->
+                <div class="col-12 col-md-6">
+                  <div class="blg-inf" style="font-family: Arial, sans-serif; line-height:1.6; color:#333; padding:6px;">
                     <h6 itemprop="headline" style="font-weight:700; margin-bottom:8px;">
                       <strong>Town Planner, Haryana in Sector 18-A, Chandigarh</strong>
                     </h6>
+
                     <ul class="pst-mta" style="list-style:none; padding:0; margin:0 0 10px 0; color:#777; font-size:13px;">
                       <li style="display:inline-block; margin-right:10px;"><i class="far fa-calendar-alt"></i> Nov 02, 2025</li>
                     </ul>
@@ -271,16 +296,18 @@
                       }
                     </style>
                   </div>
-                  <!-- END: Blog 3 content -->
-
                 </div>
               </div>
-
             </div>
-          </div><!-- Blog Sec -->
-        </div>
-      </div>
-    </section>
+          </div>
+
+        </div> <!-- /.row -->
+
+      </div> <!-- /.blg-sec -->
+    </div> <!-- /.container -->
+  </div> <!-- /.gap -->
+</section>
+
 
 
     <!-- footer -->

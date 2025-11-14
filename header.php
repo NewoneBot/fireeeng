@@ -21,7 +21,7 @@
       <ul class="tp-lst float-right">
         <li>
           <i class="fas fa-envelope theme-clr"></i
-          ><a href="#" title="" itemprop="url">akfire123@gmail.com</a>
+          ><a href="#" title="" itemprop="url">akfire_engineering@yahoo.com</a>
         </li>
         <li><i class="flaticon-telephone theme-clr"></i>+91 9316004149</li>
       </ul>
@@ -78,6 +78,14 @@
                     title=""
                     itemprop="url"
                     >Fire Suppression</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="fire-hydrant-system-punjab.php"
+                    title=""
+                    itemprop="url"
+                    >Fire Hydrant</a
                   >
                 </li>
                 <li>
